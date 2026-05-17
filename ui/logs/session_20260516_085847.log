@@ -1,0 +1,45 @@
+# Kinmatech Robotics — session log
+# Started: 2026-05-16 08:57:04.452
+# Ended  : 2026-05-16 08:58:47
+# Entries: 40
+
+[2026-05-16 08:57:04.452] [SUCCESS] Hardware thread started @ 20 Hz
+[2026-05-16 08:57:04.452] [INFO] Motor commander thread started
+[2026-05-16 08:57:04.452] [WARNING] Hardware disconnected: Hardware connection unavailable
+[2026-05-16 08:57:04.452] [WARNING] Hardware connection unavailable
+[2026-05-16 08:57:04.452] [SUCCESS] Control thread started @ 100 Hz
+[2026-05-16 08:57:04.567] [SUCCESS] Hardware connected: Connected to robot hardware
+[2026-05-16 08:57:04.567] [SUCCESS] Hardware connection established
+[2026-05-16 08:57:04.567] [WARNING] Pendant disconnected
+[2026-05-16 08:57:05.034] [INFO] Initial TCP position calculated
+[2026-05-16 08:57:05.034] [SUCCESS] Kinmatech Robotics application started
+[2026-05-16 08:57:10.846] [SUCCESS] Robot connection established
+[2026-05-16 08:57:11.759] [PROGRAM] Teach mode activated - program editing enabled
+[2026-05-16 08:57:13.911] [DEBUG] Control loop: 100.1 Hz (target: 100 Hz)
+[2026-05-16 08:57:17.925] [WARNING] Pendant disconnected (suppressed 4 similar messages)
+[2026-05-16 08:57:23.966] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz)
+[2026-05-16 08:57:30.518] [PROGRAM] Program 'circus_swivel_50_shapes' loaded with 588 positions
+[2026-05-16 08:57:33.142] [ERROR] ✖ J4 near limit: 5326 frames (100.0%) within 10.0° of ±180.0° (worst: -180.0° at frame 19)
+[2026-05-16 08:57:33.182] [JOG] P2P to trajectory start position…
+[2026-05-16 08:57:33.182] [JOG] P2P → max Δ=230.1°, v=50.0°/s, t=4.60s, 116 frames
+[2026-05-16 08:57:33.182] [WARNING] Control loop overrun: 49.9 ms behind
+[2026-05-16 08:57:35.675] [WARNING] Pendant disconnected (suppressed 1 similar messages)
+[2026-05-16 08:57:37.830] [SUCCESS] P2P complete
+[2026-05-16 08:57:37.831] [PROGRAM] Playing program: capability_montage_joint_angles.ksm
+[2026-05-16 08:57:43.909] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz) (suppressed 1 similar messages)
+[2026-05-16 08:57:46.105] [WARNING] Pendant disconnected
+[2026-05-16 08:57:53.913] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz)
+[2026-05-16 08:57:56.524] [WARNING] Pendant disconnected
+[2026-05-16 08:58:06.927] [WARNING] Pendant disconnected
+[2026-05-16 08:58:13.919] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz) (suppressed 1 similar messages)
+[2026-05-16 08:58:17.343] [WARNING] Pendant disconnected
+[2026-05-16 08:58:27.700] [WARNING] Pendant disconnected
+[2026-05-16 08:58:30.234] [JOG] Moving to Home position (P2P)
+[2026-05-16 08:58:30.234] [JOG] Unwinding wrist rotations before homing...
+[2026-05-16 08:58:30.234] [JOG] P2P → max Δ=180.0°, v=50.0°/s, t=3.60s, 90 frames
+[2026-05-16 08:58:33.839] [SUCCESS] P2P complete
+[2026-05-16 08:58:33.840] [JOG] P2P → max Δ=82.1°, v=50.0°/s, t=1.64s, 42 frames
+[2026-05-16 08:58:33.909] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz) (suppressed 1 similar messages)
+[2026-05-16 08:58:35.521] [SUCCESS] P2P complete
+[2026-05-16 08:58:38.057] [WARNING] Pendant disconnected
+[2026-05-16 08:58:43.909] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz)

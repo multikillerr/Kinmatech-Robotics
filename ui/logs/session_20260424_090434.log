@@ -1,0 +1,81 @@
+# Kinmatech Robotics — session log
+# Started: 2026-04-24 08:59:22.679
+# Ended  : 2026-04-24 09:04:34
+# Entries: 76
+
+[2026-04-24 08:59:22.679] [SUCCESS] Hardware thread started @ 20 Hz
+[2026-04-24 08:59:22.680] [SUCCESS] Control thread started @ 100 Hz
+[2026-04-24 08:59:22.680] [INFO] Motor commander thread started
+[2026-04-24 08:59:22.778] [SUCCESS] Hardware connected: Connected to robot hardware
+[2026-04-24 08:59:22.778] [SUCCESS] Hardware connection established
+[2026-04-24 08:59:22.778] [WARNING] Pendant disconnected
+[2026-04-24 08:59:23.287] [INFO] Initial TCP position calculated
+[2026-04-24 08:59:23.287] [SUCCESS] Kinmatech Robotics application started
+[2026-04-24 08:59:27.764] [SUCCESS] Robot connection established
+[2026-04-24 08:59:30.102] [PROGRAM] Teach mode activated - program editing enabled
+[2026-04-24 08:59:32.164] [DEBUG] Control loop: 100.1 Hz (target: 100 Hz)
+[2026-04-24 08:59:35.997] [WARNING] Control loop overrun: 28.7 ms behind
+[2026-04-24 08:59:36.058] [WARNING] Pendant disconnected (suppressed 4 similar messages)
+[2026-04-24 08:59:41.787] [PROGRAM] Program 'shapes_demo' loaded with 174 positions
+[2026-04-24 08:59:42.164] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz)
+[2026-04-24 08:59:43.687] [PROGRAM] Starting path generation for 174 waypoints
+[2026-04-24 08:59:56.710] [SUCCESS] Path generated: 174 waypoints → 4785 servo points
+[2026-04-24 08:59:56.710] [WARNING] CURVE segment is shallow: max control-point deviation 0.02 mm over a 299.91 mm chord. It may look like a chamfer.
+[2026-04-24 08:59:56.799] [WARNING] Control loop overrun: 11.9 ms behind
+[2026-04-24 08:59:56.799] [WARNING] Pendant disconnected
+[2026-04-24 08:59:56.812] [DEBUG] Control loop: 99.0 Hz (target: 100 Hz)
+[2026-04-24 09:00:03.314] [WARNING] Control loop overrun: 5.2 ms behind (suppressed 2 similar messages)
+[2026-04-24 09:00:08.956] [WARNING] ⚠ Wrist singularity: J5 within ±5.0° of 0° for 53 frames (1.1%), first at frame 227 (J5=-4.70°)
+[2026-04-24 09:00:08.956] [ERROR] ✖ Frame 4780: J4 jumps 18.1° in one step (likely IK solution flip)
+[2026-04-24 09:00:08.957] [ERROR] ✖ J4 near limit: 116 frames (2.4%) within 10.0° of ±180.0° (worst: 199.2° at frame 1761)
+[2026-04-24 09:00:08.957] [ERROR] ✖ J6 near limit: 1864 frames (39.0%) within 10.0° of ±180.0° (worst: -359.9° at frame 1723)
+[2026-04-24 09:00:08.997] [JOG] P2P to trajectory start position…
+[2026-04-24 09:00:08.997] [JOG] P2P → max Δ=151.2°, v=50.0°/s, t=3.02s, 76 frames
+[2026-04-24 09:00:08.998] [WARNING] Control loop overrun: 26.7 ms behind
+[2026-04-24 09:00:12.053] [SUCCESS] P2P complete
+[2026-04-24 09:00:12.053] [PROGRAM] Dry run: shapes_demo_joint_angles.ksm
+[2026-04-24 09:00:12.193] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz) (suppressed 1 similar messages)
+[2026-04-24 09:00:15.380] [WARNING] Pendant disconnected (suppressed 2 similar messages)
+[2026-04-24 09:00:25.803] [WARNING] Pendant disconnected
+[2026-04-24 09:00:32.163] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz) (suppressed 1 similar messages)
+[2026-04-24 09:00:36.214] [WARNING] Pendant disconnected
+[2026-04-24 09:00:42.170] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz)
+[2026-04-24 09:00:46.580] [WARNING] Pendant disconnected
+[2026-04-24 09:00:52.173] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz)
+[2026-04-24 09:00:56.177] [WARNING] Control loop overrun: 5.5 ms behind
+[2026-04-24 09:00:56.989] [WARNING] Pendant disconnected
+[2026-04-24 09:01:02.177] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz)
+[2026-04-24 09:01:07.405] [WARNING] Pendant disconnected
+[2026-04-24 09:01:17.816] [WARNING] Pendant disconnected
+[2026-04-24 09:01:22.164] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz) (suppressed 1 similar messages)
+[2026-04-24 09:01:28.237] [WARNING] Pendant disconnected
+[2026-04-24 09:01:38.626] [WARNING] Pendant disconnected
+[2026-04-24 09:01:42.163] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz) (suppressed 1 similar messages)
+[2026-04-24 09:01:49.053] [WARNING] Pendant disconnected
+[2026-04-24 09:01:52.163] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz)
+[2026-04-24 09:01:59.448] [WARNING] Pendant disconnected
+[2026-04-24 09:02:02.174] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz)
+[2026-04-24 09:02:09.892] [WARNING] Pendant disconnected
+[2026-04-24 09:02:20.290] [WARNING] Pendant disconnected
+[2026-04-24 09:02:22.173] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz) (suppressed 1 similar messages)
+[2026-04-24 09:02:30.672] [WARNING] Pendant disconnected
+[2026-04-24 09:02:32.174] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz)
+[2026-04-24 09:02:41.099] [WARNING] Pendant disconnected
+[2026-04-24 09:02:42.178] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz)
+[2026-04-24 09:02:51.482] [WARNING] Pendant disconnected
+[2026-04-24 09:03:01.920] [WARNING] Pendant disconnected
+[2026-04-24 09:03:02.161] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz) (suppressed 1 similar messages)
+[2026-04-24 09:03:12.161] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz)
+[2026-04-24 09:03:12.345] [WARNING] Pendant disconnected
+[2026-04-24 09:03:22.163] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz)
+[2026-04-24 09:03:22.768] [WARNING] Pendant disconnected
+[2026-04-24 09:03:33.209] [WARNING] Pendant disconnected
+[2026-04-24 09:03:42.171] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz) (suppressed 1 similar messages)
+[2026-04-24 09:03:43.546] [WARNING] Pendant disconnected
+[2026-04-24 09:03:53.963] [WARNING] Pendant disconnected
+[2026-04-24 09:04:02.162] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz) (suppressed 1 similar messages)
+[2026-04-24 09:04:04.409] [WARNING] Pendant disconnected
+[2026-04-24 09:04:14.814] [WARNING] Pendant disconnected
+[2026-04-24 09:04:15.201] [SUCCESS] Trajectory playback finished
+[2026-04-24 09:04:22.161] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz) (suppressed 1 similar messages)
+[2026-04-24 09:04:25.153] [WARNING] Pendant disconnected

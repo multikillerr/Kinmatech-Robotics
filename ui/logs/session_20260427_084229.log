@@ -1,0 +1,793 @@
+# Kinmatech Robotics — session log
+# Started: 2026-04-26 20:58:40.484
+# Ended  : 2026-04-27 08:42:29
+# Entries: 788
+
+[2026-04-26 20:58:40.484] [SUCCESS] Hardware thread started @ 20 Hz
+[2026-04-26 20:58:40.484] [INFO] Motor commander thread started
+[2026-04-26 20:58:40.484] [WARNING] Hardware disconnected: Hardware connection unavailable
+[2026-04-26 20:58:40.484] [WARNING] Hardware connection unavailable
+[2026-04-26 20:58:40.484] [SUCCESS] Control thread started @ 100 Hz
+[2026-04-26 20:58:40.583] [SUCCESS] Hardware connected: Connected to robot hardware
+[2026-04-26 20:58:40.583] [SUCCESS] Hardware connection established
+[2026-04-26 20:58:40.583] [WARNING] Pendant disconnected
+[2026-04-26 20:58:40.600] [INFO] Initial TCP position calculated
+[2026-04-26 20:58:40.603] [SUCCESS] Kinmatech Robotics application started
+[2026-04-26 20:58:44.120] [SUCCESS] Robot connection established
+[2026-04-26 20:58:45.187] [PROGRAM] Teach mode activated - program editing enabled
+[2026-04-26 20:58:50.017] [DEBUG] Control loop: 100.1 Hz (target: 100 Hz)
+[2026-04-26 20:58:53.676] [WARNING] Pendant disconnected (suppressed 4 similar messages)
+[2026-04-26 20:58:55.156] [PROGRAM] Program 'capability_montage_50_distinct_cells' loaded with 592 positions
+[2026-04-26 20:58:56.788] [PROGRAM] Starting path generation for 592 waypoints
+[2026-04-26 20:59:04.470] [SUCCESS] Path generated: 592 waypoints → 4958 servo points
+[2026-04-26 20:59:04.541] [WARNING] Control loop overrun: 8.2 ms behind
+[2026-04-26 20:59:04.545] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz)
+[2026-04-26 20:59:04.547] [WARNING] Pendant disconnected
+[2026-04-26 20:59:09.197] [ERROR] ✖ J6 near limit: 460 frames (9.3%) within 10.0° of ±180.0° (worst: 213.9° at frame 514)
+[2026-04-26 20:59:09.238] [JOG] P2P to trajectory start position…
+[2026-04-26 20:59:09.238] [JOG] P2P → max Δ=185.8°, v=50.0°/s, t=3.72s, 93 frames
+[2026-04-26 20:59:12.968] [SUCCESS] P2P complete
+[2026-04-26 20:59:12.968] [PROGRAM] Dry run: capability_montage_joint_angles.ksm
+[2026-04-26 20:59:20.020] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz) (suppressed 1 similar messages)
+[2026-04-26 20:59:22.491] [WARNING] Pendant disconnected (suppressed 1 similar messages)
+[2026-04-26 20:59:30.023] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz)
+[2026-04-26 20:59:32.894] [WARNING] Pendant disconnected
+[2026-04-26 20:59:40.026] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz)
+[2026-04-26 20:59:43.287] [WARNING] Pendant disconnected
+[2026-04-26 20:59:53.688] [WARNING] Pendant disconnected
+[2026-04-26 21:00:00.032] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz) (suppressed 1 similar messages)
+[2026-04-26 21:00:04.101] [WARNING] Pendant disconnected
+[2026-04-26 21:00:14.527] [WARNING] Pendant disconnected
+[2026-04-26 21:00:20.017] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz) (suppressed 1 similar messages)
+[2026-04-26 21:00:24.922] [WARNING] Pendant disconnected
+[2026-04-26 21:00:30.031] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz)
+[2026-04-26 21:00:35.315] [WARNING] Pendant disconnected
+[2026-04-26 21:00:45.704] [WARNING] Pendant disconnected
+[2026-04-26 21:00:50.022] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz) (suppressed 1 similar messages)
+[2026-04-26 21:00:56.115] [WARNING] Pendant disconnected
+[2026-04-26 21:01:06.527] [WARNING] Pendant disconnected
+[2026-04-26 21:01:10.030] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz) (suppressed 1 similar messages)
+[2026-04-26 21:01:16.931] [WARNING] Pendant disconnected
+[2026-04-26 21:01:27.336] [WARNING] Pendant disconnected
+[2026-04-26 21:01:30.014] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz) (suppressed 1 similar messages)
+[2026-04-26 21:01:37.734] [WARNING] Pendant disconnected
+[2026-04-26 21:01:40.014] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz)
+[2026-04-26 21:01:48.155] [WARNING] Pendant disconnected
+[2026-04-26 21:01:50.026] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz)
+[2026-04-26 21:01:58.565] [WARNING] Pendant disconnected
+[2026-04-26 21:02:00.030] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz)
+[2026-04-26 21:02:08.981] [WARNING] Pendant disconnected
+[2026-04-26 21:02:19.401] [WARNING] Pendant disconnected
+[2026-04-26 21:02:20.027] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz) (suppressed 1 similar messages)
+[2026-04-26 21:02:26.969] [ERROR] EMERGENCY ABORT ACTIVATED - All operations stopped
+[2026-04-26 21:02:26.969] [ERROR] Trajectory playback aborted
+[2026-04-26 21:02:29.808] [WARNING] Pendant disconnected
+[2026-04-26 21:02:35.152] [PROGRAM] Teach mode activated - program editing enabled
+[2026-04-26 21:02:39.788] [ERROR] ✖ J6 near limit: 460 frames (9.3%) within 10.0° of ±180.0° (worst: 213.9° at frame 514)
+[2026-04-26 21:02:39.831] [JOG] P2P to trajectory start position…
+[2026-04-26 21:02:39.831] [JOG] P2P → max Δ=33.6°, v=50.0°/s, t=0.67s, 17 frames
+[2026-04-26 21:02:39.832] [WARNING] Control loop overrun: 14.9 ms behind (suppressed 2 similar messages)
+[2026-04-26 21:02:40.019] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz) (suppressed 1 similar messages)
+[2026-04-26 21:02:40.182] [WARNING] Pendant disconnected
+[2026-04-26 21:02:40.513] [SUCCESS] P2P complete
+[2026-04-26 21:02:40.515] [PROGRAM] Playing program: capability_montage_joint_angles.ksm
+[2026-04-26 21:02:50.580] [WARNING] Pendant disconnected
+[2026-04-26 21:03:00.019] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz) (suppressed 1 similar messages)
+[2026-04-26 21:03:00.979] [WARNING] Pendant disconnected
+[2026-04-26 21:03:10.023] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz)
+[2026-04-26 21:03:11.422] [WARNING] Pendant disconnected
+[2026-04-26 21:03:20.028] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz)
+[2026-04-26 21:03:21.839] [WARNING] Pendant disconnected
+[2026-04-26 21:03:32.203] [WARNING] Pendant disconnected
+[2026-04-26 21:03:40.017] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz) (suppressed 1 similar messages)
+[2026-04-26 21:03:42.608] [WARNING] Pendant disconnected
+[2026-04-26 21:03:52.998] [WARNING] Pendant disconnected
+[2026-04-26 21:04:00.012] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz) (suppressed 1 similar messages)
+[2026-04-26 21:04:03.379] [WARNING] Pendant disconnected
+[2026-04-26 21:04:10.012] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz)
+[2026-04-26 21:04:13.831] [WARNING] Pendant disconnected
+[2026-04-26 21:04:20.012] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz)
+[2026-04-26 21:04:24.270] [WARNING] Pendant disconnected
+[2026-04-26 21:04:30.017] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz)
+[2026-04-26 21:04:34.676] [WARNING] Pendant disconnected
+[2026-04-26 21:04:45.096] [WARNING] Pendant disconnected
+[2026-04-26 21:04:50.017] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz) (suppressed 1 similar messages)
+[2026-04-26 21:04:55.490] [WARNING] Pendant disconnected
+[2026-04-26 21:05:05.873] [WARNING] Pendant disconnected
+[2026-04-26 21:05:10.011] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz) (suppressed 1 similar messages)
+[2026-04-26 21:05:16.303] [WARNING] Pendant disconnected
+[2026-04-26 21:05:20.012] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz)
+[2026-04-26 21:05:26.722] [WARNING] Pendant disconnected
+[2026-04-26 21:05:37.133] [WARNING] Pendant disconnected
+[2026-04-26 21:05:40.023] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz) (suppressed 1 similar messages)
+[2026-04-26 21:05:47.545] [WARNING] Pendant disconnected
+[2026-04-26 21:05:57.937] [WARNING] Pendant disconnected
+[2026-04-26 21:06:00.022] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz) (suppressed 1 similar messages)
+[2026-04-26 21:06:08.343] [WARNING] Pendant disconnected
+[2026-04-26 21:06:11.707] [SUCCESS] Trajectory playback finished
+[2026-04-26 21:06:18.721] [WARNING] Pendant disconnected
+[2026-04-26 21:06:20.010] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz) (suppressed 1 similar messages)
+[2026-04-26 21:06:29.113] [WARNING] Pendant disconnected
+[2026-04-26 21:06:39.521] [WARNING] Pendant disconnected
+[2026-04-26 21:06:40.010] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz) (suppressed 1 similar messages)
+[2026-04-26 21:06:49.928] [WARNING] Pendant disconnected
+[2026-04-26 21:07:00.010] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz) (suppressed 1 similar messages)
+[2026-04-26 21:07:00.315] [WARNING] Pendant disconnected
+[2026-04-26 21:07:10.709] [WARNING] Pendant disconnected
+[2026-04-26 21:07:20.008] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz) (suppressed 1 similar messages)
+[2026-04-26 21:07:21.124] [WARNING] Pendant disconnected
+[2026-04-26 21:07:30.009] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz)
+[2026-04-26 21:07:31.516] [WARNING] Pendant disconnected
+[2026-04-26 21:07:40.011] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz)
+[2026-04-26 21:07:41.982] [WARNING] Pendant disconnected
+[2026-04-26 21:07:52.522] [WARNING] Pendant disconnected
+[2026-04-26 21:07:55.433] [JOG] Moving to Home position (P2P)
+[2026-04-26 21:07:55.433] [JOG] Unwinding wrist rotations before homing...
+[2026-04-26 21:07:55.434] [JOG] P2P → max Δ=136.3°, v=50.0°/s, t=2.73s, 69 frames
+[2026-04-26 21:07:58.211] [SUCCESS] P2P complete
+[2026-04-26 21:07:58.213] [JOG] P2P → max Δ=128.5°, v=50.0°/s, t=2.57s, 65 frames
+[2026-04-26 21:08:00.015] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz) (suppressed 1 similar messages)
+[2026-04-26 21:08:00.832] [SUCCESS] P2P complete
+[2026-04-26 21:08:02.942] [WARNING] Pendant disconnected
+[2026-04-26 21:08:13.373] [WARNING] Pendant disconnected
+[2026-04-26 21:08:20.008] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz) (suppressed 1 similar messages)
+[2026-04-26 21:08:23.776] [WARNING] Pendant disconnected
+[2026-04-26 21:08:30.008] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz)
+[2026-04-26 21:08:34.161] [WARNING] Pendant disconnected
+[2026-04-26 21:08:40.009] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz)
+[2026-04-26 21:08:44.563] [WARNING] Pendant disconnected
+[2026-04-26 21:08:54.922] [WARNING] Pendant disconnected
+[2026-04-26 21:09:00.009] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz) (suppressed 1 similar messages)
+[2026-04-26 21:09:05.312] [WARNING] Pendant disconnected
+[2026-04-26 21:09:15.699] [WARNING] Pendant disconnected
+[2026-04-26 21:09:20.007] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz) (suppressed 1 similar messages)
+[2026-04-26 21:09:26.085] [WARNING] Pendant disconnected
+[2026-04-26 21:09:30.007] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz)
+[2026-04-26 21:09:36.474] [WARNING] Pendant disconnected
+[2026-04-26 21:09:40.007] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz)
+[2026-04-26 21:09:46.881] [WARNING] Pendant disconnected
+[2026-04-26 21:09:57.278] [WARNING] Pendant disconnected
+[2026-04-26 21:10:00.008] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz) (suppressed 1 similar messages)
+[2026-04-26 21:10:07.672] [WARNING] Pendant disconnected
+[2026-04-26 21:10:18.048] [WARNING] Pendant disconnected
+[2026-04-26 21:10:20.007] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz) (suppressed 1 similar messages)
+[2026-04-26 21:10:28.435] [WARNING] Pendant disconnected
+[2026-04-26 21:10:38.819] [WARNING] Pendant disconnected
+[2026-04-26 21:10:40.006] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz) (suppressed 1 similar messages)
+[2026-04-26 21:10:40.556] [JOG] Moving to Record 1 (P2P)
+[2026-04-26 21:10:40.556] [JOG] Unwinding wrist rotations before moving to record...
+[2026-04-26 21:10:40.557] [JOG] P2P → max Δ=128.5°, v=50.0°/s, t=2.57s, 65 frames
+[2026-04-26 21:10:43.325] [SUCCESS] P2P complete
+[2026-04-26 21:10:43.328] [JOG] P2P → max Δ=104.8°, v=50.0°/s, t=2.10s, 53 frames
+[2026-04-26 21:10:45.465] [SUCCESS] P2P complete
+[2026-04-26 21:10:49.225] [WARNING] Pendant disconnected
+[2026-04-26 21:10:50.006] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz)
+[2026-04-26 21:10:57.391] [JOG] Moving to Record 3 (P2P)
+[2026-04-26 21:10:57.391] [JOG] Unwinding wrist rotations before moving to record...
+[2026-04-26 21:10:57.391] [JOG] P2P → max Δ=94.7°, v=50.0°/s, t=1.89s, 48 frames
+[2026-04-26 21:10:59.486] [SUCCESS] P2P complete
+[2026-04-26 21:10:59.487] [JOG] P2P → max Δ=92.5°, v=50.0°/s, t=1.85s, 47 frames
+[2026-04-26 21:10:59.622] [WARNING] Pendant disconnected
+[2026-04-26 21:11:00.014] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz)
+[2026-04-26 21:11:01.378] [SUCCESS] P2P complete
+[2026-04-26 21:11:03.192] [JOG] Moving to Home position (P2P)
+[2026-04-26 21:11:03.192] [JOG] Unwinding wrist rotations before homing...
+[2026-04-26 21:11:03.192] [JOG] P2P → max Δ=92.5°, v=50.0°/s, t=1.85s, 47 frames
+[2026-04-26 21:11:05.083] [SUCCESS] P2P complete
+[2026-04-26 21:11:05.083] [JOG] P2P → max Δ=128.5°, v=50.0°/s, t=2.57s, 65 frames
+[2026-04-26 21:11:07.694] [SUCCESS] P2P complete
+[2026-04-26 21:11:09.990] [WARNING] Pendant disconnected
+[2026-04-26 21:11:20.005] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz) (suppressed 1 similar messages)
+[2026-04-26 21:11:20.386] [WARNING] Pendant disconnected
+[2026-04-26 21:11:30.779] [WARNING] Pendant disconnected
+[2026-04-26 21:11:40.005] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz) (suppressed 1 similar messages)
+[2026-04-26 21:11:41.176] [WARNING] Pendant disconnected
+[2026-04-26 21:11:50.005] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz)
+[2026-04-26 21:11:51.585] [WARNING] Pendant disconnected
+[2026-04-26 21:12:01.982] [WARNING] Pendant disconnected
+[2026-04-26 21:12:10.005] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz) (suppressed 1 similar messages)
+[2026-04-26 21:12:10.512] [WARNING] Control loop overrun: 10.2 ms behind
+[2026-04-26 21:12:12.404] [WARNING] Pendant disconnected
+[2026-04-26 21:12:22.794] [WARNING] Pendant disconnected
+[2026-04-26 21:12:30.004] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz) (suppressed 1 similar messages)
+[2026-04-26 21:12:33.189] [WARNING] Pendant disconnected
+[2026-04-26 21:12:40.004] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz)
+[2026-04-26 21:12:43.621] [WARNING] Pendant disconnected
+[2026-04-26 21:12:50.004] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz)
+[2026-04-26 21:12:53.978] [WARNING] Pendant disconnected
+[2026-04-26 21:13:00.004] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz)
+[2026-04-26 21:13:04.391] [WARNING] Pendant disconnected
+[2026-04-26 21:13:14.808] [WARNING] Pendant disconnected
+[2026-04-26 21:13:20.004] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz) (suppressed 1 similar messages)
+[2026-04-26 21:13:25.212] [WARNING] Pendant disconnected
+[2026-04-26 21:13:35.606] [WARNING] Pendant disconnected
+[2026-04-26 21:13:40.004] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz) (suppressed 1 similar messages)
+[2026-04-26 21:13:46.009] [WARNING] Pendant disconnected
+[2026-04-26 21:13:56.397] [WARNING] Pendant disconnected
+[2026-04-26 21:14:00.003] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz) (suppressed 1 similar messages)
+[2026-04-26 21:14:06.806] [WARNING] Pendant disconnected
+[2026-04-26 21:14:17.180] [WARNING] Pendant disconnected
+[2026-04-26 21:14:20.004] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz) (suppressed 1 similar messages)
+[2026-04-26 21:14:27.583] [WARNING] Pendant disconnected
+[2026-04-26 21:14:30.005] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz)
+[2026-04-26 21:14:37.982] [WARNING] Pendant disconnected
+[2026-04-26 21:14:48.378] [WARNING] Pendant disconnected
+[2026-04-26 21:14:50.005] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz) (suppressed 1 similar messages)
+[2026-04-26 21:14:58.765] [WARNING] Pendant disconnected
+[2026-04-26 21:15:09.154] [WARNING] Pendant disconnected
+[2026-04-26 21:15:10.005] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz) (suppressed 1 similar messages)
+[2026-04-26 21:15:19.570] [WARNING] Pendant disconnected
+[2026-04-26 21:15:29.977] [WARNING] Pendant disconnected
+[2026-04-26 21:15:30.005] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz) (suppressed 1 similar messages)
+[2026-04-26 21:15:40.394] [WARNING] Pendant disconnected
+[2026-04-26 21:15:50.004] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz) (suppressed 1 similar messages)
+[2026-04-26 21:15:50.792] [WARNING] Pendant disconnected
+[2026-04-26 21:16:00.005] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz)
+[2026-04-26 21:16:01.210] [WARNING] Pendant disconnected
+[2026-04-26 21:16:10.006] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz)
+[2026-04-26 21:16:11.827] [WARNING] Pendant disconnected
+[2026-04-26 21:16:20.006] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz)
+[2026-04-26 21:16:22.476] [WARNING] Pendant disconnected
+[2026-04-26 21:16:33.131] [WARNING] Pendant disconnected
+[2026-04-26 21:16:40.007] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz) (suppressed 1 similar messages)
+[2026-04-26 21:16:43.774] [WARNING] Pendant disconnected
+[2026-04-26 21:16:54.487] [WARNING] Pendant disconnected
+[2026-04-26 21:17:00.005] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz) (suppressed 1 similar messages)
+[2026-04-26 21:17:05.117] [WARNING] Pendant disconnected
+[2026-04-26 21:17:15.846] [WARNING] Pendant disconnected
+[2026-04-26 21:17:20.004] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz) (suppressed 1 similar messages)
+[2026-04-26 21:17:26.497] [WARNING] Pendant disconnected
+[2026-04-26 21:17:30.005] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz)
+[2026-04-26 21:17:37.127] [WARNING] Pendant disconnected
+[2026-04-26 21:17:40.005] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz)
+[2026-04-26 21:17:47.786] [WARNING] Pendant disconnected
+[2026-04-26 21:17:58.482] [WARNING] Pendant disconnected
+[2026-04-26 21:18:00.004] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz) (suppressed 1 similar messages)
+[2026-04-26 21:18:09.167] [WARNING] Pendant disconnected
+[2026-04-26 21:18:19.900] [WARNING] Pendant disconnected
+[2026-04-26 21:18:20.003] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz) (suppressed 1 similar messages)
+[2026-04-26 21:18:30.003] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz)
+[2026-04-26 21:18:30.589] [WARNING] Pendant disconnected
+[2026-04-26 21:18:40.003] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz)
+[2026-04-26 21:18:41.253] [WARNING] Pendant disconnected
+[2026-04-26 21:18:51.899] [WARNING] Pendant disconnected
+[2026-04-26 21:19:00.001] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz) (suppressed 1 similar messages)
+[2026-04-26 21:19:02.613] [WARNING] Pendant disconnected
+[2026-04-26 21:19:13.256] [WARNING] Pendant disconnected
+[2026-04-26 21:19:20.004] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz) (suppressed 1 similar messages)
+[2026-04-26 21:19:23.932] [WARNING] Pendant disconnected
+[2026-04-26 21:19:34.569] [WARNING] Pendant disconnected
+[2026-04-26 21:19:40.003] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz) (suppressed 1 similar messages)
+[2026-04-26 21:19:45.268] [WARNING] Pendant disconnected
+[2026-04-26 21:19:55.920] [WARNING] Pendant disconnected
+[2026-04-26 21:20:00.001] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz) (suppressed 1 similar messages)
+[2026-04-26 21:20:06.633] [WARNING] Pendant disconnected
+[2026-04-26 21:20:10.003] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz)
+[2026-04-26 21:20:14.169] [WARNING] Control loop overrun: 17.3 ms behind
+[2026-04-26 21:20:17.318] [WARNING] Pendant disconnected
+[2026-04-26 21:20:27.935] [WARNING] Pendant disconnected
+[2026-04-26 21:20:30.002] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz) (suppressed 1 similar messages)
+[2026-04-26 21:20:38.618] [WARNING] Pendant disconnected
+[2026-04-26 21:20:49.313] [WARNING] Pendant disconnected
+[2026-04-26 21:20:50.003] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz) (suppressed 1 similar messages)
+[2026-04-26 21:20:59.983] [WARNING] Pendant disconnected
+[2026-04-26 21:21:10.002] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz) (suppressed 1 similar messages)
+[2026-04-26 21:21:10.653] [WARNING] Pendant disconnected
+[2026-04-26 21:21:15.923] [WARNING] Control loop overrun: 5.6 ms behind
+[2026-04-26 21:21:20.002] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz)
+[2026-04-26 21:21:21.304] [WARNING] Pendant disconnected
+[2026-04-26 21:21:31.985] [WARNING] Pendant disconnected
+[2026-04-26 21:21:40.000] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz) (suppressed 1 similar messages)
+[2026-04-26 21:21:42.662] [WARNING] Pendant disconnected
+[2026-04-26 21:21:53.360] [WARNING] Pendant disconnected
+[2026-04-26 21:22:00.001] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz) (suppressed 1 similar messages)
+[2026-04-26 21:22:04.061] [WARNING] Pendant disconnected
+[2026-04-26 21:22:14.749] [WARNING] Pendant disconnected
+[2026-04-26 21:22:19.999] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz) (suppressed 1 similar messages)
+[2026-04-26 21:22:25.393] [WARNING] Pendant disconnected
+[2026-04-26 21:22:36.141] [WARNING] Pendant disconnected
+[2026-04-26 21:22:37.784] [WARNING] Control loop overrun: 18.0 ms behind
+[2026-04-26 21:22:40.001] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz) (suppressed 1 similar messages)
+[2026-04-26 21:22:46.825] [WARNING] Pendant disconnected
+[2026-04-26 21:22:57.478] [WARNING] Pendant disconnected
+[2026-04-26 21:22:59.997] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz) (suppressed 1 similar messages)
+[2026-04-26 21:23:08.141] [WARNING] Pendant disconnected
+[2026-04-26 21:23:09.999] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz)
+[2026-04-26 21:23:18.839] [WARNING] Pendant disconnected
+[2026-04-26 21:23:20.000] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz)
+[2026-04-26 21:23:29.489] [WARNING] Pendant disconnected
+[2026-04-26 21:23:39.998] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz) (suppressed 1 similar messages)
+[2026-04-26 21:23:40.154] [WARNING] Pendant disconnected
+[2026-04-26 21:23:50.855] [WARNING] Pendant disconnected
+[2026-04-26 21:24:00.000] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz) (suppressed 1 similar messages)
+[2026-04-26 21:24:01.571] [WARNING] Pendant disconnected
+[2026-04-26 21:24:12.259] [WARNING] Pendant disconnected
+[2026-04-26 21:24:19.995] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz) (suppressed 1 similar messages)
+[2026-04-26 21:24:22.900] [WARNING] Pendant disconnected
+[2026-04-26 21:24:29.998] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz)
+[2026-04-26 21:24:33.619] [WARNING] Pendant disconnected
+[2026-04-26 21:24:44.317] [WARNING] Pendant disconnected
+[2026-04-26 21:24:49.997] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz) (suppressed 1 similar messages)
+[2026-04-26 21:24:55.010] [WARNING] Pendant disconnected
+[2026-04-26 21:24:59.998] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz)
+[2026-04-26 21:25:05.708] [WARNING] Pendant disconnected
+[2026-04-26 21:25:16.412] [WARNING] Pendant disconnected
+[2026-04-26 21:25:19.999] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz) (suppressed 1 similar messages)
+[2026-04-26 21:25:27.111] [WARNING] Pendant disconnected
+[2026-04-26 21:25:37.766] [WARNING] Pendant disconnected
+[2026-04-26 21:25:39.998] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz) (suppressed 1 similar messages)
+[2026-04-26 21:25:48.446] [WARNING] Pendant disconnected
+[2026-04-26 21:25:59.087] [WARNING] Pendant disconnected
+[2026-04-26 21:25:59.997] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz) (suppressed 1 similar messages)
+[2026-04-26 21:26:09.778] [WARNING] Pendant disconnected
+[2026-04-26 21:26:15.550] [WARNING] Control loop overrun: 7.4 ms behind
+[2026-04-26 21:26:19.995] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz) (suppressed 1 similar messages)
+[2026-04-26 21:26:20.430] [WARNING] Pendant disconnected
+[2026-04-26 21:26:31.059] [WARNING] Pendant disconnected
+[2026-04-26 21:26:39.997] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz) (suppressed 1 similar messages)
+[2026-04-26 21:26:41.779] [WARNING] Pendant disconnected
+[2026-04-26 21:26:49.997] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz)
+[2026-04-26 21:26:52.479] [WARNING] Pendant disconnected
+[2026-04-26 21:27:03.175] [WARNING] Pendant disconnected
+[2026-04-26 21:27:09.997] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz) (suppressed 1 similar messages)
+[2026-04-26 21:27:13.814] [WARNING] Pendant disconnected
+[2026-04-26 21:27:24.537] [WARNING] Pendant disconnected
+[2026-04-26 21:27:29.995] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz) (suppressed 1 similar messages)
+[2026-04-26 21:27:35.172] [WARNING] Pendant disconnected
+[2026-04-26 21:27:39.995] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz)
+[2026-04-26 21:27:45.819] [WARNING] Pendant disconnected
+[2026-04-26 21:27:56.518] [WARNING] Pendant disconnected
+[2026-04-26 21:27:59.994] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz) (suppressed 1 similar messages)
+[2026-04-26 21:28:07.171] [WARNING] Pendant disconnected
+[2026-04-26 21:28:09.995] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz)
+[2026-04-26 21:28:17.900] [WARNING] Pendant disconnected
+[2026-04-26 21:28:28.613] [WARNING] Pendant disconnected
+[2026-04-26 21:28:29.994] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz) (suppressed 1 similar messages)
+[2026-04-26 21:28:39.302] [WARNING] Pendant disconnected
+[2026-04-26 21:28:49.979] [WARNING] Pendant disconnected
+[2026-04-26 21:28:49.992] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz) (suppressed 1 similar messages)
+[2026-04-26 21:28:59.994] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz)
+[2026-04-26 21:29:00.662] [WARNING] Pendant disconnected
+[2026-04-26 21:29:11.348] [WARNING] Pendant disconnected
+[2026-04-26 21:29:19.993] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz) (suppressed 1 similar messages)
+[2026-04-26 21:29:22.091] [WARNING] Pendant disconnected
+[2026-04-26 21:29:29.993] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz)
+[2026-04-26 21:29:32.718] [WARNING] Pendant disconnected
+[2026-04-26 21:29:43.405] [WARNING] Pendant disconnected
+[2026-04-26 21:29:49.993] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz) (suppressed 1 similar messages)
+[2026-04-26 21:29:54.139] [WARNING] Pendant disconnected
+[2026-04-26 21:30:04.836] [WARNING] Pendant disconnected
+[2026-04-26 21:30:09.992] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz) (suppressed 1 similar messages)
+[2026-04-26 21:30:15.547] [WARNING] Pendant disconnected
+[2026-04-26 21:30:19.993] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz)
+[2026-04-26 21:30:26.217] [WARNING] Pendant disconnected
+[2026-04-26 21:30:36.900] [WARNING] Pendant disconnected
+[2026-04-26 21:30:39.994] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz) (suppressed 1 similar messages)
+[2026-04-26 21:30:47.628] [WARNING] Pendant disconnected
+[2026-04-26 21:30:49.994] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz)
+[2026-04-26 21:30:58.278] [WARNING] Pendant disconnected
+[2026-04-26 21:30:59.995] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz)
+[2026-04-26 21:31:03.884] [WARNING] Control loop overrun: 5.8 ms behind
+[2026-04-26 21:31:08.947] [WARNING] Pendant disconnected
+[2026-04-26 21:31:19.593] [WARNING] Pendant disconnected
+[2026-04-26 21:31:19.994] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz) (suppressed 1 similar messages)
+[2026-04-26 21:31:30.226] [WARNING] Pendant disconnected
+[2026-04-26 21:31:39.994] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz) (suppressed 1 similar messages)
+[2026-04-26 21:31:40.950] [WARNING] Pendant disconnected
+[2026-04-26 21:31:44.713] [WARNING] Control loop overrun: 13.0 ms behind
+[2026-04-26 21:31:51.636] [WARNING] Pendant disconnected
+[2026-04-26 21:31:59.993] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz) (suppressed 1 similar messages)
+[2026-04-26 21:32:02.304] [WARNING] Pendant disconnected
+[2026-04-26 21:32:09.995] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz)
+[2026-04-26 21:32:13.006] [WARNING] Pendant disconnected
+[2026-04-26 21:32:19.572] [WARNING] Control loop overrun: 12.7 ms behind
+[2026-04-26 21:32:20.120] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz)
+[2026-04-26 21:32:23.589] [WARNING] Pendant disconnected
+[2026-04-26 21:32:24.796] [WARNING] Control loop overrun: 53.2 ms behind
+[2026-04-26 21:47:54.473] [WARNING] Control loop overrun: 18.8 ms behind
+[2026-04-26 21:47:58.978] [WARNING] Pendant disconnected
+[2026-04-26 21:48:01.695] [WARNING] Control loop overrun: 21.9 ms behind
+[2026-04-26 21:48:04.235] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz) (suppressed 1 similar messages)
+[2026-04-26 21:48:09.072] [WARNING] Control loop overrun: 15.8 ms behind
+[2026-04-26 21:48:09.179] [WARNING] Pendant disconnected
+[2026-04-26 21:48:39.053] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz)
+[2026-04-26 21:48:39.832] [WARNING] Control loop overrun: 9.7 ms behind
+[2026-04-26 21:48:44.330] [WARNING] Pendant disconnected
+[2026-04-26 21:48:54.516] [WARNING] Pendant disconnected
+[2026-04-26 21:48:59.053] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz) (suppressed 1 similar messages)
+[2026-04-26 21:49:01.629] [WARNING] Control loop overrun: 27.9 ms behind
+[2026-04-26 22:04:29.790] [WARNING] Pendant disconnected
+[2026-04-26 22:04:31.643] [WARNING] Control loop overrun: 7.3 ms behind
+[2026-04-26 22:04:37.803] [WARNING] Control loop overrun: 9.1 ms behind
+[2026-04-26 22:04:39.995] [WARNING] Pendant disconnected
+[2026-04-26 22:04:43.996] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz) (suppressed 1 similar messages)
+[2026-04-26 22:04:44.511] [WARNING] Control loop overrun: 14.5 ms behind
+[2026-04-26 22:05:15.134] [WARNING] Pendant disconnected
+[2026-04-26 22:05:20.287] [WARNING] Control loop overrun: 23.2 ms behind
+[2026-04-26 22:05:50.278] [WARNING] Pendant disconnected
+[2026-04-26 22:05:52.721] [WARNING] Control loop overrun: 14.2 ms behind
+[2026-04-26 22:05:53.135] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz) (suppressed 1 similar messages)
+[2026-04-26 22:06:25.379] [WARNING] Pendant disconnected
+[2026-04-26 22:06:34.041] [WARNING] Control loop overrun: 16.7 ms behind
+[2026-04-26 22:06:35.575] [WARNING] Pendant disconnected
+[2026-04-26 22:22:02.641] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz) (suppressed 1 similar messages)
+[2026-04-26 22:22:10.958] [WARNING] Pendant disconnected
+[2026-04-26 22:22:18.800] [WARNING] Control loop overrun: 29.5 ms behind
+[2026-04-26 22:22:46.103] [WARNING] Pendant disconnected
+[2026-04-26 22:22:47.527] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz) (suppressed 1 similar messages)
+[2026-04-26 22:22:52.863] [WARNING] Control loop overrun: 7.7 ms behind
+[2026-04-26 22:22:56.310] [WARNING] Pendant disconnected
+[2026-04-26 22:22:57.527] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz)
+[2026-04-26 22:22:58.061] [WARNING] Control loop overrun: 20.5 ms behind
+[2026-04-26 22:38:32.351] [WARNING] Pendant disconnected
+[2026-04-26 22:38:36.666] [WARNING] Control loop overrun: 41.5 ms behind
+[2026-04-26 22:39:07.333] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz) (suppressed 1 similar messages)
+[2026-04-26 22:39:07.477] [WARNING] Pendant disconnected
+[2026-04-26 22:39:16.323] [WARNING] Control loop overrun: 21.8 ms behind
+[2026-04-26 22:39:17.663] [WARNING] Pendant disconnected
+[2026-04-26 22:39:52.156] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz) (suppressed 1 similar messages)
+[2026-04-26 22:39:52.747] [WARNING] Pendant disconnected
+[2026-04-26 22:39:56.157] [WARNING] Control loop overrun: 11.6 ms behind
+[2026-04-26 22:40:26.991] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz)
+[2026-04-26 22:40:27.833] [WARNING] Pendant disconnected
+[2026-04-26 22:40:28.743] [WARNING] Control loop overrun: 22.4 ms behind
+[2026-04-26 22:40:58.823] [WARNING] Control loop overrun: 12.0 ms behind
+[2026-04-26 22:41:02.950] [WARNING] Pendant disconnected
+[2026-04-26 22:41:05.945] [WARNING] Control loop overrun: 29.3 ms behind
+[2026-04-26 22:56:14.988] [WARNING] Control loop overrun: 8.4 ms behind
+[2026-04-26 22:56:15.579] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz) (suppressed 1 similar messages)
+[2026-04-26 22:56:42.123] [WARNING] Pendant disconnected
+[2026-04-26 22:56:45.992] [WARNING] Control loop overrun: 5.5 ms behind
+[2026-04-26 22:56:50.437] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz)
+[2026-04-26 22:56:52.370] [WARNING] Pendant disconnected
+[2026-04-26 22:56:54.620] [WARNING] Control loop overrun: 13.4 ms behind
+[2026-04-26 22:57:24.698] [WARNING] Control loop overrun: 8.3 ms behind
+[2026-04-26 22:57:27.505] [WARNING] Pendant disconnected
+[2026-04-26 22:57:30.636] [WARNING] Control loop overrun: 7.7 ms behind
+[2026-04-26 22:58:00.098] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz) (suppressed 1 similar messages)
+[2026-04-26 22:58:02.593] [WARNING] Pendant disconnected
+[2026-04-26 22:58:02.929] [WARNING] Control loop overrun: 10.1 ms behind
+[2026-04-26 22:58:35.437] [WARNING] Control loop overrun: 11.7 ms behind
+[2026-04-26 22:59:02.479] [WARNING] Pendant disconnected
+[2026-04-26 22:59:09.670] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz) (suppressed 1 similar messages)
+[2026-04-26 22:59:12.714] [WARNING] Pendant disconnected
+[2026-04-26 22:59:12.889] [WARNING] Control loop overrun: 12.8 ms behind
+[2026-04-26 23:17:14.447] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz)
+[2026-04-26 23:17:39.900] [WARNING] Control loop overrun: 173.7 ms behind
+[2026-04-26 23:17:43.061] [WARNING] Pendant disconnected
+[2026-04-26 23:17:53.247] [WARNING] Pendant disconnected
+[2026-04-26 23:17:59.206] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz) (suppressed 1 similar messages)
+[2026-04-26 23:18:00.310] [WARNING] Control loop overrun: 14.7 ms behind
+[2026-04-26 23:33:21.255] [WARNING] Pendant disconnected
+[2026-04-26 23:33:31.437] [WARNING] Pendant disconnected
+[2026-04-26 23:33:36.762] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz) (suppressed 1 similar messages)
+[2026-04-26 23:33:38.883] [WARNING] Control loop overrun: 17.0 ms behind
+[2026-04-26 23:33:41.664] [WARNING] Pendant disconnected
+[2026-04-26 23:33:46.762] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz)
+[2026-04-26 23:33:51.856] [WARNING] Pendant disconnected
+[2026-04-26 23:33:56.762] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz)
+[2026-04-26 23:33:59.844] [WARNING] Control loop overrun: 13.9 ms behind
+[2026-04-26 23:51:06.969] [WARNING] Pendant disconnected
+[2026-04-26 23:51:10.127] [WARNING] Control loop overrun: 5.7 ms behind
+[2026-04-26 23:51:11.465] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz)
+[2026-04-27 00:06:31.852] [WARNING] Control loop overrun: 13.6 ms behind
+[2026-04-27 00:24:10.834] [WARNING] Pendant disconnected
+[2026-04-27 00:24:15.721] [WARNING] Control loop overrun: 8.2 ms behind
+[2026-04-27 00:34:25.103] [WARNING] Pendant disconnected
+[2026-04-27 00:34:27.458] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz) (suppressed 1 similar messages)
+[2026-04-27 00:34:30.700] [WARNING] Control loop overrun: 32.8 ms behind
+[2026-04-27 00:51:21.403] [WARNING] Pendant disconnected
+[2026-04-27 00:51:23.352] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz)
+[2026-04-27 00:51:23.687] [WARNING] Control loop overrun: 6.5 ms behind
+[2026-04-27 01:07:09.690] [WARNING] Control loop overrun: 8.9 ms behind
+[2026-04-27 01:24:28.251] [WARNING] Pendant disconnected
+[2026-04-27 01:24:30.641] [WARNING] Control loop overrun: 6.6 ms behind
+[2026-04-27 01:35:27.355] [WARNING] Pendant disconnected
+[2026-04-27 01:35:28.225] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz) (suppressed 1 similar messages)
+[2026-04-27 01:35:35.358] [WARNING] Control loop overrun: 13.8 ms behind
+[2026-04-27 01:35:37.530] [WARNING] Pendant disconnected
+[2026-04-27 01:35:38.224] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz)
+[2026-04-27 01:35:41.394] [WARNING] Control loop overrun: 12.0 ms behind
+[2026-04-27 01:51:12.764] [WARNING] Pendant disconnected
+[2026-04-27 01:51:13.121] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz)
+[2026-04-27 01:51:22.673] [WARNING] Control loop overrun: 23.9 ms behind
+[2026-04-27 01:51:22.984] [WARNING] Pendant disconnected
+[2026-04-27 01:51:28.494] [WARNING] Control loop overrun: 6.0 ms behind
+[2026-04-27 01:51:57.925] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz) (suppressed 1 similar messages)
+[2026-04-27 01:51:58.085] [WARNING] Pendant disconnected
+[2026-04-27 01:52:08.269] [WARNING] Pendant disconnected
+[2026-04-27 01:52:12.234] [WARNING] Control loop overrun: 19.1 ms behind
+[2026-04-27 01:52:42.366] [WARNING] Control loop overrun: 5.3 ms behind
+[2026-04-27 01:52:42.761] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz) (suppressed 1 similar messages)
+[2026-04-27 01:52:43.518] [WARNING] Pendant disconnected
+[2026-04-27 01:52:53.702] [WARNING] Pendant disconnected
+[2026-04-27 01:52:55.846] [WARNING] Control loop overrun: 7.6 ms behind
+[2026-04-27 01:53:02.760] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz) (suppressed 1 similar messages)
+[2026-04-27 01:53:03.880] [WARNING] Pendant disconnected
+[2026-04-27 01:53:08.465] [WARNING] Control loop overrun: 6.7 ms behind
+[2026-04-27 02:08:38.397] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz)
+[2026-04-27 02:08:39.878] [WARNING] Pendant disconnected
+[2026-04-27 02:08:50.054] [WARNING] Pendant disconnected
+[2026-04-27 02:08:53.869] [WARNING] Control loop overrun: 21.3 ms behind
+[2026-04-27 02:09:23.216] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz) (suppressed 1 similar messages)
+[2026-04-27 02:09:25.109] [WARNING] Pendant disconnected
+[2026-04-27 02:09:29.780] [WARNING] Control loop overrun: 22.9 ms behind
+[2026-04-27 02:09:58.037] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz)
+[2026-04-27 02:10:00.188] [WARNING] Pendant disconnected
+[2026-04-27 02:10:01.232] [WARNING] Control loop overrun: 67.8 ms behind
+[2026-04-27 02:10:10.621] [WARNING] Pendant disconnected
+[2026-04-27 02:10:18.036] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz) (suppressed 1 similar messages)
+[2026-04-27 02:10:20.808] [WARNING] Pendant disconnected
+[2026-04-27 02:10:24.227] [WARNING] Control loop overrun: 30.0 ms behind
+[2026-04-27 02:25:53.673] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz)
+[2026-04-27 02:25:56.812] [WARNING] Pendant disconnected
+[2026-04-27 02:26:06.227] [WARNING] Control loop overrun: 15.8 ms behind
+[2026-04-27 02:26:07.005] [WARNING] Pendant disconnected
+[2026-04-27 02:26:38.500] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz) (suppressed 1 similar messages)
+[2026-04-27 02:26:42.065] [WARNING] Pendant disconnected
+[2026-04-27 02:26:42.650] [WARNING] Control loop overrun: 19.9 ms behind
+[2026-04-27 02:27:12.665] [WARNING] Control loop overrun: 16.3 ms behind
+[2026-04-27 02:27:42.079] [WARNING] Pendant disconnected
+[2026-04-27 02:27:48.155] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz) (suppressed 1 similar messages)
+[2026-04-27 02:27:48.434] [WARNING] Control loop overrun: 8.6 ms behind
+[2026-04-27 02:27:52.309] [WARNING] Pendant disconnected
+[2026-04-27 02:27:58.156] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz)
+[2026-04-27 02:28:02.493] [WARNING] Pendant disconnected
+[2026-04-27 02:28:09.769] [WARNING] Control loop overrun: 33.3 ms behind
+[2026-04-27 02:43:17.637] [WARNING] Pendant disconnected
+[2026-04-27 02:43:19.761] [WARNING] Control loop overrun: 18.0 ms behind
+[2026-04-27 02:43:47.754] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz) (suppressed 1 similar messages)
+[2026-04-27 02:43:52.332] [WARNING] Control loop overrun: 25.6 ms behind
+[2026-04-27 02:43:52.799] [WARNING] Pendant disconnected
+[2026-04-27 02:44:22.584] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz)
+[2026-04-27 02:44:26.250] [WARNING] Control loop overrun: 25.0 ms behind
+[2026-04-27 02:44:28.089] [WARNING] Pendant disconnected
+[2026-04-27 02:45:03.199] [WARNING] Pendant disconnected
+[2026-04-27 02:45:07.410] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz) (suppressed 1 similar messages)
+[2026-04-27 02:45:13.384] [WARNING] Pendant disconnected
+[2026-04-27 02:45:14.045] [WARNING] Control loop overrun: 35.1 ms behind
+[2026-04-27 02:45:18.135] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz)
+[2026-04-27 02:45:23.837] [WARNING] Control loop overrun: 13.7 ms behind
+[2026-04-27 02:45:24.502] [WARNING] Pendant disconnected
+[2026-04-27 03:01:00.490] [WARNING] Pendant disconnected
+[2026-04-27 03:01:03.675] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz) (suppressed 1 similar messages)
+[2026-04-27 03:01:06.199] [WARNING] Control loop overrun: 21.2 ms behind
+[2026-04-27 03:01:35.602] [WARNING] Pendant disconnected
+[2026-04-27 03:01:42.062] [WARNING] Control loop overrun: 41.0 ms behind
+[2026-04-27 03:02:10.750] [WARNING] Pendant disconnected
+[2026-04-27 03:02:13.325] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz) (suppressed 1 similar messages)
+[2026-04-27 03:02:20.051] [WARNING] Control loop overrun: 16.4 ms behind
+[2026-04-27 03:02:20.963] [WARNING] Pendant disconnected
+[2026-04-27 03:02:50.150] [WARNING] Control loop overrun: 9.7 ms behind
+[2026-04-27 03:03:21.065] [WARNING] Pendant disconnected
+[2026-04-27 03:03:22.483] [WARNING] Control loop overrun: 7.9 ms behind
+[2026-04-27 03:03:22.976] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz) (suppressed 1 similar messages)
+[2026-04-27 03:19:53.623] [WARNING] Control loop overrun: 16.9 ms behind
+[2026-04-27 03:19:56.029] [WARNING] Pendant disconnected
+[2026-04-27 03:20:22.403] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz)
+[2026-04-27 03:20:31.241] [WARNING] Pendant disconnected
+[2026-04-27 03:20:32.278] [WARNING] Control loop overrun: 16.7 ms behind
+[2026-04-27 03:20:41.454] [WARNING] Pendant disconnected
+[2026-04-27 03:20:42.400] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz) (suppressed 1 similar messages)
+[2026-04-27 03:20:51.635] [WARNING] Pendant disconnected
+[2026-04-27 03:20:57.316] [WARNING] Control loop overrun: 15.0 ms behind
+[2026-04-27 03:36:27.646] [WARNING] Pendant disconnected
+[2026-04-27 03:36:28.026] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz) (suppressed 1 similar messages)
+[2026-04-27 03:36:37.832] [WARNING] Pendant disconnected
+[2026-04-27 03:36:38.026] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz)
+[2026-04-27 03:36:40.583] [WARNING] Control loop overrun: 28.5 ms behind
+[2026-04-27 03:37:12.977] [WARNING] Pendant disconnected
+[2026-04-27 03:37:19.495] [WARNING] Control loop overrun: 14.8 ms behind
+[2026-04-27 03:37:47.675] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz) (suppressed 1 similar messages)
+[2026-04-27 03:37:48.091] [WARNING] Pendant disconnected
+[2026-04-27 03:37:58.193] [WARNING] Control loop overrun: 19.3 ms behind
+[2026-04-27 03:37:58.299] [WARNING] Pendant disconnected
+[2026-04-27 03:53:33.377] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz) (suppressed 1 similar messages)
+[2026-04-27 03:53:34.386] [WARNING] Pendant disconnected
+[2026-04-27 03:53:38.900] [WARNING] Control loop overrun: 13.3 ms behind
+[2026-04-27 03:54:08.204] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz)
+[2026-04-27 03:54:08.808] [WARNING] Control loop overrun: 23.9 ms behind
+[2026-04-27 03:54:09.552] [WARNING] Pendant disconnected
+[2026-04-27 03:54:18.741] [WARNING] Control loop overrun: 27.5 ms behind
+[2026-04-27 03:54:19.762] [WARNING] Pendant disconnected
+[2026-04-27 04:09:53.878] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz) (suppressed 1 similar messages)
+[2026-04-27 04:09:55.793] [WARNING] Pendant disconnected
+[2026-04-27 04:10:05.976] [WARNING] Pendant disconnected
+[2026-04-27 04:10:06.419] [WARNING] Control loop overrun: 16.9 ms behind
+[2026-04-27 04:10:38.706] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz) (suppressed 1 similar messages)
+[2026-04-27 04:10:41.116] [WARNING] Pendant disconnected
+[2026-04-27 04:10:43.422] [WARNING] Control loop overrun: 25.9 ms behind
+[2026-04-27 04:26:14.456] [WARNING] Control loop overrun: 7.6 ms behind
+[2026-04-27 04:26:40.409] [WARNING] Pendant disconnected
+[2026-04-27 04:26:47.473] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz) (suppressed 1 similar messages)
+[2026-04-27 04:26:50.618] [WARNING] Pendant disconnected
+[2026-04-27 04:26:57.473] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz)
+[2026-04-27 04:27:00.232] [WARNING] Control loop overrun: 50.9 ms behind
+[2026-04-27 04:27:00.850] [WARNING] Pendant disconnected
+[2026-04-27 04:42:36.100] [WARNING] Pendant disconnected
+[2026-04-27 04:42:42.305] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz) (suppressed 1 similar messages)
+[2026-04-27 04:42:42.834] [WARNING] Control loop overrun: 30.3 ms behind
+[2026-04-27 04:43:11.237] [WARNING] Pendant disconnected
+[2026-04-27 04:43:17.129] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz)
+[2026-04-27 04:43:17.638] [WARNING] Control loop overrun: 9.5 ms behind
+[2026-04-27 04:43:46.385] [WARNING] Pendant disconnected
+[2026-04-27 04:43:50.154] [WARNING] Control loop overrun: 19.9 ms behind
+[2026-04-27 04:43:51.951] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz)
+[2026-04-27 04:44:21.494] [WARNING] Pendant disconnected
+[2026-04-27 04:44:31.683] [WARNING] Pendant disconnected
+[2026-04-27 04:44:32.686] [WARNING] Control loop overrun: 9.4 ms behind
+[2026-04-27 04:44:36.778] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz) (suppressed 1 similar messages)
+[2026-04-27 04:44:39.198] [WARNING] Control loop overrun: 29.1 ms behind
+[2026-04-27 05:00:05.166] [WARNING] Pendant disconnected
+[2026-04-27 05:00:08.463] [WARNING] Control loop overrun: 5.1 ms behind
+[2026-04-27 05:00:34.732] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz)
+[2026-04-27 05:00:40.194] [WARNING] Control loop overrun: 24.9 ms behind
+[2026-04-27 05:00:40.225] [WARNING] Pendant disconnected
+[2026-04-27 05:01:12.817] [WARNING] Control loop overrun: 22.3 ms behind
+[2026-04-27 05:01:40.306] [WARNING] Pendant disconnected
+[2026-04-27 05:01:44.384] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz) (suppressed 1 similar messages)
+[2026-04-27 05:01:46.727] [WARNING] Control loop overrun: 34.5 ms behind
+[2026-04-27 05:02:15.428] [WARNING] Pendant disconnected
+[2026-04-27 05:02:20.622] [WARNING] Control loop overrun: 18.9 ms behind
+[2026-04-27 05:02:50.505] [WARNING] Pendant disconnected
+[2026-04-27 05:02:54.040] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz) (suppressed 1 similar messages)
+[2026-04-27 05:02:59.955] [WARNING] Control loop overrun: 17.4 ms behind
+[2026-04-27 05:03:00.692] [WARNING] Pendant disconnected
+[2026-04-27 05:03:28.870] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz)
+[2026-04-27 05:03:32.468] [WARNING] Control loop overrun: 30.0 ms behind
+[2026-04-27 05:21:09.796] [WARNING] Pendant disconnected
+[2026-04-27 05:21:12.695] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz)
+[2026-04-27 05:21:13.394] [WARNING] Control loop overrun: 11.5 ms behind
+[2026-04-27 05:21:45.095] [WARNING] Pendant disconnected
+[2026-04-27 05:21:55.275] [WARNING] Pendant disconnected
+[2026-04-27 05:21:57.530] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz) (suppressed 1 similar messages)
+[2026-04-27 05:22:05.461] [WARNING] Pendant disconnected
+[2026-04-27 05:22:06.744] [WARNING] Control loop overrun: 25.4 ms behind
+[2026-04-27 05:37:24.379] [WARNING] Control loop overrun: 11.6 ms behind
+[2026-04-27 05:37:51.356] [WARNING] Pendant disconnected
+[2026-04-27 05:37:52.889] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz) (suppressed 1 similar messages)
+[2026-04-27 05:37:57.200] [WARNING] Control loop overrun: 28.3 ms behind
+[2026-04-27 05:38:26.665] [WARNING] Pendant disconnected
+[2026-04-27 05:38:29.636] [WARNING] Control loop overrun: 16.0 ms behind
+[2026-04-27 05:39:01.821] [WARNING] Pendant disconnected
+[2026-04-27 05:39:02.549] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz) (suppressed 1 similar messages)
+[2026-04-27 05:39:03.552] [WARNING] Control loop overrun: 23.8 ms behind
+[2026-04-27 05:39:36.944] [WARNING] Pendant disconnected
+[2026-04-27 05:39:39.919] [WARNING] Control loop overrun: 10.2 ms behind
+[2026-04-27 05:40:12.047] [WARNING] Pendant disconnected
+[2026-04-27 05:40:12.182] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz) (suppressed 1 similar messages)
+[2026-04-27 05:40:15.257] [WARNING] Control loop overrun: 21.5 ms behind
+[2026-04-27 05:40:47.006] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz)
+[2026-04-27 05:40:47.141] [WARNING] Pendant disconnected
+[2026-04-27 05:40:47.655] [WARNING] Control loop overrun: 9.5 ms behind
+[2026-04-27 05:44:11.574] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz)
+[2026-04-27 05:44:12.069] [WARNING] Pendant disconnected
+[2026-04-27 05:44:15.357] [WARNING] Control loop overrun: 19.8 ms behind
+[2026-04-27 06:01:03.490] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz)
+[2026-04-27 06:01:04.374] [WARNING] Pendant disconnected
+[2026-04-27 06:01:09.817] [WARNING] Control loop overrun: 8.9 ms behind
+[2026-04-27 06:01:14.564] [WARNING] Pendant disconnected
+[2026-04-27 06:01:23.490] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz) (suppressed 1 similar messages)
+[2026-04-27 06:01:24.756] [WARNING] Pendant disconnected
+[2026-04-27 06:01:33.490] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz)
+[2026-04-27 06:01:34.947] [WARNING] Pendant disconnected
+[2026-04-27 06:01:39.215] [WARNING] Control loop overrun: 20.8 ms behind
+[2026-04-27 06:01:45.146] [WARNING] Pendant disconnected
+[2026-04-27 06:01:48.989] [WARNING] Control loop overrun: 10.0 ms behind
+[2026-04-27 06:17:19.138] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz) (suppressed 1 similar messages)
+[2026-04-27 06:17:21.217] [WARNING] Pendant disconnected
+[2026-04-27 06:17:23.757] [WARNING] Control loop overrun: 19.3 ms behind
+[2026-04-27 06:17:56.355] [WARNING] Pendant disconnected
+[2026-04-27 06:18:03.960] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz) (suppressed 1 similar messages)
+[2026-04-27 06:18:06.537] [WARNING] Pendant disconnected
+[2026-04-27 06:18:07.625] [WARNING] Control loop overrun: 16.1 ms behind
+[2026-04-27 06:18:37.859] [WARNING] Control loop overrun: 6.6 ms behind
+[2026-04-27 06:18:38.785] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz)
+[2026-04-27 06:18:41.653] [WARNING] Pendant disconnected
+[2026-04-27 06:18:44.295] [WARNING] Control loop overrun: 11.9 ms behind
+[2026-04-27 06:19:16.754] [WARNING] Control loop overrun: 25.9 ms behind
+[2026-04-27 06:19:16.772] [WARNING] Pendant disconnected
+[2026-04-27 06:19:48.413] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz) (suppressed 1 similar messages)
+[2026-04-27 06:19:51.830] [WARNING] Pendant disconnected
+[2026-04-27 06:20:02.025] [WARNING] Pendant disconnected
+[2026-04-27 06:20:02.967] [WARNING] Control loop overrun: 22.0 ms behind
+[2026-04-27 06:37:44.529] [WARNING] Control loop overrun: 15.4 ms behind
+[2026-04-27 06:37:44.753] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz) (suppressed 1 similar messages)
+[2026-04-27 06:38:13.865] [WARNING] Pendant disconnected
+[2026-04-27 06:38:24.049] [WARNING] Pendant disconnected
+[2026-04-27 06:38:29.643] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz) (suppressed 1 similar messages)
+[2026-04-27 06:38:29.829] [WARNING] Control loop overrun: 7.6 ms behind
+[2026-04-27 06:38:34.232] [WARNING] Pendant disconnected
+[2026-04-27 06:38:39.643] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz)
+[2026-04-27 06:38:44.429] [WARNING] Pendant disconnected
+[2026-04-27 06:38:49.643] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz)
+[2026-04-27 06:38:54.617] [WARNING] Pendant disconnected
+[2026-04-27 06:38:56.580] [WARNING] Control loop overrun: 23.8 ms behind
+[2026-04-27 06:54:30.704] [WARNING] Pendant disconnected
+[2026-04-27 06:54:35.351] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz) (suppressed 1 similar messages)
+[2026-04-27 06:54:36.682] [WARNING] Control loop overrun: 20.2 ms behind
+[2026-04-27 06:55:05.819] [WARNING] Pendant disconnected
+[2026-04-27 06:55:10.053] [WARNING] Control loop overrun: 5.0 ms behind
+[2026-04-27 06:55:10.188] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz)
+[2026-04-27 06:55:15.996] [WARNING] Pendant disconnected
+[2026-04-27 06:55:26.186] [WARNING] Pendant disconnected
+[2026-04-27 06:55:26.985] [WARNING] Control loop overrun: 17.8 ms behind
+[2026-04-27 06:55:30.180] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz) (suppressed 1 similar messages)
+[2026-04-27 06:55:32.684] [WARNING] Control loop overrun: 6.7 ms behind
+[2026-04-27 06:55:36.380] [WARNING] Pendant disconnected
+[2026-04-27 06:55:46.563] [WARNING] Pendant disconnected
+[2026-04-27 06:55:48.648] [WARNING] Control loop overrun: 15.1 ms behind
+[2026-04-27 06:55:50.180] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz) (suppressed 1 similar messages)
+[2026-04-27 07:11:22.898] [WARNING] Pendant disconnected
+[2026-04-27 07:11:29.582] [WARNING] Control loop overrun: 16.7 ms behind
+[2026-04-27 07:11:57.994] [WARNING] Pendant disconnected
+[2026-04-27 07:11:59.677] [WARNING] Control loop overrun: 28.4 ms behind
+[2026-04-27 07:12:00.670] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz) (suppressed 1 similar messages)
+[2026-04-27 07:12:08.189] [WARNING] Pendant disconnected
+[2026-04-27 07:12:10.816] [WARNING] Control loop overrun: 25.4 ms behind
+[2026-04-27 07:12:43.237] [WARNING] Pendant disconnected
+[2026-04-27 07:12:45.497] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz) (suppressed 1 similar messages)
+[2026-04-27 07:12:47.192] [WARNING] Control loop overrun: 15.5 ms behind
+[2026-04-27 07:13:18.331] [WARNING] Pendant disconnected
+[2026-04-27 07:13:23.107] [WARNING] Control loop overrun: 21.6 ms behind
+[2026-04-27 07:13:53.511] [WARNING] Pendant disconnected
+[2026-04-27 07:13:55.216] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz) (suppressed 1 similar messages)
+[2026-04-27 07:14:03.695] [WARNING] Pendant disconnected
+[2026-04-27 07:14:05.216] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz)
+[2026-04-27 07:14:08.152] [WARNING] Control loop overrun: 13.3 ms behind
+[2026-04-27 07:29:23.058] [WARNING] Pendant disconnected
+[2026-04-27 07:29:24.199] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz)
+[2026-04-27 07:29:33.258] [WARNING] Pendant disconnected
+[2026-04-27 07:29:34.199] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz)
+[2026-04-27 07:29:40.424] [WARNING] Control loop overrun: 37.3 ms behind
+[2026-04-27 07:45:08.619] [WARNING] Pendant disconnected
+[2026-04-27 07:45:14.380] [WARNING] Control loop overrun: 27.8 ms behind
+[2026-04-27 07:45:43.710] [WARNING] Pendant disconnected
+[2026-04-27 07:45:43.902] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz) (suppressed 1 similar messages)
+[2026-04-27 07:45:50.175] [WARNING] Control loop overrun: 12.5 ms behind
+[2026-04-27 07:46:18.867] [WARNING] Pendant disconnected
+[2026-04-27 07:46:20.271] [WARNING] Control loop overrun: 19.5 ms behind
+[2026-04-27 07:46:25.798] [WARNING] Control loop overrun: 8.3 ms behind
+[2026-04-27 07:46:53.563] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz) (suppressed 1 similar messages)
+[2026-04-27 07:46:54.032] [WARNING] Pendant disconnected
+[2026-04-27 07:46:56.676] [WARNING] Control loop overrun: 13.5 ms behind
+[2026-04-27 07:47:29.186] [WARNING] Pendant disconnected
+[2026-04-27 07:47:30.595] [WARNING] Control loop overrun: 25.5 ms behind
+[2026-04-27 07:48:03.213] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz) (suppressed 1 similar messages)
+[2026-04-27 07:48:04.298] [WARNING] Pendant disconnected
+[2026-04-27 07:48:04.497] [WARNING] Control loop overrun: 24.8 ms behind
+[2026-04-27 08:02:05.804] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz)
+[2026-04-27 08:02:07.338] [WARNING] Pendant disconnected
+[2026-04-27 08:02:17.133] [WARNING] Control loop overrun: 21.9 ms behind
+[2026-04-27 08:02:17.546] [WARNING] Pendant disconnected
+[2026-04-27 08:02:50.626] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz) (suppressed 1 similar messages)
+[2026-04-27 08:02:52.622] [WARNING] Pendant disconnected
+[2026-04-27 08:02:55.148] [WARNING] Control loop overrun: 20.1 ms behind
+[2026-04-27 08:03:25.457] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz)
+[2026-04-27 08:03:27.745] [WARNING] Pendant disconnected
+[2026-04-27 08:03:37.925] [WARNING] Pendant disconnected
+[2026-04-27 08:03:44.191] [WARNING] Control loop overrun: 36.5 ms behind
+[2026-04-27 08:03:45.456] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz) (suppressed 1 similar messages)
+[2026-04-27 08:19:03.428] [WARNING] Pendant disconnected
+[2026-04-27 08:19:31.276] [WARNING] Control loop overrun: 97.2 ms behind
+[2026-04-27 08:19:35.350] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz)
+[2026-04-27 08:19:38.587] [WARNING] Pendant disconnected
+[2026-04-27 08:19:48.775] [WARNING] Pendant disconnected
+[2026-04-27 08:19:51.829] [WARNING] Control loop overrun: 40.8 ms behind
+[2026-04-27 08:35:20.228] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz) (suppressed 1 similar messages)
+[2026-04-27 08:35:21.821] [WARNING] Control loop overrun: 12.2 ms behind
+[2026-04-27 08:35:24.108] [WARNING] Pendant disconnected
+[2026-04-27 08:35:34.301] [WARNING] Pendant disconnected
+[2026-04-27 08:35:40.228] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz) (suppressed 1 similar messages)
+[2026-04-27 08:35:44.491] [WARNING] Pendant disconnected
+[2026-04-27 08:35:47.115] [WARNING] Control loop overrun: 17.6 ms behind
+[2026-04-27 08:41:36.796] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz)
+[2026-04-27 08:41:41.411] [WARNING] Pendant disconnected
+[2026-04-27 08:41:51.790] [WARNING] Pendant disconnected
+[2026-04-27 08:41:56.796] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz) (suppressed 1 similar messages)
+[2026-04-27 08:42:02.181] [WARNING] Pendant disconnected
+[2026-04-27 08:42:06.796] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz)
+[2026-04-27 08:42:12.589] [WARNING] Pendant disconnected
+[2026-04-27 08:42:16.430] [WARNING] Control loop overrun: 15.6 ms behind
+[2026-04-27 08:42:23.006] [WARNING] Pendant disconnected
+[2026-04-27 08:42:26.795] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz) (suppressed 1 similar messages)

@@ -1,0 +1,944 @@
+# Kinmatech Robotics — session log
+# Started: 2026-03-15 20:54:07.773
+# Ended  : 2026-03-15 21:04:32
+# Entries: 939
+
+[2026-03-15 20:54:07.773] [WARNING] Pendant disconnected
+[2026-03-15 20:54:08.123] [INFO] Initial TCP position calculated
+[2026-03-15 20:54:08.123] [SUCCESS] Kinmatech Robotics application started
+[2026-03-15 20:54:08.563] [WARNING] Pendant disconnected
+[2026-03-15 20:54:10.121] [WARNING] Pendant disconnected
+[2026-03-15 20:54:12.414] [WARNING] Pendant disconnected
+[2026-03-15 20:54:12.871] [SUCCESS] Robot connection established
+[2026-03-15 20:54:14.977] [PROGRAM] Teach mode activated - program editing enabled
+[2026-03-15 20:54:15.837] [WARNING] Pendant disconnected
+[2026-03-15 20:54:18.022] [JOG] Started continuous jog: Cart X ↑
+[2026-03-15 20:54:18.437] [JOG] Cartesian X ↑ → -203.5mm
+[2026-03-15 20:54:18.567] [JOG] Cartesian X ↑ → -202.6mm
+[2026-03-15 20:54:18.737] [JOG] Cartesian X ↑ → -201.7mm
+[2026-03-15 20:54:18.758] [JOG] Cartesian X ↑ → -200.7mm
+[2026-03-15 20:54:18.889] [JOG] Cartesian X ↑ → -199.7mm
+[2026-03-15 20:54:19.034] [JOG] Cartesian X ↑ → -198.8mm
+[2026-03-15 20:54:19.078] [JOG] Stopped continuous jog
+[2026-03-15 20:54:19.080] [JOG] Cartesian X ↑ → -197.8mm
+[2026-03-15 20:54:21.055] [WARNING] Pendant disconnected
+[2026-03-15 20:54:26.818] [JOG] Started continuous jog: Cart X ↑
+[2026-03-15 20:54:27.234] [JOG] Cartesian X ↑ → -192.1mm
+[2026-03-15 20:54:27.379] [JOG] Cartesian X ↑ → -186.5mm
+[2026-03-15 20:54:27.490] [JOG] Cartesian X ↑ → -180.9mm
+[2026-03-15 20:54:27.571] [JOG] Cartesian X ↑ → -175.3mm
+[2026-03-15 20:54:27.729] [JOG] Cartesian X ↑ → -169.7mm
+[2026-03-15 20:54:27.792] [JOG] Cartesian X ↑ → -164.1mm
+[2026-03-15 20:54:27.862] [JOG] Cartesian X ↑ → -158.4mm
+[2026-03-15 20:54:27.969] [JOG] Cartesian X ↑ → -152.8mm
+[2026-03-15 20:54:28.128] [JOG] Cartesian X ↑ → -147.2mm
+[2026-03-15 20:54:28.194] [JOG] Cartesian X ↑ → -141.6mm
+[2026-03-15 20:54:28.249] [JOG] Cartesian X ↑ → -135.9mm
+[2026-03-15 20:54:28.374] [JOG] Cartesian X ↑ → -130.3mm
+[2026-03-15 20:54:28.505] [JOG] Cartesian X ↑ → -124.6mm
+[2026-03-15 20:54:28.577] [JOG] Cartesian X ↑ → -119.0mm
+[2026-03-15 20:54:28.723] [JOG] Cartesian X ↑ → -113.4mm
+[2026-03-15 20:54:28.796] [JOG] Cartesian X ↑ → -107.8mm
+[2026-03-15 20:54:28.943] [JOG] Cartesian X ↑ → -102.2mm
+[2026-03-15 20:54:28.949] [JOG] Cartesian X ↑ → -96.5mm
+[2026-03-15 20:54:29.006] [WARNING] Pendant disconnected
+[2026-03-15 20:54:29.060] [JOG] Cartesian X ↑ → -96.6mm
+[2026-03-15 20:54:29.189] [JOG] Cartesian X ↑ → -90.9mm
+[2026-03-15 20:54:29.284] [JOG] Cartesian X ↑ → -85.3mm
+[2026-03-15 20:54:29.409] [JOG] Cartesian X ↑ → -79.6mm
+[2026-03-15 20:54:29.477] [JOG] Cartesian X ↑ → -74.0mm
+[2026-03-15 20:54:29.570] [JOG] Cartesian X ↑ → -68.3mm
+[2026-03-15 20:54:29.679] [JOG] Cartesian X ↑ → -68.3mm
+[2026-03-15 20:54:29.797] [JOG] Cartesian X ↑ → -62.6mm
+[2026-03-15 20:54:29.853] [JOG] Cartesian X ↑ → -56.9mm
+[2026-03-15 20:54:29.963] [JOG] Cartesian X ↑ → -57.0mm
+[2026-03-15 20:54:30.093] [JOG] Cartesian X ↑ → -51.3mm
+[2026-03-15 20:54:30.240] [JOG] Cartesian X ↑ → -45.7mm
+[2026-03-15 20:54:30.247] [JOG] Cartesian X ↑ → -40.0mm
+[2026-03-15 20:54:30.345] [JOG] Cartesian X ↑ → -34.4mm
+[2026-03-15 20:54:30.492] [JOG] Cartesian X ↑ → -28.8mm
+[2026-03-15 20:54:30.547] [JOG] Cartesian X ↑ → -23.1mm
+[2026-03-15 20:54:30.670] [JOG] Cartesian X ↑ → -17.5mm
+[2026-03-15 20:54:30.829] [JOG] Cartesian X ↑ → -11.9mm
+[2026-03-15 20:54:30.906] [JOG] Cartesian X ↑ → -6.3mm
+[2026-03-15 20:54:30.951] [JOG] Cartesian X ↑ → -0.6mm
+[2026-03-15 20:54:31.081] [JOG] Cartesian X ↑ → 5.0mm
+[2026-03-15 20:54:31.194] [JOG] Stopped continuous jog
+[2026-03-15 20:54:31.196] [JOG] Cartesian X ↑ → 10.6mm
+[2026-03-15 20:54:37.633] [JOG] Started continuous jog: Cart Ry ↑
+[2026-03-15 20:54:38.050] [JOG] Cartesian RY ↑ → 55.9°
+[2026-03-15 20:54:38.192] [JOG] Cartesian RY ↑ → 54.7°
+[2026-03-15 20:54:38.306] [JOG] Cartesian RY ↑ → 52.7°
+[2026-03-15 20:54:38.374] [JOG] Cartesian RY ↑ → 50.2°
+[2026-03-15 20:54:38.445] [JOG] Cartesian RY ↑ → 47.1°
+[2026-03-15 20:54:38.555] [JOG] Cartesian RY ↑ → 43.6°
+[2026-03-15 20:54:38.681] [JOG] Cartesian RY ↑ → 39.8°
+[2026-03-15 20:54:38.847] [JOG] Cartesian RY ↑ → 35.8°
+[2026-03-15 20:54:38.960] [JOG] Cartesian RY ↑ → 31.5°
+[2026-03-15 20:54:39.072] [JOG] Cartesian RY ↑ → 27.1°
+[2026-03-15 20:54:39.148] [JOG] Cartesian RY ↑ → 22.6°
+[2026-03-15 20:54:39.297] [JOG] Cartesian RY ↑ → 18.0°
+[2026-03-15 20:54:39.376] [JOG] Cartesian RY ↑ → 13.4°
+[2026-03-15 20:54:39.525] [JOG] Cartesian RY ↑ → 8.7°
+[2026-03-15 20:54:39.590] [JOG] Cartesian RY ↑ → 4.0°
+[2026-03-15 20:54:39.591] [WARNING] Pendant disconnected
+[2026-03-15 20:54:39.661] [JOG] Cartesian RY ↑ → 4.0°
+[2026-03-15 20:54:39.875] [JOG] Cartesian RY ↑ → -0.8°
+[2026-03-15 20:54:39.942] [JOG] Stopped continuous jog
+[2026-03-15 20:54:39.945] [JOG] Cartesian RY ↑ → -5.5°
+[2026-03-15 20:54:41.016] [JOG] Started continuous jog: Cart Ry ↑
+[2026-03-15 20:54:41.438] [JOG] Cartesian RY ↑ → -10.2°
+[2026-03-15 20:54:41.578] [JOG] Cartesian RY ↑ → -14.9°
+[2026-03-15 20:54:41.648] [JOG] Cartesian RY ↑ → -19.5°
+[2026-03-15 20:54:41.809] [JOG] Cartesian RY ↑ → -24.1°
+[2026-03-15 20:54:41.872] [JOG] Cartesian RY ↑ → -28.5°
+[2026-03-15 20:54:41.927] [JOG] Stopped continuous jog
+[2026-03-15 20:54:41.930] [JOG] Cartesian RY ↑ → -32.9°
+[2026-03-15 20:54:48.766] [JOG] Started continuous jog: Cart Rz ↑
+[2026-03-15 20:54:49.178] [JOG] Cartesian RZ ↑ → 144.3°
+[2026-03-15 20:54:49.271] [JOG] Cartesian RZ ↑ → 150.0°
+[2026-03-15 20:54:49.398] [JOG] Cartesian RZ ↑ → 155.7°
+[2026-03-15 20:54:49.496] [JOG] Stopped continuous jog
+[2026-03-15 20:54:49.499] [JOG] Cartesian RZ ↑ → 161.4°
+[2026-03-15 20:54:49.984] [JOG] Started continuous jog: Cart Rz ↑
+[2026-03-15 20:54:50.106] [WARNING] Pendant disconnected
+[2026-03-15 20:54:50.393] [JOG] Cartesian RZ ↑ → 167.1°
+[2026-03-15 20:54:50.486] [JOG] Cartesian RZ ↑ → 172.8°
+[2026-03-15 20:54:50.660] [JOG] Cartesian RZ ↑ → 178.4°
+[2026-03-15 20:54:50.677] [JOG] Cartesian RZ ↑ → -175.9°
+[2026-03-15 20:54:50.788] [JOG] Cartesian RZ ↑ → -175.8°
+[2026-03-15 20:54:50.957] [JOG] Cartesian RZ ↑ → -170.1°
+[2026-03-15 20:54:51.077] [JOG] Cartesian RZ ↑ → -164.4°
+[2026-03-15 20:54:51.186] [JOG] Cartesian RZ ↑ → -158.8°
+[2026-03-15 20:54:51.251] [JOG] Cartesian RZ ↑ → -153.1°
+[2026-03-15 20:54:51.410] [JOG] Cartesian RZ ↑ → -147.4°
+[2026-03-15 20:54:51.522] [JOG] Cartesian RZ ↑ → -141.7°
+[2026-03-15 20:54:51.585] [JOG] Cartesian RZ ↑ → -136.0°
+[2026-03-15 20:54:51.712] [JOG] Cartesian RZ ↑ → -130.3°
+[2026-03-15 20:54:51.831] [JOG] Cartesian RZ ↑ → -124.6°
+[2026-03-15 20:54:51.878] [JOG] Cartesian RZ ↑ → -118.9°
+[2026-03-15 20:54:51.999] [JOG] Cartesian RZ ↑ → -118.9°
+[2026-03-15 20:54:52.009] [JOG] Stopped continuous jog
+[2026-03-15 20:54:52.012] [JOG] Cartesian RZ ↑ → -113.2°
+[2026-03-15 20:54:58.297] [JOG] Started continuous jog: Cart Y ↑
+[2026-03-15 20:54:58.716] [JOG] Cartesian Y ↑ → -685.5mm
+[2026-03-15 20:54:58.876] [JOG] Cartesian Y ↑ → -679.9mm
+[2026-03-15 20:54:58.939] [JOG] Cartesian Y ↑ → -674.3mm
+[2026-03-15 20:54:59.096] [JOG] Cartesian Y ↑ → -668.7mm
+[2026-03-15 20:54:59.154] [JOG] Cartesian Y ↑ → -663.1mm
+[2026-03-15 20:54:59.311] [JOG] Cartesian Y ↑ → -657.5mm
+[2026-03-15 20:54:59.370] [JOG] Cartesian Y ↑ → -651.9mm
+[2026-03-15 20:54:59.527] [JOG] Cartesian Y ↑ → -646.2mm
+[2026-03-15 20:54:59.585] [JOG] Cartesian Y ↑ → -640.6mm
+[2026-03-15 20:54:59.691] [JOG] Cartesian Y ↑ → -635.0mm
+[2026-03-15 20:54:59.746] [JOG] Cartesian Y ↑ → -629.3mm
+[2026-03-15 20:54:59.884] [JOG] Cartesian Y ↑ → -623.7mm
+[2026-03-15 20:54:59.994] [JOG] Cartesian Y ↑ → -618.1mm
+[2026-03-15 20:55:00.107] [JOG] Cartesian Y ↑ → -612.5mm
+[2026-03-15 20:55:00.179] [JOG] Cartesian Y ↑ → -606.9mm
+[2026-03-15 20:55:00.228] [JOG] Stopped continuous jog
+[2026-03-15 20:55:00.230] [JOG] Cartesian Y ↑ → -601.2mm
+[2026-03-15 20:55:00.668] [WARNING] Pendant disconnected
+[2026-03-15 20:55:01.966] [JOG] Started continuous jog: Cart X ↑
+[2026-03-15 20:55:02.374] [JOG] Cartesian X ↑ → 16.2mm
+[2026-03-15 20:55:02.464] [JOG] Cartesian X ↑ → 21.8mm
+[2026-03-15 20:55:02.625] [JOG] Cartesian X ↑ → 27.4mm
+[2026-03-15 20:55:02.706] [JOG] Cartesian X ↑ → 33.1mm
+[2026-03-15 20:55:02.774] [JOG] Cartesian X ↑ → 38.8mm
+[2026-03-15 20:55:02.883] [JOG] Cartesian X ↑ → 44.4mm
+[2026-03-15 20:55:02.991] [JOG] Cartesian X ↑ → 50.0mm
+[2026-03-15 20:55:03.046] [JOG] Cartesian X ↑ → 55.7mm
+[2026-03-15 20:55:03.221] [JOG] Cartesian X ↑ → 61.3mm
+[2026-03-15 20:55:03.279] [JOG] Cartesian X ↑ → 66.9mm
+[2026-03-15 20:55:03.388] [JOG] Cartesian X ↑ → 72.5mm
+[2026-03-15 20:55:03.443] [JOG] Cartesian X ↑ → 78.2mm
+[2026-03-15 20:55:03.565] [JOG] Cartesian X ↑ → 83.8mm
+[2026-03-15 20:55:03.690] [JOG] Cartesian X ↑ → 89.5mm
+[2026-03-15 20:55:03.799] [JOG] Cartesian X ↑ → 95.1mm
+[2026-03-15 20:55:03.910] [JOG] Cartesian X ↑ → 100.7mm
+[2026-03-15 20:55:04.019] [JOG] Cartesian X ↑ → 106.3mm
+[2026-03-15 20:55:04.130] [JOG] Cartesian X ↑ → 111.9mm
+[2026-03-15 20:55:04.191] [JOG] Cartesian X ↑ → 117.5mm
+[2026-03-15 20:55:04.246] [JOG] Cartesian X ↑ → 123.2mm
+[2026-03-15 20:55:04.370] [JOG] Cartesian X ↑ → 128.8mm
+[2026-03-15 20:55:04.477] [JOG] Cartesian X ↑ → 134.4mm
+[2026-03-15 20:55:04.602] [JOG] Cartesian X ↑ → 140.0mm
+[2026-03-15 20:55:04.711] [JOG] Cartesian X ↑ → 145.6mm
+[2026-03-15 20:55:04.823] [JOG] Cartesian X ↑ → 151.2mm
+[2026-03-15 20:55:04.898] [JOG] Cartesian X ↑ → 156.9mm
+[2026-03-15 20:55:05.044] [JOG] Cartesian X ↑ → 162.5mm
+[2026-03-15 20:55:05.160] [JOG] Cartesian X ↑ → 168.1mm
+[2026-03-15 20:55:05.272] [JOG] Cartesian X ↑ → 173.7mm
+[2026-03-15 20:55:05.347] [JOG] Cartesian X ↑ → 179.3mm
+[2026-03-15 20:55:05.509] [JOG] Cartesian X ↑ → 184.9mm
+[2026-03-15 20:55:05.575] [JOG] Cartesian X ↑ → 190.5mm
+[2026-03-15 20:55:05.643] [JOG] Cartesian X ↑ → 196.1mm
+[2026-03-15 20:55:05.839] [JOG] Cartesian X ↑ → 201.8mm
+[2026-03-15 20:55:05.847] [JOG] Cartesian X ↑ → 207.4mm
+[2026-03-15 20:55:05.967] [JOG] Cartesian X ↑ → 207.4mm
+[2026-03-15 20:55:06.123] [JOG] Cartesian X ↑ → 213.1mm
+[2026-03-15 20:55:06.184] [JOG] Cartesian X ↑ → 218.7mm
+[2026-03-15 20:55:06.359] [JOG] Cartesian X ↑ → 224.3mm
+[2026-03-15 20:55:06.473] [JOG] Cartesian X ↑ → 229.9mm
+[2026-03-15 20:55:06.547] [JOG] Stopped continuous jog
+[2026-03-15 20:55:11.300] [WARNING] Pendant disconnected
+[2026-03-15 20:55:11.584] [JOG] Started continuous jog: Cart X ↑
+[2026-03-15 20:55:11.996] [JOG] Cartesian X ↑ → 235.5mm
+[2026-03-15 20:55:12.088] [JOG] Cartesian X ↑ → 241.1mm
+[2026-03-15 20:55:12.248] [JOG] Cartesian X ↑ → 246.7mm
+[2026-03-15 20:55:12.312] [JOG] Cartesian X ↑ → 252.4mm
+[2026-03-15 20:55:12.380] [JOG] Cartesian X ↑ → 258.0mm
+[2026-03-15 20:55:12.472] [JOG] Cartesian X ↑ → 263.7mm
+[2026-03-15 20:55:12.643] [JOG] Cartesian X ↑ → 269.3mm
+[2026-03-15 20:55:12.649] [JOG] Cartesian X ↑ → 275.0mm
+[2026-03-15 20:55:12.775] [JOG] Cartesian X ↑ → 275.0mm
+[2026-03-15 20:55:12.893] [JOG] Cartesian X ↑ → 280.7mm
+[2026-03-15 20:55:12.985] [JOG] Cartesian X ↑ → 286.4mm
+[2026-03-15 20:55:13.093] [JOG] Cartesian X ↑ → 286.3mm
+[2026-03-15 20:55:13.160] [JOG] Cartesian X ↑ → 292.0mm
+[2026-03-15 20:55:13.330] [JOG] Cartesian X ↑ → 297.6mm
+[2026-03-15 20:55:13.344] [JOG] Cartesian X ↑ → 303.3mm
+[2026-03-15 20:55:13.467] [JOG] Cartesian X ↑ → 308.9mm
+[2026-03-15 20:55:13.644] [JOG] Cartesian X ↑ → 314.5mm
+[2026-03-15 20:55:13.753] [JOG] Stopped continuous jog
+[2026-03-15 20:55:13.755] [JOG] Cartesian X ↑ → 320.1mm
+[2026-03-15 20:55:16.084] [JOG] Started continuous jog: Cart X ↑
+[2026-03-15 20:55:16.492] [JOG] Cartesian X ↑ → 330.0mm
+[2026-03-15 20:55:16.633] [JOG] Cartesian X ↑ → 339.9mm
+[2026-03-15 20:55:16.697] [JOG] Cartesian X ↑ → 349.9mm
+[2026-03-15 20:55:16.816] [JOG] Cartesian X ↑ → 359.8mm
+[2026-03-15 20:55:16.913] [JOG] Cartesian X ↑ → 369.8mm
+[2026-03-15 20:55:16.970] [JOG] Cartesian X ↑ → 369.7mm
+[2026-03-15 20:55:17.138] [JOG] Cartesian X ↑ → 379.7mm
+[2026-03-15 20:55:17.150] [JOG] Cartesian X ↑ → 389.7mm
+[2026-03-15 20:55:17.275] [JOG] Cartesian X ↑ → 389.8mm
+[2026-03-15 20:55:17.400] [JOG] Cartesian X ↑ → 399.7mm
+[2026-03-15 20:55:17.455] [JOG] Cartesian X ↑ → 409.7mm
+[2026-03-15 20:55:17.621] [JOG] Cartesian X ↑ → 419.6mm
+[2026-03-15 20:55:17.679] [JOG] Cartesian X ↑ → 429.6mm
+[2026-03-15 20:55:17.802] [JOG] Cartesian X ↑ → 429.6mm
+[2026-03-15 20:55:17.958] [JOG] Cartesian X ↑ → 439.6mm
+[2026-03-15 20:55:18.067] [JOG] Cartesian X ↑ → 449.5mm
+[2026-03-15 20:55:18.192] [JOG] Cartesian X ↑ → 459.4mm
+[2026-03-15 20:55:18.301] [JOG] Cartesian X ↑ → 469.3mm
+[2026-03-15 20:55:18.412] [JOG] Cartesian X ↑ → 479.2mm
+[2026-03-15 20:55:18.525] [JOG] Cartesian X ↑ → 489.2mm
+[2026-03-15 20:55:18.604] [JOG] Cartesian X ↑ → 499.1mm
+[2026-03-15 20:55:18.650] [JOG] Cartesian X ↑ → 509.1mm
+[2026-03-15 20:55:18.818] [JOG] Cartesian X ↑ → 519.0mm
+[2026-03-15 20:55:18.864] [JOG] Cartesian X ↑ → 529.0mm
+[2026-03-15 20:55:18.983] [JOG] Cartesian X ↑ → 538.9mm
+[2026-03-15 20:55:19.054] [JOG] Cartesian X ↑ → 548.9mm
+[2026-03-15 20:55:19.177] [JOG] Cartesian X ↑ → 558.9mm
+[2026-03-15 20:55:19.284] [JOG] Cartesian X ↑ → 568.9mm
+[2026-03-15 20:55:19.351] [JOG] Cartesian X ↑ → 568.8mm
+[2026-03-15 20:55:19.457] [JOG] Cartesian X ↑ → 578.8mm
+[2026-03-15 20:55:19.615] [JOG] Cartesian X ↑ → 588.7mm
+[2026-03-15 20:55:19.684] [JOG] Cartesian X ↑ → 598.6mm
+[2026-03-15 20:55:19.751] [JOG] Cartesian X ↑ → 608.5mm
+[2026-03-15 20:55:19.847] [JOG] Cartesian X ↑ → 618.5mm
+[2026-03-15 20:55:19.986] [JOG] Cartesian X ↑ → 628.5mm
+[2026-03-15 20:55:20.092] [JOG] Cartesian X ↑ → 638.4mm
+[2026-03-15 20:55:20.199] [JOG] Cartesian X ↑ → 648.4mm
+[2026-03-15 20:55:20.359] [JOG] Cartesian X ↑ → 658.3mm
+[2026-03-15 20:55:20.476] [JOG] Cartesian X ↑ → 668.2mm
+[2026-03-15 20:55:20.586] [JOG] Cartesian X ↑ → 678.2mm
+[2026-03-15 20:55:20.698] [JOG] Cartesian X ↑ → 688.1mm
+[2026-03-15 20:55:20.808] [JOG] Stopped continuous jog
+[2026-03-15 20:55:20.810] [JOG] Cartesian X ↑ → 698.0mm
+[2026-03-15 20:55:22.113] [WARNING] Pendant disconnected
+[2026-03-15 20:55:23.017] [JOG] Started continuous jog: Cart Z ↑
+[2026-03-15 20:55:23.435] [JOG] Cartesian Z ↑ → 905.5mm
+[2026-03-15 20:55:23.579] [JOG] Cartesian Z ↑ → 915.5mm
+[2026-03-15 20:55:23.638] [JOG] Cartesian Z ↑ → 925.4mm
+[2026-03-15 20:55:23.795] [JOG] Cartesian Z ↑ → 935.3mm
+[2026-03-15 20:55:23.910] [JOG] Cartesian Z ↑ → 945.2mm
+[2026-03-15 20:55:23.978] [JOG] Cartesian Z ↑ → 955.1mm
+[2026-03-15 20:55:24.097] [JOG] Cartesian Z ↑ → 965.0mm
+[2026-03-15 20:55:24.194] [JOG] Cartesian Z ↑ → 975.0mm
+[2026-03-15 20:55:24.313] [JOG] Cartesian Z ↑ → 985.0mm
+[2026-03-15 20:55:24.376] [JOG] Cartesian Z ↑ → 995.0mm
+[2026-03-15 20:55:24.500] [JOG] Cartesian Z ↑ → 1004.9mm
+[2026-03-15 20:55:24.556] [JOG] Cartesian Z ↑ → 1014.9mm
+[2026-03-15 20:55:24.676] [JOG] Cartesian Z ↑ → 1024.8mm
+[2026-03-15 20:55:24.752] [JOG] Cartesian Z ↑ → 1034.7mm
+[2026-03-15 20:55:24.903] [JOG] Cartesian Z ↑ → 1044.7mm
+[2026-03-15 20:55:24.978] [JOG] Cartesian Z ↑ → 1054.6mm
+[2026-03-15 20:55:25.126] [JOG] Cartesian Z ↑ → 1064.5mm
+[2026-03-15 20:55:25.188] [JOG] Cartesian Z ↑ → 1074.4mm
+[2026-03-15 20:55:25.271] [JOG] Cartesian Z ↑ → 1084.3mm
+[2026-03-15 20:55:25.366] [JOG] Cartesian Z ↑ → 1094.3mm
+[2026-03-15 20:55:25.541] [JOG] Cartesian Z ↑ → 1104.3mm
+[2026-03-15 20:55:25.548] [JOG] Cartesian Z ↑ → 1114.3mm
+[2026-03-15 20:55:25.722] [JOG] Cartesian Z ↑ → 1124.2mm
+[2026-03-15 20:55:25.797] [JOG] Cartesian Z ↑ → 1134.1mm
+[2026-03-15 20:55:25.843] [JOG] Cartesian Z ↑ → 1144.1mm
+[2026-03-15 20:55:25.968] [JOG] Cartesian Z ↑ → 1154.0mm
+[2026-03-15 20:55:26.127] [JOG] Cartesian Z ↑ → 1164.0mm
+[2026-03-15 20:55:26.253] [JOG] Cartesian Z ↑ → 1173.9mm
+[2026-03-15 20:55:26.367] [JOG] Cartesian Z ↑ → 1183.8mm
+[2026-03-15 20:55:26.476] [JOG] Cartesian Z ↑ → 1193.7mm
+[2026-03-15 20:55:26.549] [JOG] Cartesian Z ↑ → 1203.7mm
+[2026-03-15 20:55:26.701] [JOG] Cartesian Z ↑ → 1213.6mm
+[2026-03-15 20:55:26.814] [JOG] Cartesian Z ↑ → 1223.5mm
+[2026-03-15 20:55:26.876] [JOG] Cartesian Z ↑ → 1233.5mm
+[2026-03-15 20:55:27.037] [JOG] Cartesian Z ↑ → 1243.4mm
+[2026-03-15 20:55:27.044] [JOG] Cartesian Z ↑ → 1253.4mm
+[2026-03-15 20:55:27.174] [JOG] Cartesian Z ↑ → 1253.3mm
+[2026-03-15 20:55:27.344] [JOG] Cartesian Z ↑ → 1263.3mm
+[2026-03-15 20:55:27.456] [JOG] Cartesian Z ↑ → 1273.2mm
+[2026-03-15 20:55:27.569] [JOG] Cartesian Z ↑ → 1283.2mm
+[2026-03-15 20:55:27.677] [JOG] Cartesian Z ↑ → 1293.1mm
+[2026-03-15 20:55:27.749] [JOG] Stopped continuous jog
+[2026-03-15 20:55:27.751] [JOG] Cartesian Z ↑ → 1303.0mm
+[2026-03-15 20:55:29.293] [JOG] Moving to Home position (P2P)
+[2026-03-15 20:55:29.295] [JOG] P2P → max Δ=258.6°, 12 frames
+[2026-03-15 20:55:30.440] [SUCCESS] P2P complete
+[2026-03-15 20:55:32.858] [WARNING] Pendant disconnected
+[2026-03-15 20:55:43.293] [WARNING] Pendant disconnected
+[2026-03-15 20:55:50.971] [PROGRAM] Weld parameter set ON for program positions (torch not active)
+[2026-03-15 20:55:53.692] [WARNING] Pendant disconnected
+[2026-03-15 20:56:04.076] [WARNING] Pendant disconnected
+[2026-03-15 20:56:09.880] [JOG] Motion type changed to CURVE
+[2026-03-15 20:56:12.084] [PROGRAM] Position 1 captured: X:-204.5, Y:-691.2, Z:895.5 (Motion: CURVE)
+[2026-03-15 20:56:14.443] [WARNING] Pendant disconnected
+[2026-03-15 20:56:15.183] [JOG] Started continuous jog: Cart X ↑
+[2026-03-15 20:56:15.594] [JOG] Cartesian X ↑ → -194.5mm
+[2026-03-15 20:56:15.740] [JOG] Cartesian X ↑ → -184.6mm
+[2026-03-15 20:56:15.806] [JOG] Cartesian X ↑ → -174.7mm
+[2026-03-15 20:56:15.876] [JOG] Cartesian X ↑ → -164.8mm
+[2026-03-15 20:56:15.968] [JOG] Cartesian X ↑ → -154.8mm
+[2026-03-15 20:56:16.091] [JOG] Cartesian X ↑ → -144.8mm
+[2026-03-15 20:56:16.201] [JOG] Cartesian X ↑ → -134.9mm
+[2026-03-15 20:56:16.261] [JOG] Cartesian X ↑ → -125.0mm
+[2026-03-15 20:56:16.454] [JOG] Cartesian X ↑ → -115.1mm
+[2026-03-15 20:56:16.573] [JOG] Cartesian X ↑ → -105.2mm
+[2026-03-15 20:56:16.645] [JOG] Cartesian X ↑ → -95.2mm
+[2026-03-15 20:56:16.796] [JOG] Cartesian X ↑ → -85.3mm
+[2026-03-15 20:56:16.906] [JOG] Cartesian X ↑ → -75.4mm
+[2026-03-15 20:56:16.983] [JOG] Cartesian X ↑ → -65.5mm
+[2026-03-15 20:56:17.133] [JOG] Cartesian X ↑ → -55.6mm
+[2026-03-15 20:56:17.196] [JOG] Cartesian X ↑ → -45.6mm
+[2026-03-15 20:56:17.252] [JOG] Cartesian X ↑ → -35.6mm
+[2026-03-15 20:56:17.406] [JOG] Cartesian X ↑ → -25.7mm
+[2026-03-15 20:56:17.450] [JOG] Cartesian X ↑ → -15.7mm
+[2026-03-15 20:56:17.574] [JOG] Cartesian X ↑ → -5.8mm
+[2026-03-15 20:56:17.682] [JOG] Cartesian X ↑ → 4.1mm
+[2026-03-15 20:56:17.791] [JOG] Cartesian X ↑ → 14.1mm
+[2026-03-15 20:56:17.851] [JOG] Cartesian X ↑ → 24.1mm
+[2026-03-15 20:56:18.028] [JOG] Cartesian X ↑ → 34.0mm
+[2026-03-15 20:56:18.096] [JOG] Cartesian X ↑ → 43.9mm
+[2026-03-15 20:56:18.151] [JOG] Cartesian X ↑ → 53.9mm
+[2026-03-15 20:56:18.339] [JOG] Cartesian X ↑ → 63.8mm
+[2026-03-15 20:56:18.348] [JOG] Cartesian X ↑ → 73.8mm
+[2026-03-15 20:56:18.470] [JOG] Cartesian X ↑ → 83.8mm
+[2026-03-15 20:56:18.631] [JOG] Cartesian X ↑ → 93.7mm
+[2026-03-15 20:56:18.741] [JOG] Cartesian X ↑ → 103.6mm
+[2026-03-15 20:56:18.748] [JOG] Cartesian X ↑ → 113.6mm
+[2026-03-15 20:56:18.857] [JOG] Cartesian X ↑ → 123.5mm
+[2026-03-15 20:56:18.968] [JOG] Cartesian X ↑ → 133.4mm
+[2026-03-15 20:56:19.079] [JOG] Cartesian X ↑ → 143.3mm
+[2026-03-15 20:56:19.170] [JOG] Cartesian X ↑ → 153.3mm
+[2026-03-15 20:56:19.317] [JOG] Cartesian X ↑ → 163.2mm
+[2026-03-15 20:56:19.392] [JOG] Cartesian X ↑ → 173.1mm
+[2026-03-15 20:56:19.449] [JOG] Cartesian X ↑ → 183.1mm
+[2026-03-15 20:56:19.608] [JOG] Cartesian X ↑ → 193.0mm
+[2026-03-15 20:56:19.717] [JOG] Cartesian X ↑ → 203.0mm
+[2026-03-15 20:56:19.827] [JOG] Cartesian X ↑ → 212.9mm
+[2026-03-15 20:56:19.847] [JOG] Cartesian X ↑ → 222.9mm
+[2026-03-15 20:56:20.010] [JOG] Cartesian X ↑ → 232.8mm
+[2026-03-15 20:56:20.140] [JOG] Cartesian X ↑ → 242.7mm
+[2026-03-15 20:56:20.147] [JOG] Cartesian X ↑ → 252.7mm
+[2026-03-15 20:56:20.256] [JOG] Cartesian X ↑ → 262.6mm
+[2026-03-15 20:56:20.368] [JOG] Cartesian X ↑ → 272.6mm
+[2026-03-15 20:56:20.477] [JOG] Cartesian X ↑ → 282.5mm
+[2026-03-15 20:56:20.551] [JOG] Cartesian X ↑ → 292.4mm
+[2026-03-15 20:56:20.699] [JOG] Cartesian X ↑ → 302.4mm
+[2026-03-15 20:56:20.808] [JOG] Cartesian X ↑ → 312.3mm
+[2026-03-15 20:56:20.924] [JOG] Cartesian X ↑ → 322.2mm
+[2026-03-15 20:56:20.988] [JOG] Cartesian X ↑ → 332.1mm
+[2026-03-15 20:56:21.060] [JOG] Cartesian X ↑ → 342.1mm
+[2026-03-15 20:56:21.183] [JOG] Cartesian X ↑ → 352.1mm
+[2026-03-15 20:56:21.291] [JOG] Cartesian X ↑ → 362.0mm
+[2026-03-15 20:56:21.349] [JOG] Cartesian X ↑ → 372.0mm
+[2026-03-15 20:56:21.524] [JOG] Cartesian X ↑ → 381.9mm
+[2026-03-15 20:56:21.593] [JOG] Cartesian X ↑ → 391.8mm
+[2026-03-15 20:56:21.648] [JOG] Cartesian X ↑ → 401.8mm
+[2026-03-15 20:56:21.782] [JOG] Cartesian X ↑ → 411.7mm
+[2026-03-15 20:56:21.948] [JOG] Cartesian X ↑ → 421.6mm
+[2026-03-15 20:56:22.059] [JOG] Cartesian X ↑ → 431.6mm
+[2026-03-15 20:56:22.172] [JOG] Cartesian X ↑ → 441.5mm
+[2026-03-15 20:56:22.249] [JOG] Cartesian X ↑ → 451.4mm
+[2026-03-15 20:56:22.347] [JOG] Cartesian X ↑ → 461.3mm
+[2026-03-15 20:56:22.456] [JOG] Stopped continuous jog
+[2026-03-15 20:56:22.459] [JOG] Cartesian X ↑ → 471.2mm
+[2026-03-15 20:56:25.168] [JOG] Started continuous jog: Cart Y ↓
+[2026-03-15 20:56:25.301] [WARNING] Pendant disconnected
+[2026-03-15 20:56:25.576] [JOG] Cartesian Y ↓ → -701.2mm
+[2026-03-15 20:56:25.665] [JOG] Cartesian Y ↓ → -711.1mm
+[2026-03-15 20:56:25.828] [JOG] Cartesian Y ↓ → -721.0mm
+[2026-03-15 20:56:25.911] [JOG] Cartesian Y ↓ → -730.9mm
+[2026-03-15 20:56:25.966] [JOG] Cartesian Y ↓ → -740.9mm
+[2026-03-15 20:56:26.089] [JOG] Cartesian Y ↓ → -750.9mm
+[2026-03-15 20:56:26.154] [JOG] Cartesian Y ↓ → -760.8mm
+[2026-03-15 20:56:26.315] [JOG] Cartesian Y ↓ → -770.7mm
+[2026-03-15 20:56:26.428] [JOG] Cartesian Y ↓ → -780.6mm
+[2026-03-15 20:56:26.487] [JOG] Cartesian Y ↓ → -790.5mm
+[2026-03-15 20:56:26.543] [JOG] Cartesian Y ↓ → -800.5mm
+[2026-03-15 20:56:26.666] [JOG] Cartesian Y ↓ → -800.5mm
+[2026-03-15 20:56:26.773] [JOG] Cartesian Y ↓ → -810.5mm
+[2026-03-15 20:56:26.846] [JOG] Cartesian Y ↓ → -820.5mm
+[2026-03-15 20:56:27.022] [JOG] Cartesian Y ↓ → -830.4mm
+[2026-03-15 20:56:27.132] [JOG] Cartesian Y ↓ → -840.3mm
+[2026-03-15 20:56:27.143] [JOG] Cartesian Y ↓ → -850.3mm
+[2026-03-15 20:56:27.321] [JOG] Cartesian Y ↓ → -860.2mm
+[2026-03-15 20:56:27.401] [JOG] Cartesian Y ↓ → -870.1mm
+[2026-03-15 20:56:27.446] [JOG] Cartesian Y ↓ → -880.1mm
+[2026-03-15 20:56:27.620] [JOG] Cartesian Y ↓ → -890.0mm
+[2026-03-15 20:56:27.697] [JOG] Cartesian Y ↓ → -900.0mm
+[2026-03-15 20:56:27.758] [JOG] Cartesian Y ↓ → -910.0mm
+[2026-03-15 20:56:27.883] [JOG] Cartesian Y ↓ → -919.9mm
+[2026-03-15 20:56:27.992] [JOG] Cartesian Y ↓ → -929.8mm
+[2026-03-15 20:56:28.099] [JOG] Cartesian Y ↓ → -939.8mm
+[2026-03-15 20:56:28.209] [JOG] Cartesian Y ↓ → -949.7mm
+[2026-03-15 20:56:28.264] [JOG] Cartesian Y ↓ → -959.7mm
+[2026-03-15 20:56:28.439] [JOG] Stopped continuous jog
+[2026-03-15 20:56:28.441] [JOG] Cartesian Y ↓ → -969.7mm
+[2026-03-15 20:56:29.251] [JOG] Started continuous jog: Cart Z ↑
+[2026-03-15 20:56:29.660] [JOG] Cartesian Z ↑ → 905.5mm
+[2026-03-15 20:56:29.748] [JOG] Cartesian Z ↑ → 915.5mm
+[2026-03-15 20:56:29.925] [JOG] Cartesian Z ↑ → 925.4mm
+[2026-03-15 20:56:29.985] [JOG] Cartesian Z ↑ → 935.3mm
+[2026-03-15 20:56:30.143] [JOG] Cartesian Z ↑ → 945.2mm
+[2026-03-15 20:56:30.258] [JOG] Cartesian Z ↑ → 955.1mm
+[2026-03-15 20:56:30.374] [JOG] Cartesian Z ↑ → 965.1mm
+[2026-03-15 20:56:30.449] [JOG] Cartesian Z ↑ → 975.0mm
+[2026-03-15 20:56:30.598] [JOG] Cartesian Z ↑ → 984.9mm
+[2026-03-15 20:56:30.674] [JOG] Cartesian Z ↑ → 994.8mm
+[2026-03-15 20:56:30.787] [JOG] Cartesian Z ↑ → 1004.7mm
+[2026-03-15 20:56:30.845] [JOG] Cartesian Z ↑ → 1014.7mm
+[2026-03-15 20:56:30.968] [JOG] Cartesian Z ↑ → 1024.7mm
+[2026-03-15 20:56:31.128] [JOG] Cartesian Z ↑ → 1034.6mm
+[2026-03-15 20:56:31.146] [JOG] Cartesian Z ↑ → 1044.6mm
+[2026-03-15 20:56:31.303] [JOG] Cartesian Z ↑ → 1054.5mm
+[2026-03-15 20:56:31.414] [JOG] Cartesian Z ↑ → 1064.4mm
+[2026-03-15 20:56:31.523] [JOG] Cartesian Z ↑ → 1074.4mm
+[2026-03-15 20:56:31.649] [JOG] Cartesian Z ↑ → 1084.3mm
+[2026-03-15 20:56:31.763] [JOG] Cartesian Z ↑ → 1094.2mm
+[2026-03-15 20:56:31.877] [JOG] Cartesian Z ↑ → 1104.1mm
+[2026-03-15 20:56:31.987] [JOG] Cartesian Z ↑ → 1114.1mm
+[2026-03-15 20:56:32.052] [JOG] Cartesian Z ↑ → 1124.0mm
+[2026-03-15 20:56:32.159] [JOG] Cartesian Z ↑ → 1133.9mm
+[2026-03-15 20:56:32.219] [JOG] Stopped continuous jog
+[2026-03-15 20:56:32.222] [JOG] Cartesian Z ↑ → 1143.9mm
+[2026-03-15 20:56:34.647] [PROGRAM] Position 2 captured: X:471.1, Y:-969.6, Z:1143.8 (Motion: CURVE)
+[2026-03-15 20:56:35.988] [WARNING] Pendant disconnected
+[2026-03-15 20:56:46.401] [WARNING] Pendant disconnected
+[2026-03-15 20:56:48.150] [JOG] Started continuous jog: Cart X ↑
+[2026-03-15 20:56:48.559] [JOG] Cartesian X ↑ → 481.1mm
+[2026-03-15 20:56:48.653] [JOG] Cartesian X ↑ → 491.1mm
+[2026-03-15 20:56:48.834] [JOG] Cartesian X ↑ → 501.0mm
+[2026-03-15 20:56:48.843] [JOG] Cartesian X ↑ → 511.0mm
+[2026-03-15 20:56:48.976] [JOG] Cartesian X ↑ → 520.9mm
+[2026-03-15 20:56:49.046] [JOG] Cartesian X ↑ → 530.9mm
+[2026-03-15 20:56:49.206] [JOG] Cartesian X ↑ → 540.9mm
+[2026-03-15 20:56:49.279] [JOG] Cartesian X ↑ → 550.8mm
+[2026-03-15 20:56:49.428] [JOG] Cartesian X ↑ → 560.7mm
+[2026-03-15 20:56:49.488] [JOG] Cartesian X ↑ → 570.6mm
+[2026-03-15 20:56:49.544] [JOG] Cartesian X ↑ → 580.6mm
+[2026-03-15 20:56:49.683] [JOG] Cartesian X ↑ → 580.5mm
+[2026-03-15 20:56:49.790] [JOG] Cartesian X ↑ → 590.5mm
+[2026-03-15 20:56:49.861] [JOG] Cartesian X ↑ → 600.5mm
+[2026-03-15 20:56:49.977] [JOG] Cartesian X ↑ → 610.5mm
+[2026-03-15 20:56:50.046] [JOG] Cartesian X ↑ → 620.5mm
+[2026-03-15 20:56:50.157] [JOG] Cartesian X ↑ → 630.4mm
+[2026-03-15 20:56:50.282] [JOG] Cartesian X ↑ → 640.3mm
+[2026-03-15 20:56:50.382] [JOG] Cartesian X ↑ → 650.3mm
+[2026-03-15 20:56:50.488] [JOG] Cartesian X ↑ → 650.2mm
+[2026-03-15 20:56:50.575] [JOG] Cartesian X ↑ → 660.2mm
+[2026-03-15 20:56:50.667] [JOG] Cartesian X ↑ → 670.2mm
+[2026-03-15 20:56:50.776] [JOG] Cartesian X ↑ → 670.2mm
+[2026-03-15 20:56:50.896] [JOG] Cartesian X ↑ → 680.2mm
+[2026-03-15 20:56:50.950] [JOG] Cartesian X ↑ → 690.2mm
+[2026-03-15 20:56:51.127] [JOG] Cartesian X ↑ → 700.1mm
+[2026-03-15 20:56:51.191] [JOG] Cartesian X ↑ → 710.0mm
+[2026-03-15 20:56:51.246] [JOG] Cartesian X ↑ → 720.0mm
+[2026-03-15 20:56:51.373] [JOG] Cartesian X ↑ → 729.9mm
+[2026-03-15 20:56:51.500] [JOG] Cartesian X ↑ → 739.9mm
+[2026-03-15 20:56:51.557] [JOG] Cartesian X ↑ → 749.9mm
+[2026-03-15 20:56:51.669] [JOG] Cartesian X ↑ → 749.8mm
+[2026-03-15 20:56:51.875] [JOG] Cartesian X ↑ → 759.8mm
+[2026-03-15 20:56:51.994] [JOG] Cartesian X ↑ → 769.7mm
+[2026-03-15 20:56:52.107] [JOG] Cartesian X ↑ → 779.6mm
+[2026-03-15 20:56:52.183] [JOG] Cartesian X ↑ → 789.5mm
+[2026-03-15 20:56:52.336] [JOG] Cartesian X ↑ → 799.5mm
+[2026-03-15 20:56:52.403] [JOG] Cartesian X ↑ → 809.4mm
+[2026-03-15 20:56:52.475] [JOG] Cartesian X ↑ → 819.4mm
+[2026-03-15 20:56:52.592] [JOG] Cartesian X ↑ → 829.3mm
+[2026-03-15 20:56:52.686] [JOG] Cartesian X ↑ → 839.3mm
+[2026-03-15 20:56:52.759] [JOG] Cartesian X ↑ → 839.2mm
+[2026-03-15 20:56:52.879] [JOG] Cartesian X ↑ → 849.2mm
+[2026-03-15 20:56:53.037] [JOG] Cartesian X ↑ → 859.1mm
+[2026-03-15 20:56:53.044] [JOG] Cartesian X ↑ → 869.1mm
+[2026-03-15 20:56:53.178] [JOG] Cartesian X ↑ → 879.1mm
+[2026-03-15 20:56:53.346] [JOG] Cartesian X ↑ → 889.0mm
+[2026-03-15 20:56:53.466] [JOG] Cartesian X ↑ → 898.9mm
+[2026-03-15 20:56:53.574] [JOG] Cartesian X ↑ → 908.9mm
+[2026-03-15 20:56:53.688] [JOG] Cartesian X ↑ → 918.8mm
+[2026-03-15 20:56:53.746] [JOG] Cartesian X ↑ → 928.7mm
+[2026-03-15 20:56:53.911] [JOG] Cartesian X ↑ → 938.6mm
+[2026-03-15 20:56:53.979] [JOG] Cartesian X ↑ → 948.5mm
+[2026-03-15 20:56:54.048] [JOG] Cartesian X ↑ → 958.5mm
+[2026-03-15 20:56:54.154] [JOG] Cartesian X ↑ → 968.5mm
+[2026-03-15 20:56:54.295] [JOG] Cartesian X ↑ → 978.4mm
+[2026-03-15 20:56:54.342] [JOG] Cartesian X ↑ → 988.4mm
+[2026-03-15 20:56:54.463] [JOG] Cartesian X ↑ → 998.3mm
+[2026-03-15 20:56:54.624] [JOG] Cartesian X ↑ → 1008.2mm
+[2026-03-15 20:56:54.689] [JOG] Cartesian X ↑ → 1018.1mm
+[2026-03-15 20:56:54.758] [JOG] Cartesian X ↑ → 1028.1mm
+[2026-03-15 20:56:54.852] [JOG] Cartesian X ↑ → 1038.1mm
+[2026-03-15 20:56:54.962] [JOG] Cartesian X ↑ → 1038.0mm
+[2026-03-15 20:56:55.130] [JOG] Cartesian X ↑ → 1048.0mm
+[2026-03-15 20:56:55.209] [JOG] Cartesian X ↑ → 1057.9mm
+[2026-03-15 20:56:55.265] [JOG] Cartesian X ↑ → 1067.9mm
+[2026-03-15 20:56:55.340] [JOG] Cartesian X ↑ → 1067.8mm
+[2026-03-15 20:56:55.463] [JOG] Cartesian X ↑ → 1077.8mm
+[2026-03-15 20:56:55.571] [JOG] Cartesian X ↑ → 1087.8mm
+[2026-03-15 20:56:55.670] [JOG] Cartesian X ↑ → 1097.8mm
+[2026-03-15 20:56:55.783] [JOG] Cartesian X ↑ → 1097.7mm
+[2026-03-15 20:56:55.842] [JOG] Cartesian X ↑ → 1107.7mm
+[2026-03-15 20:56:55.935] [JOG] Stopped continuous jog
+[2026-03-15 20:56:55.937] [JOG] Cartesian X ↑ → 1117.6mm
+[2026-03-15 20:56:57.190] [WARNING] Pendant disconnected
+[2026-03-15 20:57:00.149] [JOG] Started continuous jog: Cart Y ↑
+[2026-03-15 20:57:00.556] [JOG] Cartesian Y ↑ → -959.6mm
+[2026-03-15 20:57:00.646] [JOG] Cartesian Y ↑ → -949.7mm
+[2026-03-15 20:57:00.808] [JOG] Cartesian Y ↑ → -939.7mm
+[2026-03-15 20:57:00.871] [JOG] Cartesian Y ↑ → -929.8mm
+[2026-03-15 20:57:01.039] [JOG] Cartesian Y ↑ → -919.9mm
+[2026-03-15 20:57:01.045] [JOG] Cartesian Y ↑ → -909.9mm
+[2026-03-15 20:57:01.156] [JOG] Cartesian Y ↑ → -900.0mm
+[2026-03-15 20:57:01.273] [JOG] Cartesian Y ↑ → -890.0mm
+[2026-03-15 20:57:01.389] [JOG] Cartesian Y ↑ → -880.1mm
+[2026-03-15 20:57:01.464] [JOG] Cartesian Y ↑ → -870.2mm
+[2026-03-15 20:57:01.592] [JOG] Cartesian Y ↑ → -860.3mm
+[2026-03-15 20:57:01.689] [JOG] Cartesian Y ↑ → -850.3mm
+[2026-03-15 20:57:01.850] [JOG] Cartesian Y ↑ → -840.4mm
+[2026-03-15 20:57:01.966] [JOG] Cartesian Y ↑ → -830.4mm
+[2026-03-15 20:57:02.082] [JOG] Cartesian Y ↑ → -820.5mm
+[2026-03-15 20:57:02.191] [JOG] Stopped continuous jog
+[2026-03-15 20:57:02.193] [JOG] Cartesian Y ↑ → -810.6mm
+[2026-03-15 20:57:03.150] [JOG] Started continuous jog: Cart Z ↓
+[2026-03-15 20:57:03.558] [JOG] Cartesian Z ↓ → 1133.8mm
+[2026-03-15 20:57:03.648] [JOG] Cartesian Z ↓ → 1123.8mm
+[2026-03-15 20:57:03.826] [JOG] Cartesian Z ↓ → 1113.9mm
+[2026-03-15 20:57:03.886] [JOG] Cartesian Z ↓ → 1103.9mm
+[2026-03-15 20:57:04.042] [JOG] Cartesian Z ↓ → 1094.0mm
+[2026-03-15 20:57:04.160] [JOG] Cartesian Z ↓ → 1084.1mm
+[2026-03-15 20:57:04.280] [JOG] Cartesian Z ↓ → 1074.2mm
+[2026-03-15 20:57:04.394] [JOG] Cartesian Z ↓ → 1064.3mm
+[2026-03-15 20:57:04.454] [JOG] Cartesian Z ↓ → 1054.3mm
+[2026-03-15 20:57:04.614] [JOG] Cartesian Z ↓ → 1044.4mm
+[2026-03-15 20:57:04.696] [JOG] Cartesian Z ↓ → 1034.5mm
+[2026-03-15 20:57:04.855] [JOG] Cartesian Z ↓ → 1024.5mm
+[2026-03-15 20:57:04.969] [JOG] Cartesian Z ↓ → 1014.6mm
+[2026-03-15 20:57:05.077] [JOG] Cartesian Z ↓ → 1004.7mm
+[2026-03-15 20:57:05.188] [JOG] Stopped continuous jog
+[2026-03-15 20:57:05.190] [JOG] Cartesian Z ↓ → 994.8mm
+[2026-03-15 20:57:06.997] [PROGRAM] Position 3 captured: X:1117.5, Y:-810.6, Z:994.9 (Motion: CURVE)
+[2026-03-15 20:57:07.760] [WARNING] Pendant disconnected
+[2026-03-15 20:57:09.500] [JOG] Started continuous jog: Cart Z ↑
+[2026-03-15 20:57:09.918] [JOG] Cartesian Z ↑ → 1004.9mm
+[2026-03-15 20:57:10.062] [JOG] Cartesian Z ↑ → 1014.8mm
+[2026-03-15 20:57:10.126] [JOG] Cartesian Z ↑ → 1024.7mm
+[2026-03-15 20:57:10.261] [JOG] Cartesian Z ↑ → 1034.6mm
+[2026-03-15 20:57:10.358] [JOG] Cartesian Z ↑ → 1044.6mm
+[2026-03-15 20:57:10.516] [JOG] Cartesian Z ↑ → 1054.5mm
+[2026-03-15 20:57:10.581] [JOG] Cartesian Z ↑ → 1064.4mm
+[2026-03-15 20:57:10.650] [JOG] Cartesian Z ↑ → 1074.4mm
+[2026-03-15 20:57:10.758] [JOG] Cartesian Z ↑ → 1084.3mm
+[2026-03-15 20:57:10.922] [JOG] Cartesian Z ↑ → 1094.3mm
+[2026-03-15 20:57:10.982] [JOG] Cartesian Z ↑ → 1104.2mm
+[2026-03-15 20:57:11.037] [JOG] Stopped continuous jog
+[2026-03-15 20:57:11.040] [JOG] Cartesian Z ↑ → 1114.2mm
+[2026-03-15 20:57:11.650] [JOG] Started continuous jog: Cart Y ↑
+[2026-03-15 20:57:12.056] [JOG] Cartesian Y ↑ → -800.6mm
+[2026-03-15 20:57:12.149] [JOG] Cartesian Y ↑ → -790.7mm
+[2026-03-15 20:57:12.309] [JOG] Cartesian Y ↑ → -780.8mm
+[2026-03-15 20:57:12.378] [JOG] Cartesian Y ↑ → -770.9mm
+[2026-03-15 20:57:12.498] [JOG] Cartesian Y ↑ → -761.0mm
+[2026-03-15 20:57:12.542] [JOG] Cartesian Y ↑ → -751.0mm
+[2026-03-15 20:57:12.663] [JOG] Cartesian Y ↑ → -741.0mm
+[2026-03-15 20:57:12.774] [JOG] Cartesian Y ↑ → -731.1mm
+[2026-03-15 20:57:12.886] [JOG] Cartesian Y ↑ → -721.2mm
+[2026-03-15 20:57:13.013] [JOG] Cartesian Y ↑ → -711.3mm
+[2026-03-15 20:57:13.077] [JOG] Cartesian Y ↑ → -701.4mm
+[2026-03-15 20:57:13.147] [JOG] Cartesian Y ↑ → -691.4mm
+[2026-03-15 20:57:13.270] [JOG] Cartesian Y ↑ → -681.4mm
+[2026-03-15 20:57:13.384] [JOG] Cartesian Y ↑ → -671.5mm
+[2026-03-15 20:57:13.484] [JOG] Cartesian Y ↑ → -661.6mm
+[2026-03-15 20:57:13.552] [JOG] Cartesian Y ↑ → -651.6mm
+[2026-03-15 20:57:13.664] [JOG] Cartesian Y ↑ → -641.7mm
+[2026-03-15 20:57:13.828] [JOG] Cartesian Y ↑ → -631.7mm
+[2026-03-15 20:57:13.906] [JOG] Cartesian Y ↑ → -621.8mm
+[2026-03-15 20:57:13.962] [JOG] Cartesian Y ↑ → -611.8mm
+[2026-03-15 20:57:14.086] [JOG] Cartesian Y ↑ → -601.9mm
+[2026-03-15 20:57:14.143] [JOG] Cartesian Y ↑ → -591.9mm
+[2026-03-15 20:57:14.278] [JOG] Cartesian Y ↑ → -582.0mm
+[2026-03-15 20:57:14.427] [JOG] Cartesian Y ↑ → -572.0mm
+[2026-03-15 20:57:14.538] [JOG] Cartesian Y ↑ → -562.1mm
+[2026-03-15 20:57:14.545] [JOG] Cartesian Y ↑ → -552.1mm
+[2026-03-15 20:57:14.676] [JOG] Cartesian Y ↑ → -542.2mm
+[2026-03-15 20:57:14.842] [JOG] Stopped continuous jog
+[2026-03-15 20:57:14.844] [JOG] Cartesian Y ↑ → -532.3mm
+[2026-03-15 20:57:15.399] [JOG] Started continuous jog: Cart Z ↑
+[2026-03-15 20:57:15.813] [JOG] Cartesian Z ↑ → 1124.2mm
+[2026-03-15 20:57:15.954] [JOG] Cartesian Z ↑ → 1134.2mm
+[2026-03-15 20:57:16.029] [JOG] Cartesian Z ↑ → 1144.1mm
+[2026-03-15 20:57:16.176] [JOG] Cartesian Z ↑ → 1154.0mm
+[2026-03-15 20:57:16.236] [JOG] Cartesian Z ↑ → 1163.9mm
+[2026-03-15 20:57:16.397] [JOG] Cartesian Z ↑ → 1173.8mm
+[2026-03-15 20:57:16.471] [JOG] Cartesian Z ↑ → 1183.7mm
+[2026-03-15 20:57:16.637] [JOG] Cartesian Z ↑ → 1193.7mm
+[2026-03-15 20:57:16.644] [JOG] Cartesian Z ↑ → 1203.7mm
+[2026-03-15 20:57:16.754] [JOG] Cartesian Z ↑ → 1213.6mm
+[2026-03-15 20:57:16.866] [JOG] Cartesian Z ↑ → 1223.5mm
+[2026-03-15 20:57:16.979] [JOG] Cartesian Z ↑ → 1233.4mm
+[2026-03-15 20:57:17.058] [JOG] Cartesian Z ↑ → 1243.3mm
+[2026-03-15 20:57:17.155] [JOG] Cartesian Z ↑ → 1253.3mm
+[2026-03-15 20:57:17.280] [JOG] Cartesian Z ↑ → 1263.2mm
+[2026-03-15 20:57:17.393] [JOG] Cartesian Z ↑ → 1273.1mm
+[2026-03-15 20:57:17.495] [JOG] Cartesian Z ↑ → 1283.0mm
+[2026-03-15 20:57:17.551] [JOG] Cartesian Z ↑ → 1293.0mm
+[2026-03-15 20:57:17.682] [JOG] Cartesian Z ↑ → 1293.0mm
+[2026-03-15 20:57:17.738] [JOG] Stopped continuous jog
+[2026-03-15 20:57:17.740] [JOG] Cartesian Z ↑ → 1303.0mm
+[2026-03-15 20:57:18.471] [WARNING] Pendant disconnected
+[2026-03-15 20:57:19.724] [PROGRAM] Position 4 captured: X:1117.5, Y:-532.4, Z:1302.9 (Motion: CURVE)
+[2026-03-15 20:57:21.256] [JOG] Motion type changed to LINEAR
+[2026-03-15 20:57:24.465] [JOG] Started continuous jog: Cart Z ↑
+[2026-03-15 20:57:24.873] [JOG] Cartesian Z ↑ → 1312.9mm
+[2026-03-15 20:57:24.964] [JOG] Cartesian Z ↑ → 1322.8mm
+[2026-03-15 20:57:25.126] [JOG] Cartesian Z ↑ → 1332.7mm
+[2026-03-15 20:57:25.187] [JOG] Cartesian Z ↑ → 1342.6mm
+[2026-03-15 20:57:25.259] [JOG] Cartesian Z ↑ → 1352.6mm
+[2026-03-15 20:57:25.354] [JOG] Cartesian Z ↑ → 1362.6mm
+[2026-03-15 20:57:25.476] [JOG] Cartesian Z ↑ → 1372.5mm
+[2026-03-15 20:57:25.554] [JOG] Cartesian Z ↑ → 1382.4mm
+[2026-03-15 20:57:25.719] [JOG] Cartesian Z ↑ → 1392.3mm
+[2026-03-15 20:57:25.785] [JOG] Cartesian Z ↑ → 1402.3mm
+[2026-03-15 20:57:25.858] [JOG] Cartesian Z ↑ → 1412.3mm
+[2026-03-15 20:57:25.966] [JOG] Cartesian Z ↑ → 1422.2mm
+[2026-03-15 20:57:26.075] [JOG] Cartesian Z ↑ → 1432.1mm
+[2026-03-15 20:57:26.236] [JOG] Cartesian Z ↑ → 1442.0mm
+[2026-03-15 20:57:26.243] [JOG] Cartesian Z ↑ → 1452.0mm
+[2026-03-15 20:57:26.438] [JOG] Cartesian Z ↑ → 1462.0mm
+[2026-03-15 20:57:26.445] [JOG] Cartesian Z ↑ → 1472.0mm
+[2026-03-15 20:57:26.556] [JOG] Cartesian Z ↑ → 1481.9mm
+[2026-03-15 20:57:26.662] [JOG] Cartesian Z ↑ → 1491.8mm
+[2026-03-15 20:57:26.773] [JOG] Cartesian Z ↑ → 1501.7mm
+[2026-03-15 20:57:26.888] [JOG] Cartesian Z ↑ → 1511.6mm
+[2026-03-15 20:57:26.999] [JOG] Cartesian Z ↑ → 1521.6mm
+[2026-03-15 20:57:27.113] [JOG] Cartesian Z ↑ → 1531.5mm
+[2026-03-15 20:57:27.224] [JOG] Cartesian Z ↑ → 1541.4mm
+[2026-03-15 20:57:27.335] [JOG] Cartesian Z ↑ → 1551.3mm
+[2026-03-15 20:57:27.344] [JOG] Cartesian Z ↑ → 1561.3mm
+[2026-03-15 20:57:27.481] [JOG] Cartesian Z ↑ → 1571.2mm
+[2026-03-15 20:57:27.601] [JOG] Cartesian Z ↑ → 1581.2mm
+[2026-03-15 20:57:27.645] [JOG] Cartesian Z ↑ → 1591.2mm
+[2026-03-15 20:57:27.818] [JOG] Cartesian Z ↑ → 1601.1mm
+[2026-03-15 20:57:27.895] [JOG] Cartesian Z ↑ → 1611.0mm
+[2026-03-15 20:57:27.993] [JOG] Cartesian Z ↑ → 1621.0mm
+[2026-03-15 20:57:28.100] [JOG] Cartesian Z ↑ → 1631.0mm
+[2026-03-15 20:57:28.260] [JOG] Cartesian Z ↑ → 1640.9mm
+[2026-03-15 20:57:28.388] [JOG] Cartesian Z ↑ → 1650.8mm
+[2026-03-15 20:57:28.470] [JOG] Cartesian Z ↑ → 1660.7mm
+[2026-03-15 20:57:28.617] [JOG] Cartesian Z ↑ → 1670.6mm
+[2026-03-15 20:57:28.729] [JOG] Cartesian Z ↑ → 1680.6mm
+[2026-03-15 20:57:28.743] [JOG] Cartesian Z ↑ → 1690.6mm
+[2026-03-15 20:57:28.924] [JOG] Cartesian Z ↑ → 1700.5mm
+[2026-03-15 20:57:28.989] [JOG] Cartesian Z ↑ → 1710.4mm
+[2026-03-15 20:57:29.056] [WARNING] Pendant disconnected
+[2026-03-15 20:57:29.058] [JOG] Cartesian Z ↑ → 1720.4mm
+[2026-03-15 20:57:29.233] [JOG] Cartesian Z ↑ → 1730.3mm
+[2026-03-15 20:57:29.255] [JOG] Cartesian Z ↑ → 1740.3mm
+[2026-03-15 20:57:29.418] [JOG] Cartesian Z ↑ → 1750.2mm
+[2026-03-15 20:57:29.528] [JOG] Cartesian Z ↑ → 1760.2mm
+[2026-03-15 20:57:29.588] [JOG] Cartesian Z ↑ → 1770.2mm
+[2026-03-15 20:57:29.712] [JOG] Cartesian Z ↑ → 1780.1mm
+[2026-03-15 20:57:29.757] [JOG] Cartesian Z ↑ → 1790.1mm
+[2026-03-15 20:57:29.881] [JOG] Stopped continuous jog
+[2026-03-15 20:57:29.883] [JOG] Cartesian Z ↑ → 1800.0mm
+[2026-03-15 20:57:32.830] [PROGRAM] Position 5 captured: X:1117.5, Y:-532.4, Z:1799.9 (Motion: LINEAR)
+[2026-03-15 20:57:35.016] [JOG] Started continuous jog: Cart Y ↓
+[2026-03-15 20:57:35.436] [JOG] Cartesian Y ↓ → -542.4mm
+[2026-03-15 20:57:35.600] [JOG] Cartesian Y ↓ → -552.3mm
+[2026-03-15 20:57:35.718] [JOG] Cartesian Y ↓ → -562.2mm
+[2026-03-15 20:57:35.782] [JOG] Cartesian Y ↓ → -572.1mm
+[2026-03-15 20:57:35.854] [JOG] Cartesian Y ↓ → -582.1mm
+[2026-03-15 20:57:36.014] [JOG] Cartesian Y ↓ → -592.0mm
+[2026-03-15 20:57:36.128] [JOG] Cartesian Y ↓ → -602.0mm
+[2026-03-15 20:57:36.143] [JOG] Cartesian Y ↓ → -612.0mm
+[2026-03-15 20:57:36.267] [JOG] Cartesian Y ↓ → -612.0mm
+[2026-03-15 20:57:36.430] [JOG] Cartesian Y ↓ → -622.0mm
+[2026-03-15 20:57:36.489] [JOG] Cartesian Y ↓ → -631.9mm
+[2026-03-15 20:57:36.562] [JOG] Cartesian Y ↓ → -641.9mm
+[2026-03-15 20:57:36.683] [JOG] Cartesian Y ↓ → -651.9mm
+[2026-03-15 20:57:36.796] [JOG] Cartesian Y ↓ → -661.8mm
+[2026-03-15 20:57:36.911] [JOG] Cartesian Y ↓ → -671.7mm
+[2026-03-15 20:57:37.023] [JOG] Cartesian Y ↓ → -681.6mm
+[2026-03-15 20:57:37.081] [JOG] Cartesian Y ↓ → -691.6mm
+[2026-03-15 20:57:37.189] [JOG] Cartesian Y ↓ → -691.6mm
+[2026-03-15 20:57:37.259] [JOG] Cartesian Y ↓ → -701.6mm
+[2026-03-15 20:57:37.357] [JOG] Cartesian Y ↓ → -711.6mm
+[2026-03-15 20:57:37.496] [JOG] Cartesian Y ↓ → -711.5mm
+[2026-03-15 20:57:37.605] [JOG] Cartesian Y ↓ → -721.5mm
+[2026-03-15 20:57:37.660] [JOG] Cartesian Y ↓ → -731.5mm
+[2026-03-15 20:57:37.834] [JOG] Cartesian Y ↓ → -741.4mm
+[2026-03-15 20:57:37.845] [JOG] Cartesian Y ↓ → -751.4mm
+[2026-03-15 20:57:37.970] [JOG] Cartesian Y ↓ → -761.3mm
+[2026-03-15 20:57:38.078] [JOG] Cartesian Y ↓ → -771.3mm
+[2026-03-15 20:57:38.187] [JOG] Cartesian Y ↓ → -781.2mm
+[2026-03-15 20:57:38.244] [JOG] Cartesian Y ↓ → -791.2mm
+[2026-03-15 20:57:38.434] [JOG] Cartesian Y ↓ → -801.1mm
+[2026-03-15 20:57:38.478] [JOG] Cartesian Y ↓ → -811.1mm
+[2026-03-15 20:57:38.600] [JOG] Cartesian Y ↓ → -821.0mm
+[2026-03-15 20:57:38.655] [JOG] Cartesian Y ↓ → -831.0mm
+[2026-03-15 20:57:38.782] [JOG] Cartesian Y ↓ → -840.9mm
+[2026-03-15 20:57:38.841] [JOG] Cartesian Y ↓ → -850.9mm
+[2026-03-15 20:57:38.967] [JOG] Cartesian Y ↓ → -850.9mm
+[2026-03-15 20:57:39.091] [JOG] Cartesian Y ↓ → -860.9mm
+[2026-03-15 20:57:39.201] [JOG] Cartesian Y ↓ → -870.8mm
+[2026-03-15 20:57:39.328] [JOG] Cartesian Y ↓ → -880.7mm
+[2026-03-15 20:57:39.392] [JOG] Cartesian Y ↓ → -890.6mm
+[2026-03-15 20:57:39.447] [JOG] Cartesian Y ↓ → -900.6mm
+[2026-03-15 20:57:39.615] [WARNING] Pendant disconnected
+[2026-03-15 20:57:39.618] [JOG] Cartesian Y ↓ → -910.6mm
+[2026-03-15 20:57:39.662] [JOG] Cartesian Y ↓ → -920.6mm
+[2026-03-15 20:57:39.782] [JOG] Cartesian Y ↓ → -930.5mm
+[2026-03-15 20:57:39.841] [JOG] Cartesian Y ↓ → -940.5mm
+[2026-03-15 20:57:40.020] [JOG] Cartesian Y ↓ → -950.4mm
+[2026-03-15 20:57:40.092] [JOG] Cartesian Y ↓ → -960.3mm
+[2026-03-15 20:57:40.149] [JOG] Cartesian Y ↓ → -970.3mm
+[2026-03-15 20:57:40.290] [JOG] Cartesian Y ↓ → -980.2mm
+[2026-03-15 20:57:40.349] [JOG] Cartesian Y ↓ → -990.2mm
+[2026-03-15 20:57:40.526] [JOG] Cartesian Y ↓ → -1000.2mm
+[2026-03-15 20:57:40.596] [JOG] Cartesian Y ↓ → -1010.1mm
+[2026-03-15 20:57:40.666] [JOG] Cartesian Y ↓ → -1020.1mm
+[2026-03-15 20:57:40.827] [JOG] Cartesian Y ↓ → -1030.0mm
+[2026-03-15 20:57:40.847] [JOG] Cartesian Y ↓ → -1040.0mm
+[2026-03-15 20:57:40.970] [JOG] Cartesian Y ↓ → -1049.9mm
+[2026-03-15 20:57:41.081] [JOG] Cartesian Y ↓ → -1059.8mm
+[2026-03-15 20:57:41.144] [JOG] Cartesian Y ↓ → -1069.8mm
+[2026-03-15 20:57:41.318] [JOG] Cartesian Y ↓ → -1079.8mm
+[2026-03-15 20:57:41.431] [JOG] Cartesian Y ↓ → -1089.7mm
+[2026-03-15 20:57:41.546] [JOG] Cartesian Y ↓ → -1099.6mm
+[2026-03-15 20:57:41.663] [JOG] Cartesian Y ↓ → -1109.5mm
+[2026-03-15 20:57:41.781] [JOG] Cartesian Y ↓ → -1119.4mm
+[2026-03-15 20:57:41.892] [JOG] Cartesian Y ↓ → -1129.3mm
+[2026-03-15 20:57:41.966] [JOG] Cartesian Y ↓ → -1139.2mm
+[2026-03-15 20:57:42.096] [JOG] Cartesian Y ↓ → -1149.2mm
+[2026-03-15 20:57:42.141] [JOG] Cartesian Y ↓ → -1159.2mm
+[2026-03-15 20:57:42.264] [JOG] Stopped continuous jog
+[2026-03-15 20:57:42.264] [JOG] Cartesian Y ↓ → -1159.1mm
+[2026-03-15 20:57:44.507] [PROGRAM] Position 6 captured: X:1117.5, Y:-1159.1, Z:1799.9 (Motion: LINEAR)
+[2026-03-15 20:57:45.984] [JOG] Started continuous jog: Cart Z ↓
+[2026-03-15 20:57:46.392] [JOG] Cartesian Z ↓ → 1789.9mm
+[2026-03-15 20:57:46.483] [JOG] Cartesian Z ↓ → 1780.0mm
+[2026-03-15 20:57:46.646] [JOG] Cartesian Z ↓ → 1770.1mm
+[2026-03-15 20:57:46.707] [JOG] Cartesian Z ↓ → 1760.1mm
+[2026-03-15 20:57:46.763] [JOG] Cartesian Z ↓ → 1750.1mm
+[2026-03-15 20:57:46.925] [JOG] Cartesian Z ↓ → 1740.2mm
+[2026-03-15 20:57:46.981] [JOG] Cartesian Z ↓ → 1730.2mm
+[2026-03-15 20:57:47.056] [JOG] Cartesian Z ↓ → 1720.2mm
+[2026-03-15 20:57:47.285] [JOG] Cartesian Z ↓ → 1710.3mm
+[2026-03-15 20:57:47.401] [JOG] Cartesian Z ↓ → 1700.4mm
+[2026-03-15 20:57:47.517] [JOG] Cartesian Z ↓ → 1690.4mm
+[2026-03-15 20:57:47.632] [JOG] Cartesian Z ↓ → 1680.5mm
+[2026-03-15 20:57:47.743] [JOG] Cartesian Z ↓ → 1670.6mm
+[2026-03-15 20:57:47.859] [JOG] Cartesian Z ↓ → 1660.7mm
+[2026-03-15 20:57:47.989] [JOG] Cartesian Z ↓ → 1650.8mm
+[2026-03-15 20:57:48.069] [JOG] Cartesian Z ↓ → 1640.8mm
+[2026-03-15 20:57:48.179] [JOG] Cartesian Z ↓ → 1630.9mm
+[2026-03-15 20:57:48.329] [JOG] Cartesian Z ↓ → 1621.0mm
+[2026-03-15 20:57:48.396] [JOG] Cartesian Z ↓ → 1611.1mm
+[2026-03-15 20:57:48.452] [JOG] Cartesian Z ↓ → 1601.1mm
+[2026-03-15 20:57:48.574] [JOG] Cartesian Z ↓ → 1591.1mm
+[2026-03-15 20:57:48.682] [JOG] Cartesian Z ↓ → 1581.2mm
+[2026-03-15 20:57:48.791] [JOG] Cartesian Z ↓ → 1571.2mm
+[2026-03-15 20:57:48.930] [JOG] Cartesian Z ↓ → 1561.3mm
+[2026-03-15 20:57:48.974] [JOG] Cartesian Z ↓ → 1551.3mm
+[2026-03-15 20:57:49.093] [JOG] Cartesian Z ↓ → 1541.4mm
+[2026-03-15 20:57:49.152] [JOG] Cartesian Z ↓ → 1531.4mm
+[2026-03-15 20:57:49.287] [JOG] Cartesian Z ↓ → 1521.4mm
+[2026-03-15 20:57:49.437] [JOG] Cartesian Z ↓ → 1511.5mm
+[2026-03-15 20:57:49.443] [JOG] Cartesian Z ↓ → 1501.5mm
+[2026-03-15 20:57:49.620] [JOG] Cartesian Z ↓ → 1491.6mm
+[2026-03-15 20:57:49.730] [JOG] Cartesian Z ↓ → 1481.7mm
+[2026-03-15 20:57:49.858] [JOG] Cartesian Z ↓ → 1471.8mm
+[2026-03-15 20:57:49.969] [JOG] Cartesian Z ↓ → 1461.8mm
+[2026-03-15 20:57:50.079] [JOG] Cartesian Z ↓ → 1451.9mm
+[2026-03-15 20:57:50.192] [JOG] Cartesian Z ↓ → 1442.0mm
+[2026-03-15 20:57:50.305] [JOG] Cartesian Z ↓ → 1432.0mm
+[2026-03-15 20:57:50.417] [JOG] Cartesian Z ↓ → 1422.1mm
+[2026-03-15 20:57:50.474] [WARNING] Pendant disconnected
+[2026-03-15 20:57:50.529] [JOG] Cartesian Z ↓ → 1412.2mm
+[2026-03-15 20:57:50.590] [JOG] Cartesian Z ↓ → 1402.3mm
+[2026-03-15 20:57:50.660] [JOG] Cartesian Z ↓ → 1392.4mm
+[2026-03-15 20:57:50.771] [JOG] Cartesian Z ↓ → 1382.4mm
+[2026-03-15 20:57:50.911] [JOG] Cartesian Z ↓ → 1372.4mm
+[2026-03-15 20:57:50.956] [JOG] Cartesian Z ↓ → 1362.4mm
+[2026-03-15 20:57:51.129] [JOG] Cartesian Z ↓ → 1352.5mm
+[2026-03-15 20:57:51.148] [JOG] Cartesian Z ↓ → 1342.5mm
+[2026-03-15 20:57:51.309] [JOG] Cartesian Z ↓ → 1332.6mm
+[2026-03-15 20:57:51.421] [JOG] Cartesian Z ↓ → 1322.7mm
+[2026-03-15 20:57:51.533] [JOG] Cartesian Z ↓ → 1312.8mm
+[2026-03-15 20:57:51.541] [JOG] Cartesian Z ↓ → 1302.8mm
+[2026-03-15 20:57:51.669] [JOG] Cartesian Z ↓ → 1292.8mm
+[2026-03-15 20:57:51.778] [JOG] Cartesian Z ↓ → 1282.9mm
+[2026-03-15 20:57:51.892] [JOG] Cartesian Z ↓ → 1272.9mm
+[2026-03-15 20:57:52.003] [JOG] Cartesian Z ↓ → 1263.0mm
+[2026-03-15 20:57:52.068] [JOG] Cartesian Z ↓ → 1253.1mm
+[2026-03-15 20:57:52.226] [JOG] Cartesian Z ↓ → 1243.2mm
+[2026-03-15 20:57:52.284] [JOG] Cartesian Z ↓ → 1233.2mm
+[2026-03-15 20:57:52.342] [JOG] Cartesian Z ↓ → 1223.2mm
+[2026-03-15 20:57:52.467] [JOG] Cartesian Z ↓ → 1213.3mm
+[2026-03-15 20:57:52.646] [JOG] Cartesian Z ↓ → 1203.4mm
+[2026-03-15 20:57:52.756] [JOG] Cartesian Z ↓ → 1193.5mm
+[2026-03-15 20:57:52.869] [JOG] Cartesian Z ↓ → 1183.6mm
+[2026-03-15 20:57:52.950] [JOG] Cartesian Z ↓ → 1173.6mm
+[2026-03-15 20:57:53.098] [JOG] Cartesian Z ↓ → 1163.7mm
+[2026-03-15 20:57:53.162] [JOG] Cartesian Z ↓ → 1153.8mm
+[2026-03-15 20:57:53.321] [JOG] Cartesian Z ↓ → 1143.8mm
+[2026-03-15 20:57:53.384] [JOG] Cartesian Z ↓ → 1133.9mm
+[2026-03-15 20:57:53.445] [JOG] Stopped continuous jog
+[2026-03-15 20:57:53.447] [JOG] Cartesian Z ↓ → 1123.9mm
+[2026-03-15 20:57:55.696] [PROGRAM] Position 7 captured: X:1117.5, Y:-1159.1, Z:1124.0 (Motion: LINEAR)
+[2026-03-15 20:57:57.567] [JOG] Started continuous jog: Cart Y ↑
+[2026-03-15 20:57:57.975] [JOG] Cartesian Y ↑ → -1149.1mm
+[2026-03-15 20:57:58.064] [JOG] Cartesian Y ↑ → -1139.2mm
+[2026-03-15 20:57:58.225] [JOG] Cartesian Y ↑ → -1129.2mm
+[2026-03-15 20:57:58.286] [JOG] Cartesian Y ↑ → -1119.3mm
+[2026-03-15 20:57:58.357] [JOG] Cartesian Y ↑ → -1109.3mm
+[2026-03-15 20:57:58.468] [JOG] Cartesian Y ↑ → -1099.4mm
+[2026-03-15 20:57:58.577] [JOG] Cartesian Y ↑ → -1089.4mm
+[2026-03-15 20:57:58.686] [JOG] Cartesian Y ↑ → -1079.5mm
+[2026-03-15 20:57:58.743] [JOG] Cartesian Y ↑ → -1069.5mm
+[2026-03-15 20:57:58.926] [JOG] Cartesian Y ↑ → -1059.6mm
+[2026-03-15 20:57:58.944] [JOG] Cartesian Y ↑ → -1049.6mm
+[2026-03-15 20:57:59.067] [JOG] Cartesian Y ↑ → -1039.6mm
+[2026-03-15 20:57:59.214] [JOG] Cartesian Y ↑ → -1029.7mm
+[2026-03-15 20:57:59.324] [JOG] Cartesian Y ↑ → -1019.8mm
+[2026-03-15 20:57:59.390] [JOG] Cartesian Y ↑ → -1009.9mm
+[2026-03-15 20:57:59.445] [JOG] Cartesian Y ↑ → -999.9mm
+[2026-03-15 20:57:59.568] [JOG] Cartesian Y ↑ → -990.0mm
+[2026-03-15 20:57:59.678] [JOG] Cartesian Y ↑ → -980.0mm
+[2026-03-15 20:57:59.753] [JOG] Cartesian Y ↑ → -970.0mm
+[2026-03-15 20:57:59.888] [JOG] Cartesian Y ↑ → -960.1mm
+[2026-03-15 20:57:59.983] [JOG] Cartesian Y ↑ → -950.2mm
+[2026-03-15 20:58:00.096] [JOG] Cartesian Y ↑ → -940.3mm
+[2026-03-15 20:58:00.165] [JOG] Cartesian Y ↑ → -930.3mm
+[2026-03-15 20:58:00.290] [JOG] Cartesian Y ↑ → -920.4mm
+[2026-03-15 20:58:00.347] [JOG] Cartesian Y ↑ → -910.4mm
+[2026-03-15 20:58:00.459] [JOG] Cartesian Y ↑ → -910.5mm
+[2026-03-15 20:58:00.644] [JOG] Cartesian Y ↑ → -900.5mm
+[2026-03-15 20:58:00.760] [JOG] Cartesian Y ↑ → -890.5mm
+[2026-03-15 20:58:00.876] [JOG] Cartesian Y ↑ → -880.6mm
+[2026-03-15 20:58:00.988] [JOG] Cartesian Y ↑ → -870.7mm
+[2026-03-15 20:58:01.060] [JOG] Cartesian Y ↑ → -860.8mm
+[2026-03-15 20:58:01.221] [WARNING] Pendant disconnected
+[2026-03-15 20:58:01.223] [JOG] Cartesian Y ↑ → -850.8mm
+[2026-03-15 20:58:01.288] [JOG] Cartesian Y ↑ → -840.9mm
+[2026-03-15 20:58:01.347] [JOG] Cartesian Y ↑ → -830.9mm
+[2026-03-15 20:58:01.512] [JOG] Cartesian Y ↑ → -821.0mm
+[2026-03-15 20:58:01.572] [JOG] Cartesian Y ↑ → -811.0mm
+[2026-03-15 20:58:01.660] [JOG] Cartesian Y ↑ → -801.1mm
+[2026-03-15 20:58:01.821] [JOG] Cartesian Y ↑ → -791.1mm
+[2026-03-15 20:58:01.882] [JOG] Cartesian Y ↑ → -781.1mm
+[2026-03-15 20:58:01.952] [JOG] Cartesian Y ↑ → -781.2mm
+[2026-03-15 20:58:02.071] [JOG] Cartesian Y ↑ → -771.2mm
+[2026-03-15 20:58:02.220] [JOG] Cartesian Y ↑ → -761.3mm
+[2026-03-15 20:58:02.285] [JOG] Cartesian Y ↑ → -751.4mm
+[2026-03-15 20:58:02.342] [JOG] Cartesian Y ↑ → -741.4mm
+[2026-03-15 20:58:02.465] [JOG] Cartesian Y ↑ → -731.5mm
+[2026-03-15 20:58:02.591] [JOG] Cartesian Y ↑ → -721.5mm
+[2026-03-15 20:58:02.646] [JOG] Cartesian Y ↑ → -711.5mm
+[2026-03-15 20:58:02.770] [JOG] Cartesian Y ↑ → -701.6mm
+[2026-03-15 20:58:02.879] [JOG] Cartesian Y ↑ → -691.7mm
+[2026-03-15 20:58:02.987] [JOG] Cartesian Y ↑ → -681.8mm
+[2026-03-15 20:58:03.045] [JOG] Cartesian Y ↑ → -671.8mm
+[2026-03-15 20:58:03.182] [JOG] Cartesian Y ↑ → -661.8mm
+[2026-03-15 20:58:03.331] [JOG] Cartesian Y ↑ → -651.9mm
+[2026-03-15 20:58:03.341] [JOG] Cartesian Y ↑ → -641.9mm
+[2026-03-15 20:58:03.497] [JOG] Cartesian Y ↑ → -632.0mm
+[2026-03-15 20:58:03.544] [JOG] Cartesian Y ↑ → -622.0mm
+[2026-03-15 20:58:03.700] [JOG] Cartesian Y ↑ → -612.0mm
+[2026-03-15 20:58:03.758] [JOG] Cartesian Y ↑ → -602.0mm
+[2026-03-15 20:58:03.901] [JOG] Cartesian Y ↑ → -592.1mm
+[2026-03-15 20:58:03.945] [JOG] Cartesian Y ↑ → -582.1mm
+[2026-03-15 20:58:04.070] [JOG] Cartesian Y ↑ → -582.2mm
+[2026-03-15 20:58:04.190] [JOG] Cartesian Y ↑ → -572.2mm
+[2026-03-15 20:58:04.288] [JOG] Cartesian Y ↑ → -562.3mm
+[2026-03-15 20:58:04.363] [JOG] Cartesian Y ↑ → -552.3mm
+[2026-03-15 20:58:04.473] [JOG] Cartesian Y ↑ → -552.4mm
+[2026-03-15 20:58:04.545] [JOG] Stopped continuous jog
+[2026-03-15 20:58:04.548] [JOG] Cartesian Y ↑ → -542.4mm
+[2026-03-15 20:58:06.464] [PROGRAM] Position 8 captured: X:1117.5, Y:-542.4, Z:1124.1 (Motion: LINEAR)
+[2026-03-15 20:58:11.737] [WARNING] Pendant disconnected
+[2026-03-15 20:58:15.540] [PROGRAM] Program 'test_zigzag' saved with 8 positions
+[2026-03-15 20:58:17.564] [PROGRAM] Starting path generation for 8 waypoints
+[2026-03-15 20:58:20.120] [SUCCESS] Path generated: 8 waypoints → 1619 servo points
+[2026-03-15 20:58:22.263] [WARNING] Pendant disconnected
+[2026-03-15 20:58:24.538] [SUCCESS] Dry run pre-check analysis: 1619 frames — all checks passed ✓
+[2026-03-15 20:58:24.554] [JOG] P2P to trajectory start position…
+[2026-03-15 20:58:24.554] [JOG] P2P → max Δ=86.0°, 12 frames
+[2026-03-15 20:58:25.523] [SUCCESS] P2P complete
+[2026-03-15 20:58:25.525] [PROGRAM] Dry run: test_zigzag_joint_angles.txt
+[2026-03-15 20:58:33.010] [WARNING] Pendant disconnected
+[2026-03-15 20:58:43.828] [WARNING] Pendant disconnected
+[2026-03-15 20:58:54.620] [WARNING] Pendant disconnected
+[2026-03-15 20:59:05.369] [WARNING] Pendant disconnected
+[2026-03-15 20:59:15.989] [WARNING] Pendant disconnected
+[2026-03-15 20:59:26.725] [WARNING] Pendant disconnected
+[2026-03-15 20:59:37.540] [WARNING] Pendant disconnected
+[2026-03-15 20:59:45.647] [PROGRAM] Weld parameter set OFF for program positions
+[2026-03-15 20:59:48.292] [WARNING] Pendant disconnected
+[2026-03-15 20:59:59.131] [WARNING] Pendant disconnected
+[2026-03-15 21:00:09.926] [WARNING] Pendant disconnected
+[2026-03-15 21:00:20.684] [WARNING] Pendant disconnected
+[2026-03-15 21:00:22.468] [SUCCESS] Trajectory playback finished
+[2026-03-15 21:00:30.964] [SUCCESS] Dry run pre-check analysis: 1619 frames — all checks passed ✓
+[2026-03-15 21:00:30.992] [JOG] P2P to trajectory start position…
+[2026-03-15 21:00:30.992] [JOG] P2P → max Δ=16.4°, 12 frames
+[2026-03-15 21:00:31.289] [WARNING] Pendant disconnected
+[2026-03-15 21:00:32.082] [SUCCESS] P2P complete
+[2026-03-15 21:00:32.084] [PROGRAM] Dry run: test_zigzag_joint_angles.txt
+[2026-03-15 21:00:42.138] [WARNING] Pendant disconnected
+[2026-03-15 21:00:52.987] [WARNING] Pendant disconnected
+[2026-03-15 21:01:03.760] [WARNING] Pendant disconnected
+[2026-03-15 21:01:14.423] [WARNING] Pendant disconnected
+[2026-03-15 21:01:25.223] [WARNING] Pendant disconnected
+[2026-03-15 21:01:35.918] [WARNING] Pendant disconnected
+[2026-03-15 21:01:46.706] [WARNING] Pendant disconnected
+[2026-03-15 21:01:57.487] [WARNING] Pendant disconnected
+[2026-03-15 21:02:08.304] [WARNING] Pendant disconnected
+[2026-03-15 21:02:19.153] [WARNING] Pendant disconnected
+[2026-03-15 21:02:27.954] [SUCCESS] Trajectory playback finished
+[2026-03-15 21:02:29.906] [WARNING] Pendant disconnected
+[2026-03-15 21:02:31.747] [SUCCESS] Dry run pre-check analysis: 1619 frames — all checks passed ✓
+[2026-03-15 21:02:31.777] [JOG] P2P to trajectory start position…
+[2026-03-15 21:02:31.777] [JOG] P2P → max Δ=86.0°, 12 frames
+[2026-03-15 21:02:32.847] [SUCCESS] P2P complete
+[2026-03-15 21:02:32.848] [PROGRAM] Dry run: test_zigzag_joint_angles.txt
+[2026-03-15 21:02:40.649] [WARNING] Pendant disconnected
+[2026-03-15 21:02:51.525] [WARNING] Pendant disconnected
+[2026-03-15 21:03:02.222] [WARNING] Pendant disconnected
+[2026-03-15 21:03:12.924] [WARNING] Pendant disconnected
+[2026-03-15 21:03:23.683] [WARNING] Pendant disconnected
+[2026-03-15 21:03:34.396] [WARNING] Pendant disconnected
+[2026-03-15 21:03:45.108] [WARNING] Pendant disconnected
+[2026-03-15 21:03:55.830] [WARNING] Pendant disconnected
+[2026-03-15 21:04:06.631] [WARNING] Pendant disconnected
+[2026-03-15 21:04:17.452] [WARNING] Pendant disconnected
+[2026-03-15 21:04:28.287] [WARNING] Pendant disconnected
+[2026-03-15 21:04:29.265] [SUCCESS] Trajectory playback finished

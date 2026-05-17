@@ -1,0 +1,127 @@
+# Kinmatech Robotics — session log
+# Started: 2026-03-17 08:09:07.751
+# Ended  : 2026-03-17 08:10:48
+# Entries: 122
+
+[2026-03-17 08:09:07.751] [WARNING] Pendant disconnected
+[2026-03-17 08:09:08.163] [INFO] Initial TCP position calculated
+[2026-03-17 08:09:08.163] [SUCCESS] Kinmatech Robotics application started
+[2026-03-17 08:09:08.339] [WARNING] Pendant disconnected
+[2026-03-17 08:09:09.899] [WARNING] Pendant disconnected
+[2026-03-17 08:09:11.913] [SUCCESS] Robot connection established
+[2026-03-17 08:09:12.180] [WARNING] Pendant disconnected
+[2026-03-17 08:09:14.032] [JOG] Jog mode activated
+[2026-03-17 08:09:14.798] [PROGRAM] Teach mode activated - program editing enabled
+[2026-03-17 08:09:15.599] [WARNING] Pendant disconnected
+[2026-03-17 08:09:20.781] [WARNING] Pendant disconnected
+[2026-03-17 08:09:28.644] [WARNING] Pendant disconnected
+[2026-03-17 08:09:39.041] [WARNING] Pendant disconnected
+[2026-03-17 08:09:45.301] [SUCCESS] Record 1 set to current position
+[2026-03-17 08:09:45.301] [JOG] Position: X=-204.3, Y=-691.1, Z=875.6
+[2026-03-17 08:09:47.962] [JOG] Transition mode → LINEAR
+[2026-03-17 08:09:49.447] [WARNING] Pendant disconnected
+[2026-03-17 08:09:57.286] [JOG] Started continuous jog: Cart Z ↓
+[2026-03-17 08:09:57.701] [JOG] Cartesian Z ↓ → 874.6mm
+[2026-03-17 08:09:57.793] [JOG] Cartesian Z ↓ → 873.6mm
+[2026-03-17 08:09:57.953] [JOG] Cartesian Z ↓ → 872.7mm
+[2026-03-17 08:09:58.063] [JOG] Cartesian Z ↓ → 871.8mm
+[2026-03-17 08:09:58.174] [JOG] Cartesian Z ↓ → 870.8mm
+[2026-03-17 08:09:58.233] [JOG] Cartesian Z ↓ → 869.8mm
+[2026-03-17 08:09:58.341] [JOG] Cartesian Z ↓ → 868.9mm
+[2026-03-17 08:09:58.395] [JOG] Cartesian Z ↓ → 867.9mm
+[2026-03-17 08:09:58.543] [JOG] Cartesian Z ↓ → 867.0mm
+[2026-03-17 08:09:58.641] [JOG] Cartesian Z ↓ → 866.0mm
+[2026-03-17 08:09:58.695] [JOG] Cartesian Z ↓ → 865.0mm
+[2026-03-17 08:09:58.848] [JOG] Stopped continuous jog
+[2026-03-17 08:09:58.850] [JOG] Cartesian Z ↓ → 864.1mm
+[2026-03-17 08:09:59.909] [WARNING] Pendant disconnected
+[2026-03-17 08:10:01.706] [JOG] Started continuous jog: Cart Z ↓
+[2026-03-17 08:10:02.117] [JOG] Cartesian Z ↓ → 854.1mm
+[2026-03-17 08:10:02.208] [JOG] Cartesian Z ↓ → 844.2mm
+[2026-03-17 08:10:02.367] [JOG] Cartesian Z ↓ → 834.3mm
+[2026-03-17 08:10:02.479] [JOG] Cartesian Z ↓ → 824.4mm
+[2026-03-17 08:10:02.540] [JOG] Cartesian Z ↓ → 814.4mm
+[2026-03-17 08:10:02.612] [JOG] Cartesian Z ↓ → 814.4mm
+[2026-03-17 08:10:02.780] [JOG] Cartesian Z ↓ → 804.4mm
+[2026-03-17 08:10:02.844] [JOG] Cartesian Z ↓ → 794.5mm
+[2026-03-17 08:10:02.913] [JOG] Cartesian Z ↓ → 784.6mm
+[2026-03-17 08:10:03.004] [JOG] Cartesian Z ↓ → 774.6mm
+[2026-03-17 08:10:03.115] [JOG] Cartesian Z ↓ → 774.7mm
+[2026-03-17 08:10:03.279] [JOG] Cartesian Z ↓ → 764.7mm
+[2026-03-17 08:10:03.340] [JOG] Cartesian Z ↓ → 754.7mm
+[2026-03-17 08:10:03.394] [JOG] Cartesian Z ↓ → 744.7mm
+[2026-03-17 08:10:03.530] [JOG] Cartesian Z ↓ → 734.8mm
+[2026-03-17 08:10:03.638] [JOG] Cartesian Z ↓ → 724.9mm
+[2026-03-17 08:10:03.693] [JOG] Cartesian Z ↓ → 714.9mm
+[2026-03-17 08:10:03.813] [JOG] Cartesian Z ↓ → 705.0mm
+[2026-03-17 08:10:03.919] [JOG] Cartesian Z ↓ → 695.1mm
+[2026-03-17 08:10:04.026] [JOG] Cartesian Z ↓ → 685.1mm
+[2026-03-17 08:10:04.134] [JOG] Cartesian Z ↓ → 675.2mm
+[2026-03-17 08:10:04.191] [JOG] Stopped continuous jog
+[2026-03-17 08:10:04.193] [JOG] Cartesian Z ↓ → 665.2mm
+[2026-03-17 08:10:10.449] [WARNING] Pendant disconnected
+[2026-03-17 08:10:15.196] [JOG] Moving to Record 1 (LINEAR)
+[2026-03-17 08:10:15.225] [JOG] Linear → 210 mm, 5 IK pts, 12 frames
+[2026-03-17 08:10:15.919] [SUCCESS] Linear motion completed
+[2026-03-17 08:10:18.421] [PROGRAM] Position 1 captured: X:-204.3, Y:-691.1, Z:875.6 (Motion: LINEAR)
+[2026-03-17 08:10:20.863] [WARNING] Pendant disconnected
+[2026-03-17 08:10:28.716] [JOG] Moving to Home position (LINEAR)
+[2026-03-17 08:10:28.720] [JOG] Linear → 0 mm, 2 IK pts, 12 frames
+[2026-03-17 08:10:29.411] [SUCCESS] Linear motion completed
+[2026-03-17 08:10:31.322] [WARNING] Pendant disconnected
+[2026-03-17 08:10:34.518] [JOG] Started continuous jog: Cart X ↑
+[2026-03-17 08:10:34.926] [JOG] Cartesian X ↑ → -194.3mm
+[2026-03-17 08:10:35.017] [JOG] Cartesian X ↑ → -184.3mm
+[2026-03-17 08:10:35.179] [JOG] Cartesian X ↑ → -174.4mm
+[2026-03-17 08:10:35.243] [JOG] Cartesian X ↑ → -164.5mm
+[2026-03-17 08:10:35.328] [JOG] Cartesian X ↑ → -154.6mm
+[2026-03-17 08:10:35.420] [JOG] Cartesian X ↑ → -144.6mm
+[2026-03-17 08:10:35.532] [JOG] Cartesian X ↑ → -144.7mm
+[2026-03-17 08:10:35.701] [JOG] Cartesian X ↑ → -134.7mm
+[2026-03-17 08:10:35.815] [JOG] Cartesian X ↑ → -124.7mm
+[2026-03-17 08:10:35.928] [JOG] Cartesian X ↑ → -114.8mm
+[2026-03-17 08:10:35.995] [JOG] Cartesian X ↑ → -104.9mm
+[2026-03-17 08:10:36.155] [JOG] Cartesian X ↑ → -95.0mm
+[2026-03-17 08:10:36.236] [JOG] Cartesian X ↑ → -85.0mm
+[2026-03-17 08:10:36.304] [JOG] Cartesian X ↑ → -75.0mm
+[2026-03-17 08:10:36.461] [JOG] Cartesian X ↑ → -65.1mm
+[2026-03-17 08:10:36.573] [JOG] Cartesian X ↑ → -55.2mm
+[2026-03-17 08:10:36.683] [JOG] Cartesian X ↑ → -45.3mm
+[2026-03-17 08:10:36.706] [JOG] Cartesian X ↑ → -35.3mm
+[2026-03-17 08:10:36.864] [JOG] Cartesian X ↑ → -25.4mm
+[2026-03-17 08:10:36.974] [JOG] Cartesian X ↑ → -15.4mm
+[2026-03-17 08:10:37.083] [JOG] Cartesian X ↑ → -5.5mm
+[2026-03-17 08:10:37.091] [JOG] Cartesian X ↑ → 4.5mm
+[2026-03-17 08:10:37.237] [JOG] Cartesian X ↑ → 14.4mm
+[2026-03-17 08:10:37.383] [JOG] Cartesian X ↑ → 24.3mm
+[2026-03-17 08:10:37.493] [JOG] Cartesian X ↑ → 34.3mm
+[2026-03-17 08:10:37.603] [JOG] Cartesian X ↑ → 44.2mm
+[2026-03-17 08:10:37.713] [JOG] Cartesian X ↑ → 54.1mm
+[2026-03-17 08:10:37.821] [JOG] Cartesian X ↑ → 64.0mm
+[2026-03-17 08:10:37.930] [JOG] Cartesian X ↑ → 74.0mm
+[2026-03-17 08:10:38.057] [JOG] Cartesian X ↑ → 83.9mm
+[2026-03-17 08:10:38.171] [JOG] Cartesian X ↑ → 93.8mm
+[2026-03-17 08:10:38.244] [JOG] Cartesian X ↑ → 103.7mm
+[2026-03-17 08:10:38.389] [JOG] Cartesian X ↑ → 113.7mm
+[2026-03-17 08:10:38.396] [JOG] Cartesian X ↑ → 123.7mm
+[2026-03-17 08:10:38.512] [JOG] Cartesian X ↑ → 123.6mm
+[2026-03-17 08:10:38.669] [JOG] Cartesian X ↑ → 133.6mm
+[2026-03-17 08:10:38.778] [JOG] Cartesian X ↑ → 143.5mm
+[2026-03-17 08:10:38.846] [JOG] Cartesian X ↑ → 153.4mm
+[2026-03-17 08:10:38.901] [JOG] Cartesian X ↑ → 163.4mm
+[2026-03-17 08:10:39.039] [JOG] Cartesian X ↑ → 173.3mm
+[2026-03-17 08:10:39.096] [JOG] Cartesian X ↑ → 183.3mm
+[2026-03-17 08:10:39.271] [JOG] Cartesian X ↑ → 193.2mm
+[2026-03-17 08:10:39.335] [JOG] Cartesian X ↑ → 203.2mm
+[2026-03-17 08:10:39.403] [JOG] Cartesian X ↑ → 213.2mm
+[2026-03-17 08:10:39.559] [JOG] Cartesian X ↑ → 223.1mm
+[2026-03-17 08:10:39.670] [JOG] Cartesian X ↑ → 233.0mm
+[2026-03-17 08:10:39.779] [JOG] Cartesian X ↑ → 242.9mm
+[2026-03-17 08:10:39.837] [JOG] Cartesian X ↑ → 252.9mm
+[2026-03-17 08:10:39.907] [JOG] Stopped continuous jog
+[2026-03-17 08:10:39.910] [JOG] Cartesian X ↑ → 262.9mm
+[2026-03-17 08:10:41.633] [JOG] Moving to Home position (LINEAR)
+[2026-03-17 08:10:41.669] [WARNING] IK guard: 2/6 waypoints used LERP fallback
+[2026-03-17 08:10:41.670] [JOG] Linear → 467 mm, 5 IK pts, 12 frames, 2 guarded
+[2026-03-17 08:10:42.081] [WARNING] Pendant disconnected
+[2026-03-17 08:10:42.360] [SUCCESS] Linear motion completed

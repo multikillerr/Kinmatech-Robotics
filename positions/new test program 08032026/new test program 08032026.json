@@ -1,0 +1,451 @@
+{
+  "filename": "new test program 08032026.json",
+  "program_name": "new test program 08032026",
+  "rows": [
+    {
+      "idx": 1,
+      "type": "CURVE",
+      "pose": {
+        "x": -1094.71,
+        "y": -1414.73,
+        "z": 1261.73,
+        "rx": -162.3,
+        "ry": -42.23,
+        "rz": 151.04
+      },
+      "joints_deg": [
+        -124.113,
+        -35.055,
+        -37.198,
+        139.644,
+        70.508,
+        -95.579
+      ],
+      "speed": 200.0,
+      "accel": 100.0,
+      "blend": 2.0,
+      "weld": {
+        "on": false,
+        "power": 50.0,
+        "wire_feed": 30.0,
+        "gas_pre": 0.5,
+        "gas_post": 1.0,
+        "weaving_type": "Linear",
+        "timer": 0,
+        "sensing_trigger": "None",
+        "weave_amplitude": 3.0,
+        "weave_frequency": 2.5,
+        "weave_dwell": 0.0
+      },
+      "comment": "Position 1"
+    },
+    {
+      "idx": 2,
+      "type": "CURVE",
+      "pose": {
+        "x": -600.17,
+        "y": -1414.68,
+        "z": 1261.88,
+        "rx": -164.25,
+        "ry": -32.07,
+        "rz": -128.12
+      },
+      "joints_deg": [
+        -113.941,
+        -14.42,
+        -10.316,
+        -169.878,
+        51.767,
+        -174.211
+      ],
+      "speed": 200.0,
+      "accel": 100.0,
+      "blend": 2.0,
+      "weld": {
+        "on": true,
+        "power": 50.0,
+        "wire_feed": 30.0,
+        "gas_pre": 0.5,
+        "gas_post": 1.0,
+        "weaving_type": "Linear",
+        "timer": 0,
+        "sensing_trigger": "None",
+        "weave_amplitude": 3.0,
+        "weave_frequency": 2.5,
+        "weave_dwell": 0.0
+      },
+      "comment": "Position 2"
+    },
+    {
+      "idx": 3,
+      "type": "CURVE",
+      "pose": {
+        "x": -600.17,
+        "y": -1156.04,
+        "z": 1400.79,
+        "rx": -164.25,
+        "ry": -32.07,
+        "rz": -128.12
+      },
+      "joints_deg": [
+        -118.955,
+        0.439,
+        -1.595,
+        -167.397,
+        58.772,
+        -178.715
+      ],
+      "speed": 200.0,
+      "accel": 100.0,
+      "blend": 2.0,
+      "weld": {
+        "on": true,
+        "power": 50.0,
+        "wire_feed": 30.0,
+        "gas_pre": 0.5,
+        "gas_post": 1.0,
+        "weaving_type": "Linear",
+        "timer": 0,
+        "sensing_trigger": "None",
+        "weave_amplitude": 3.0,
+        "weave_frequency": 2.5,
+        "weave_dwell": 0.0
+      },
+      "comment": "Position 3"
+    },
+    {
+      "idx": 4,
+      "type": "CURVE",
+      "pose": {
+        "x": -600.17,
+        "y": -1524.03,
+        "z": 1678.98,
+        "rx": -164.25,
+        "ry": -32.07,
+        "rz": -128.12
+      },
+      "joints_deg": [
+        -112.282,
+        -29.677,
+        -54.607,
+        -172.909,
+        80.257,
+        -167.733
+      ],
+      "speed": 200.0,
+      "accel": 100.0,
+      "blend": 2.0,
+      "weld": {
+        "on": true,
+        "power": 50.0,
+        "wire_feed": 30.0,
+        "gas_pre": 0.5,
+        "gas_post": 1.0,
+        "weaving_type": "Linear",
+        "timer": 0,
+        "sensing_trigger": "None",
+        "weave_amplitude": 3.0,
+        "weave_frequency": 2.5,
+        "weave_dwell": 0.0
+      },
+      "comment": "Position 4"
+    },
+    {
+      "idx": 5,
+      "type": "CURVE",
+      "pose": {
+        "x": -878.5,
+        "y": -1523.93,
+        "z": 1450.67,
+        "rx": -164.25,
+        "ry": -32.07,
+        "rz": -128.12
+      },
+      "joints_deg": [
+        -121.216,
+        -33.127,
+        -46.108,
+        -167.204,
+        69.943,
+        -178.476
+      ],
+      "speed": 200.0,
+      "accel": 100.0,
+      "blend": 2.0,
+      "weld": {
+        "on": true,
+        "power": 50.0,
+        "wire_feed": 30.0,
+        "gas_pre": 0.5,
+        "gas_post": 1.0,
+        "weaving_type": "Linear",
+        "timer": 0,
+        "sensing_trigger": "None",
+        "weave_amplitude": 3.0,
+        "weave_frequency": 2.5,
+        "weave_dwell": 0.0
+      },
+      "comment": "Position 5"
+    },
+    {
+      "idx": 6,
+      "type": "LINEAR",
+      "pose": {
+        "x": -877.08,
+        "y": -1521.59,
+        "z": 1448.95,
+        "rx": -99.63,
+        "ry": -58.43,
+        "rz": -177.61
+      },
+      "joints_deg": [
+        -122.676,
+        -25.437,
+        -27.456,
+        -104.799,
+        27.725,
+        135.294
+      ],
+      "speed": 200.0,
+      "accel": 100.0,
+      "blend": 2.0,
+      "weld": {
+        "on": true,
+        "power": 50.0,
+        "wire_feed": 30.0,
+        "gas_pre": 0.5,
+        "gas_post": 1.0,
+        "weaving_type": "Linear",
+        "timer": 0,
+        "sensing_trigger": "None",
+        "weave_amplitude": 3.0,
+        "weave_frequency": 2.5,
+        "weave_dwell": 0.0
+      },
+      "comment": "Position 6"
+    },
+    {
+      "idx": 7,
+      "type": "LINEAR",
+      "pose": {
+        "x": -1264.33,
+        "y": -1521.59,
+        "z": 1448.9,
+        "rx": -99.63,
+        "ry": -58.43,
+        "rz": -177.61
+      },
+      "joints_deg": [
+        -132.946,
+        -47.769,
+        -61.366,
+        -114.342,
+        41.274,
+        148.463
+      ],
+      "speed": 200.0,
+      "accel": 100.0,
+      "blend": 2.0,
+      "weld": {
+        "on": true,
+        "power": 50.0,
+        "wire_feed": 30.0,
+        "gas_pre": 0.5,
+        "gas_post": 1.0,
+        "weaving_type": "Linear",
+        "timer": 0,
+        "sensing_trigger": "None",
+        "weave_amplitude": 3.0,
+        "weave_frequency": 2.5,
+        "weave_dwell": 0.0
+      },
+      "comment": "Position 7"
+    },
+    {
+      "idx": 8,
+      "type": "LINEAR",
+      "pose": {
+        "x": -1264.37,
+        "y": -1521.54,
+        "z": 1130.89,
+        "rx": -164.2,
+        "ry": -32.08,
+        "rz": -128.13
+      },
+      "joints_deg": [
+        -131.336,
+        -50.208,
+        -55.046,
+        -160.618,
+        64.879,
+        168.659
+      ],
+      "speed": 200.0,
+      "accel": 100.0,
+      "blend": 2.0,
+      "weld": {
+        "on": true,
+        "power": 50.0,
+        "wire_feed": 30.0,
+        "gas_pre": 0.5,
+        "gas_post": 1.0,
+        "weaving_type": "Linear",
+        "timer": 0,
+        "sensing_trigger": "None",
+        "weave_amplitude": 3.0,
+        "weave_frequency": 2.5,
+        "weave_dwell": 0.0
+      },
+      "comment": "Position 8"
+    },
+    {
+      "idx": 9,
+      "type": "LINEAR",
+      "pose": {
+        "x": -548.86,
+        "y": -1521.49,
+        "z": 1130.88,
+        "rx": -164.2,
+        "ry": -32.08,
+        "rz": -128.13
+      },
+      "joints_deg": [
+        -110.524,
+        -20.297,
+        -10.434,
+        -171.541,
+        45.518,
+        -171.015
+      ],
+      "speed": 200.0,
+      "accel": 100.0,
+      "blend": 2.0,
+      "weld": {
+        "on": true,
+        "power": 50.0,
+        "wire_feed": 30.0,
+        "gas_pre": 0.5,
+        "gas_post": 1.0,
+        "weaving_type": "Linear",
+        "timer": 0,
+        "sensing_trigger": "None",
+        "weave_amplitude": 3.0,
+        "weave_frequency": 2.5,
+        "weave_dwell": 0.0
+      },
+      "comment": "Position 9"
+    },
+    {
+      "idx": 10,
+      "type": "LINEAR",
+      "pose": {
+        "x": -548.85,
+        "y": -1521.48,
+        "z": 852.4,
+        "rx": -164.2,
+        "ry": -32.08,
+        "rz": -128.13
+      },
+      "joints_deg": [
+        -110.524,
+        -24.772,
+        -0.5,
+        -168.352,
+        31.321,
+        -175.053
+      ],
+      "speed": 200.0,
+      "accel": 100.0,
+      "blend": 2.0,
+      "weld": {
+        "on": true,
+        "power": 50.0,
+        "wire_feed": 30.0,
+        "gas_pre": 0.5,
+        "gas_post": 1.0,
+        "weaving_type": "Linear",
+        "timer": 0,
+        "sensing_trigger": "None",
+        "weave_amplitude": 3.0,
+        "weave_frequency": 2.5,
+        "weave_dwell": 0.0
+      },
+      "comment": "Position 10"
+    },
+    {
+      "idx": 11,
+      "type": "LINEAR",
+      "pose": {
+        "x": -588.65,
+        "y": -1412.22,
+        "z": 852.35,
+        "rx": -164.2,
+        "ry": -32.08,
+        "rz": -128.13
+      },
+      "joints_deg": [
+        -113.563,
+        -19.631,
+        6.448,
+        -164.438,
+        30.211,
+        178.889
+      ],
+      "speed": 200.0,
+      "accel": 100.0,
+      "blend": 2.0,
+      "weld": {
+        "on": true,
+        "power": 50.0,
+        "wire_feed": 30.0,
+        "gas_pre": 0.5,
+        "gas_post": 1.0,
+        "weaving_type": "Linear",
+        "timer": 0,
+        "sensing_trigger": "None",
+        "weave_amplitude": 3.0,
+        "weave_frequency": 2.5,
+        "weave_dwell": 0.0
+      },
+      "comment": "Position 11"
+    },
+    {
+      "idx": 12,
+      "type": "LINEAR",
+      "pose": {
+        "x": -1284.46,
+        "y": -1412.22,
+        "z": 852.27,
+        "rx": -164.2,
+        "ry": -32.08,
+        "rz": -128.13
+      },
+      "joints_deg": [
+        -134.086,
+        -44.881,
+        -30.844,
+        -154.354,
+        48.437,
+        157.0
+      ],
+      "speed": 200.0,
+      "accel": 100.0,
+      "blend": 2.0,
+      "weld": {
+        "on": true,
+        "power": 50.0,
+        "wire_feed": 30.0,
+        "gas_pre": 0.5,
+        "gas_post": 1.0,
+        "weaving_type": "Linear",
+        "timer": 0,
+        "sensing_trigger": "None",
+        "weave_amplitude": 3.0,
+        "weave_frequency": 2.5,
+        "weave_dwell": 0.0
+      },
+      "comment": "Position 12"
+    }
+  ],
+  "created": 1772979459.956213
+}

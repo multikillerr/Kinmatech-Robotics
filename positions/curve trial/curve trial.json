@@ -1,0 +1,106 @@
+{
+  "filename": "full_demo.json",
+  "program_name": "full_demo",
+  "rows": [
+    {
+      "idx": 1,
+      "type": "P2P",
+      "pose": { "x": 556.68, "y": 952.22, "z": 1108.48, "rx": 35.25, "ry": 75.92, "rz": 55.23 },
+      "joints_deg": [66.266, 12.002, 35.767, -122.111, -57.967, -44.041],
+      "speed": 150.0, "accel": 100.0, "blend": 0.0,
+      "weld": { "on": false, "power": 0.0, "wire_feed": 0.0, "gas_pre": 0.0, "gas_post": 0.0, "weaving_type": "Linear", "timer": 0, "sensing_trigger": "None", "weave_amplitude": 3.0, "weave_frequency": 2.5, "weave_dwell": 0.0 },
+      "comment": "P2P approach to start"
+    },
+    {
+      "idx": 2,
+      "type": "LINEAR",
+      "pose": { "x": 556.68, "y": 924.22, "z": 1108.48, "rx": 35.25, "ry": 75.92, "rz": 55.23 },
+      "joints_deg": [65.595, 13.793, 37.192, -122.397, -57.248, -44.015],
+      "speed": 200.0, "accel": 100.0, "blend": 0.0,
+      "weld": { "on": false, "power": 0.0, "wire_feed": 0.0, "gas_pre": 0.0, "gas_post": 0.0, "weaving_type": "Linear", "timer": 0, "sensing_trigger": "None", "weave_amplitude": 3.0, "weave_frequency": 2.5, "weave_dwell": 0.0 },
+      "comment": "LINEAR rapid to weld start"
+    },
+    {
+      "idx": 3,
+      "type": "LINEAR",
+      "pose": { "x": 556.68, "y": 833.22, "z": 910.08, "rx": 35.25, "ry": 75.92, "rz": 55.23 },
+      "joints_deg": [63.146, 12.499, 48.111, -130.053, -62.768, -31.182],
+      "speed": 30.0, "accel": 60.0, "blend": 3.0,
+      "weld": { "on": true, "power": 65.0, "wire_feed": 35.0, "gas_pre": 0.5, "gas_post": 1.0, "weaving_type": "Sine", "timer": 0, "sensing_trigger": "None", "weave_amplitude": 4.0, "weave_frequency": 3.0, "weave_dwell": 0.0 },
+      "comment": "LINEAR weld - Sine weave"
+    },
+    {
+      "idx": 4,
+      "type": "LINEAR",
+      "pose": { "x": 556.68, "y": 778.94, "z": 829.84, "rx": 35.25, "ry": 75.92, "rz": 55.23 },
+      "joints_deg": [61.46, 11.801, 52.851, -133.5, -65.405, -25.695],
+      "speed": 30.0, "accel": 50.0, "blend": 4.0,
+      "weld": { "on": true, "power": 70.0, "wire_feed": 40.0, "gas_pre": 0.5, "gas_post": 1.5, "weaving_type": "Zigzag", "timer": 0, "sensing_trigger": "None", "weave_amplitude": 5.0, "weave_frequency": 2.0, "weave_dwell": 0.15 },
+      "comment": "LINEAR weld - Zigzag weave"
+    },
+    {
+      "idx": 5,
+      "type": "LINEAR",
+      "pose": { "x": 556.68, "y": 727.02, "z": 744.88, "rx": 35.25, "ry": 75.92, "rz": 55.23 },
+      "joints_deg": [59.651, 9.504, 57.13, -137.09, -69.172, -19.683],
+      "speed": 30.0, "accel": 60.0, "blend": 3.0,
+      "weld": { "on": true, "power": 60.0, "wire_feed": 30.0, "gas_pre": 0.5, "gas_post": 1.0, "weaving_type": "Triangular", "timer": 0, "sensing_trigger": "None", "weave_amplitude": 3.0, "weave_frequency": 2.5, "weave_dwell": 0.0 },
+      "comment": "LINEAR weld - Triangular weave"
+    },
+    {
+      "idx": 6,
+      "type": "LINEAR",
+      "pose": { "x": 556.68, "y": 952.22, "z": 1108.48, "rx": 35.25, "ry": 75.92, "rz": 55.23 },
+      "joints_deg": [66.266, 12.002, 35.767, -122.111, -57.967, -44.041],
+      "speed": 200.0, "accel": 100.0, "blend": 0.0,
+      "weld": { "on": false, "power": 0.0, "wire_feed": 0.0, "gas_pre": 0.0, "gas_post": 0.0, "weaving_type": "Linear", "timer": 0, "sensing_trigger": "None", "weave_amplitude": 3.0, "weave_frequency": 2.5, "weave_dwell": 0.0 },
+      "comment": "LINEAR retract up"
+    },
+    {
+      "idx": 7,
+      "type": "P2P",
+      "pose": { "x": 556.68, "y": 665.66, "z": 678.80, "rx": 35.25, "ry": 75.92, "rz": 55.23 },
+      "joints_deg": [57.235, 7.971, 61.151, -140.636, -72.343, -14.585],
+      "speed": 150.0, "accel": 100.0, "blend": 0.0,
+      "weld": { "on": false, "power": 0.0, "wire_feed": 0.0, "gas_pre": 0.0, "gas_post": 0.0, "weaving_type": "Linear", "timer": 0, "sensing_trigger": "None", "weave_amplitude": 3.0, "weave_frequency": 2.5, "weave_dwell": 0.0 },
+      "comment": "P2P reposition to curve start"
+    },
+    {
+      "idx": 8,
+      "type": "CURVE",
+      "pose": { "x": 556.68, "y": 542.94, "z": 728.36, "rx": 35.25, "ry": 75.92, "rz": 55.23 },
+      "joints_deg": [51.229, 21.508, 66.561, -144.453, -63.506, -16.541],
+      "speed": 30.0, "accel": 50.0, "blend": 5.0,
+      "weld": { "on": true, "power": 65.0, "wire_feed": 35.0, "gas_pre": 0.5, "gas_post": 1.0, "weaving_type": "Circle", "timer": 0, "sensing_trigger": "None", "weave_amplitude": 4.0, "weave_frequency": 3.0, "weave_dwell": 0.0 },
+      "comment": "CURVE weld - Circle weave"
+    },
+    {
+      "idx": 9,
+      "type": "CURVE",
+      "pose": { "x": 556.68, "y": 491.02, "z": 778.56, "rx": 35.25, "ry": 75.92, "rz": 55.23 },
+      "joints_deg": [48.099, 30.494, 67.8, -145.026, -55.82, -19.489],
+      "speed": 30.0, "accel": 50.0, "blend": 5.0,
+      "weld": { "on": true, "power": 70.0, "wire_feed": 40.0, "gas_pre": 0.5, "gas_post": 1.5, "weaving_type": "Square", "timer": 0, "sensing_trigger": "None", "weave_amplitude": 3.0, "weave_frequency": 2.0, "weave_dwell": 0.1 },
+      "comment": "CURVE weld - Square weave"
+    },
+    {
+      "idx": 10,
+      "type": "CURVE",
+      "pose": { "x": 556.68, "y": 434.38, "z": 816.32, "rx": 35.25, "ry": 75.92, "rz": 55.23 },
+      "joints_deg": [44.186, 38.74, 68.99, -146.19, -48.161, -21.135],
+      "speed": 30.0, "accel": 50.0, "blend": 5.0,
+      "weld": { "on": true, "power": 68.0, "wire_feed": 38.0, "gas_pre": 0.5, "gas_post": 2.0, "weaving_type": "figure8", "timer": 0, "sensing_trigger": "None", "weave_amplitude": 5.0, "weave_frequency": 2.5, "weave_dwell": 0.0 },
+      "comment": "CURVE weld - Figure8 weave"
+    },
+    {
+      "idx": 11,
+      "type": "LINEAR",
+      "pose": { "x": 556.69, "y": 428.22, "z": 1188.49, "rx": 15.19, "ry": 75.92, "rz": 55.23 },
+      "joints_deg": [36.896, 50.683, 53.109, -189.195, -16.212, 13.228],
+      "speed": 200.0, "accel": 100.0, "blend": 0.0,
+      "weld": { "on": false, "power": 0.0, "wire_feed": 0.0, "gas_pre": 0.0, "gas_post": 0.0, "weaving_type": "Linear", "timer": 0, "sensing_trigger": "None", "weave_amplitude": 3.0, "weave_frequency": 2.5, "weave_dwell": 0.0 },
+      "comment": "LINEAR retract + wrist reorient (Rx 35->15)"
+    }
+  ],
+  "created": 1743868800.0
+}

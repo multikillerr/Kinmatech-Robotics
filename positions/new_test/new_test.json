@@ -1,0 +1,109 @@
+{
+  "filename": "new_test.json",
+  "program_name": "new_test",
+  "rows": [
+    {
+      "idx": 1,
+      "type": "CURVE",
+      "pose": {
+        "x": -149.87,
+        "y": 442.7,
+        "z": 635.89,
+        "rx": -142.42,
+        "ry": -26.18,
+        "rz": 49.58
+      },
+      "joints_deg": [
+        109.517,
+        84.834,
+        94.634,
+        2.889,
+        45.445,
+        -60.648
+      ],
+      "speed": 50.0,
+      "accel": 100.0,
+      "blend": 2.0,
+      "weld": {
+        "on": true,
+        "power": 50.0,
+        "wire_feed": 30.0,
+        "gas_pre": 0.5,
+        "gas_post": 1.0,
+        "weaving_type": "Linear",
+        "timer": 0,
+        "sensing_trigger": "None"
+      },
+      "comment": "Position 1"
+    },
+    {
+      "idx": 2,
+      "type": "CURVE",
+      "pose": {
+        "x": -36.870000000000005,
+        "y": 512.7,
+        "z": 635.89,
+        "rx": -142.42,
+        "ry": -26.18,
+        "rz": 49.58
+      },
+      "joints_deg": [
+        -91.101,
+        5.875,
+        124.546,
+        165.227,
+        98.025,
+        -48.495
+      ],
+      "speed": 50.0,
+      "accel": 100.0,
+      "blend": 2.0,
+      "weld": {
+        "on": true,
+        "power": 50.0,
+        "wire_feed": 30.0,
+        "gas_pre": 0.5,
+        "gas_post": 1.0,
+        "weaving_type": "Linear",
+        "timer": 0,
+        "sensing_trigger": "None"
+      },
+      "comment": "Position 2"
+    },
+    {
+      "idx": 3,
+      "type": "CURVE",
+      "pose": {
+        "x": 28.129999999999995,
+        "y": 349.70000000000005,
+        "z": 635.89,
+        "rx": -142.42,
+        "ry": -26.18,
+        "rz": 49.58
+      },
+      "joints_deg": [
+        -109.297,
+        -3.426,
+        114.853,
+        150.567,
+        101.644,
+        -40.513
+      ],
+      "speed": 50.0,
+      "accel": 100.0,
+      "blend": 2.0,
+      "weld": {
+        "on": true,
+        "power": 50.0,
+        "wire_feed": 30.0,
+        "gas_pre": 0.5,
+        "gas_post": 1.0,
+        "weaving_type": "Linear",
+        "timer": 0,
+        "sensing_trigger": "None"
+      },
+      "comment": "Position 3"
+    }
+  ],
+  "created": 1769964433.363219
+}

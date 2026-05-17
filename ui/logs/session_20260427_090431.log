@@ -1,0 +1,72 @@
+# Kinmatech Robotics — session log
+# Started: 2026-04-27 09:01:02.596
+# Ended  : 2026-04-27 09:04:31
+# Entries: 67
+
+[2026-04-27 09:01:02.596] [SUCCESS] Hardware thread started @ 20 Hz
+[2026-04-27 09:01:02.596] [INFO] Motor commander thread started
+[2026-04-27 09:01:02.596] [WARNING] Hardware disconnected: Hardware connection unavailable
+[2026-04-27 09:01:02.597] [WARNING] Hardware connection unavailable
+[2026-04-27 09:01:02.597] [SUCCESS] Control thread started @ 100 Hz
+[2026-04-27 09:01:02.688] [SUCCESS] Hardware connected: Connected to robot hardware
+[2026-04-27 09:01:02.688] [SUCCESS] Hardware connection established
+[2026-04-27 09:01:02.688] [WARNING] Pendant disconnected
+[2026-04-27 09:01:03.136] [INFO] Initial TCP position calculated
+[2026-04-27 09:01:03.141] [SUCCESS] Kinmatech Robotics application started
+[2026-04-27 09:01:05.323] [SUCCESS] Robot connection established
+[2026-04-27 09:01:08.370] [PROGRAM] Teach mode activated - program editing enabled
+[2026-04-27 09:01:12.128] [DEBUG] Control loop: 100.1 Hz (target: 100 Hz)
+[2026-04-27 09:01:15.749] [WARNING] Pendant disconnected (suppressed 4 similar messages)
+[2026-04-27 09:01:17.653] [PROGRAM] Program 'write_ritesh' loaded with 190 positions
+[2026-04-27 09:01:19.389] [PROGRAM] Starting path generation for 190 waypoints
+[2026-04-27 09:01:20.684] [SUCCESS] Path generated: 190 waypoints → 761 servo points
+[2026-04-27 09:01:20.684] [WARNING] Joint limit validation: 761 value(s) outside limits; trajectory left unchanged. First: frame 1 J5=-135.1° outside [-120.0, 120.0]°.
+[2026-04-27 09:01:20.763] [WARNING] Control loop overrun: 5.4 ms behind
+[2026-04-27 09:01:23.848] [ERROR] ✖ J4 near limit: 761 frames (100.0%) within 10.0° of ±180.0° (worst: -180.0° at frame 3)
+[2026-04-27 09:01:23.865] [JOG] P2P to trajectory start position…
+[2026-04-27 09:01:23.865] [JOG] P2P → max Δ=7.1°, v=50.0°/s, t=0.20s, 6 frames
+[2026-04-27 09:01:24.109] [SUCCESS] P2P complete
+[2026-04-27 09:01:24.109] [PROGRAM] Dry run: ritesh_joint_angles.ksm
+[2026-04-27 09:01:32.127] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz) (suppressed 1 similar messages)
+[2026-04-27 09:01:33.958] [WARNING] Pendant disconnected (suppressed 1 similar messages)
+[2026-04-27 09:01:42.128] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz)
+[2026-04-27 09:01:44.353] [WARNING] Pendant disconnected
+[2026-04-27 09:01:54.760] [WARNING] Pendant disconnected
+[2026-04-27 09:01:56.724] [SUCCESS] Trajectory playback finished
+[2026-04-27 09:02:02.127] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz) (suppressed 1 similar messages)
+[2026-04-27 09:02:05.102] [WARNING] Pendant disconnected
+[2026-04-27 09:02:12.127] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz)
+[2026-04-27 09:02:15.461] [WARNING] Pendant disconnected
+[2026-04-27 09:02:25.864] [WARNING] Pendant disconnected
+[2026-04-27 09:02:32.127] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz) (suppressed 1 similar messages)
+[2026-04-27 09:02:36.258] [WARNING] Pendant disconnected
+[2026-04-27 09:02:42.127] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz)
+[2026-04-27 09:02:46.650] [WARNING] Pendant disconnected
+[2026-04-27 09:02:57.008] [WARNING] Pendant disconnected
+[2026-04-27 09:03:02.126] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz) (suppressed 1 similar messages)
+[2026-04-27 09:03:07.408] [WARNING] Pendant disconnected
+[2026-04-27 09:03:17.786] [WARNING] Pendant disconnected
+[2026-04-27 09:03:18.994] [PROGRAM] Program 'write_kinmatech' loaded with 339 positions
+[2026-04-27 09:03:20.649] [PROGRAM] Starting path generation for 339 waypoints
+[2026-04-27 09:03:22.672] [SUCCESS] Path generated: 339 waypoints → 1199 servo points
+[2026-04-27 09:03:22.672] [WARNING] Joint limit validation: 928 value(s) outside limits; trajectory left unchanged. First: frame 1 J5=-135.1° outside [-120.0, 120.0]°.
+[2026-04-27 09:03:22.746] [WARNING] Control loop overrun: 8.5 ms behind
+[2026-04-27 09:03:22.748] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz) (suppressed 1 similar messages)
+[2026-04-27 09:03:28.209] [WARNING] Pendant disconnected
+[2026-04-27 09:03:29.239] [ERROR] ✖ J4 near limit: 1199 frames (100.0%) within 10.0° of ±180.0° (worst: -180.0° at frame 1)
+[2026-04-27 09:03:29.255] [JOG] P2P to trajectory start position…
+[2026-04-27 09:03:29.255] [JOG] P2P → max Δ=10.4°, v=50.0°/s, t=0.21s, 6 frames
+[2026-04-27 09:03:29.255] [WARNING] Control loop overrun: 44.4 ms behind
+[2026-04-27 09:03:29.572] [SUCCESS] P2P complete
+[2026-04-27 09:03:29.573] [PROGRAM] Dry run: kinmatech_joint_angles.ksm
+[2026-04-27 09:03:38.676] [WARNING] Pendant disconnected
+[2026-04-27 09:03:42.125] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz) (suppressed 1 similar messages)
+[2026-04-27 09:03:49.071] [WARNING] Pendant disconnected
+[2026-04-27 09:03:52.127] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz)
+[2026-04-27 09:03:59.459] [WARNING] Pendant disconnected
+[2026-04-27 09:04:02.131] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz)
+[2026-04-27 09:04:09.870] [WARNING] Pendant disconnected
+[2026-04-27 09:04:19.242] [SUCCESS] Trajectory playback finished
+[2026-04-27 09:04:20.257] [WARNING] Pendant disconnected
+[2026-04-27 09:04:22.125] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz) (suppressed 1 similar messages)
+[2026-04-27 09:04:30.643] [WARNING] Pendant disconnected

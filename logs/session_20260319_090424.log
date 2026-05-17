@@ -1,0 +1,69 @@
+# Kinmatech Robotics — session log
+# Started: 2026-03-19 09:00:50.218
+# Ended  : 2026-03-19 09:04:24
+# Entries: 64
+
+[2026-03-19 09:00:50.218] [WARNING] Pendant disconnected
+[2026-03-19 09:00:50.674] [INFO] Initial TCP position calculated
+[2026-03-19 09:00:50.674] [SUCCESS] Kinmatech Robotics application started
+[2026-03-19 09:00:50.764] [WARNING] Pendant disconnected
+[2026-03-19 09:00:52.280] [WARNING] Pendant disconnected
+[2026-03-19 09:00:54.563] [WARNING] Pendant disconnected
+[2026-03-19 09:00:54.627] [SUCCESS] Robot connection established
+[2026-03-19 09:00:56.940] [PROGRAM] Teach mode activated - program editing enabled
+[2026-03-19 09:00:57.984] [WARNING] Pendant disconnected
+[2026-03-19 09:01:03.044] [JOG] Started continuous jog: Cart X ↑
+[2026-03-19 09:01:03.171] [WARNING] Pendant disconnected
+[2026-03-19 09:01:11.264] [WARNING] Pendant disconnected
+[2026-03-19 09:01:15.120] [JOG] Stopped continuous jog
+[2026-03-19 09:01:20.819] [JOG] Started continuous jog: Joint 0 ↑
+[2026-03-19 09:01:21.870] [WARNING] Pendant disconnected
+[2026-03-19 09:01:22.562] [JOG] Stopped continuous jog
+[2026-03-19 09:01:27.804] [JOG] Started continuous jog: Cart X ↓
+[2026-03-19 09:01:32.446] [WARNING] Pendant disconnected
+[2026-03-19 09:01:34.616] [JOG] Stopped continuous jog
+[2026-03-19 09:01:36.217] [JOG] Started continuous jog: Cart Y ↓
+[2026-03-19 09:01:40.554] [JOG] Stopped continuous jog
+[2026-03-19 09:01:42.949] [JOG] Started continuous jog: Cart Y ↓
+[2026-03-19 09:01:43.146] [WARNING] Pendant disconnected
+[2026-03-19 09:01:49.565] [JOG] Stopped continuous jog
+[2026-03-19 09:01:53.858] [WARNING] Pendant disconnected
+[2026-03-19 09:01:55.134] [JOG] Started continuous jog: Cart Y ↑
+[2026-03-19 09:02:04.579] [WARNING] Pendant disconnected
+[2026-03-19 09:02:07.866] [JOG] Stopped continuous jog
+[2026-03-19 09:02:15.144] [WARNING] Pendant disconnected
+[2026-03-19 09:02:25.620] [WARNING] Pendant disconnected
+[2026-03-19 09:02:25.806] [PROGRAM] Program 'cicle try' loaded with 6 positions
+[2026-03-19 09:02:29.064] [SUCCESS] Dry run pre-check analysis: 508 frames — all checks passed ✓
+[2026-03-19 09:02:29.083] [JOG] P2P to trajectory start position…
+[2026-03-19 09:02:29.084] [JOG] P2P → max Δ=230.4°, v=50.0°/s, t=4.61s, 116 frames
+[2026-03-19 09:02:34.967] [SUCCESS] P2P complete
+[2026-03-19 09:02:34.969] [PROGRAM] Dry run: cicle try_joint_angles.ksm
+[2026-03-19 09:02:36.305] [WARNING] Pendant disconnected
+[2026-03-19 09:02:47.076] [WARNING] Pendant disconnected
+[2026-03-19 09:02:57.802] [WARNING] Pendant disconnected
+[2026-03-19 09:03:08.558] [WARNING] Pendant disconnected
+[2026-03-19 09:03:14.944] [SUCCESS] Trajectory playback finished
+[2026-03-19 09:03:19.072] [WARNING] Pendant disconnected
+[2026-03-19 09:03:19.994] [JOG] Moving to Home position (P2P)
+[2026-03-19 09:03:19.995] [JOG] P2P → max Δ=0.0°, v=50.0°/s, t=0.20s, 6 frames
+[2026-03-19 09:03:20.354] [SUCCESS] P2P complete
+[2026-03-19 09:03:29.490] [WARNING] Pendant disconnected
+[2026-03-19 09:03:30.368] [JOG] Started continuous jog: Cart X ↑
+[2026-03-19 09:03:40.251] [WARNING] Pendant disconnected
+[2026-03-19 09:03:47.275] [JOG] Stopped continuous jog
+[2026-03-19 09:03:48.034] [JOG] Started continuous jog: Cart Z ↑
+[2026-03-19 09:03:50.944] [WARNING] Pendant disconnected
+[2026-03-19 09:03:55.851] [JOG] Stopped continuous jog
+[2026-03-19 09:03:58.302] [JOG] Started continuous jog: Cart Rx ↑
+[2026-03-19 09:03:59.799] [JOG] Stopped continuous jog
+[2026-03-19 09:04:00.636] [JOG] Started continuous jog: Cart Rx ↑
+[2026-03-19 09:04:01.586] [WARNING] Pendant disconnected
+[2026-03-19 09:04:02.195] [JOG] Stopped continuous jog
+[2026-03-19 09:04:05.636] [JOG] Started continuous jog: Cart Ry ↑
+[2026-03-19 09:04:06.643] [JOG] Stopped continuous jog
+[2026-03-19 09:04:08.591] [JOG] Moving to Home position (P2P)
+[2026-03-19 09:04:08.592] [JOG] P2P → max Δ=216.5°, v=50.0°/s, t=4.33s, 109 frames
+[2026-03-19 09:04:12.187] [WARNING] Pendant disconnected
+[2026-03-19 09:04:14.116] [SUCCESS] P2P complete
+[2026-03-19 09:04:22.691] [WARNING] Pendant disconnected

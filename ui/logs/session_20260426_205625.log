@@ -1,0 +1,60 @@
+# Kinmatech Robotics — session log
+# Started: 2026-04-26 20:53:15.447
+# Ended  : 2026-04-26 20:56:25
+# Entries: 55
+
+[2026-04-26 20:53:15.447] [SUCCESS] Hardware thread started @ 20 Hz
+[2026-04-26 20:53:15.447] [INFO] Motor commander thread started
+[2026-04-26 20:53:15.447] [WARNING] Hardware disconnected: Hardware connection unavailable
+[2026-04-26 20:53:15.447] [WARNING] Hardware connection unavailable
+[2026-04-26 20:53:15.447] [SUCCESS] Control thread started @ 100 Hz
+[2026-04-26 20:53:15.506] [SUCCESS] Hardware connected: Connected to robot hardware
+[2026-04-26 20:53:15.506] [SUCCESS] Hardware connection established
+[2026-04-26 20:53:15.506] [WARNING] Pendant disconnected
+[2026-04-26 20:53:15.972] [INFO] Initial TCP position calculated
+[2026-04-26 20:53:15.972] [SUCCESS] Kinmatech Robotics application started
+[2026-04-26 20:53:19.614] [SUCCESS] Robot connection established
+[2026-04-26 20:53:21.120] [PROGRAM] Teach mode activated - program editing enabled
+[2026-04-26 20:53:25.482] [DEBUG] Control loop: 100.1 Hz (target: 100 Hz)
+[2026-04-26 20:53:25.482] [WARNING] Control loop overrun: 13.7 ms behind
+[2026-04-26 20:53:28.671] [WARNING] Pendant disconnected (suppressed 4 similar messages)
+[2026-04-26 20:53:29.856] [PROGRAM] Program 'capability_montage_50_shapes' loaded with 702 positions
+[2026-04-26 20:53:45.073] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz) (suppressed 1 similar messages)
+[2026-04-26 20:53:46.854] [WARNING] Pendant disconnected (suppressed 1 similar messages)
+[2026-04-26 20:53:57.226] [WARNING] Pendant disconnected
+[2026-04-26 20:54:05.070] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz) (suppressed 1 similar messages)
+[2026-04-26 20:54:07.607] [WARNING] Pendant disconnected
+[2026-04-26 20:54:15.071] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz)
+[2026-04-26 20:54:17.998] [WARNING] Pendant disconnected
+[2026-04-26 20:54:22.494] [WARNING] Control loop overrun: 5.6 ms behind
+[2026-04-26 20:54:25.071] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz)
+[2026-04-26 20:54:28.347] [WARNING] Pendant disconnected
+[2026-04-26 20:54:29.934] [WARNING] Control loop overrun: 5.8 ms behind
+[2026-04-26 20:54:38.725] [WARNING] Pendant disconnected
+[2026-04-26 20:54:45.071] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz) (suppressed 1 similar messages)
+[2026-04-26 20:54:46.874] [WARNING] Control loop overrun: 10.8 ms behind
+[2026-04-26 20:54:49.092] [WARNING] Pendant disconnected
+[2026-04-26 20:54:59.480] [WARNING] Pendant disconnected
+[2026-04-26 20:55:00.501] [PROGRAM] Program 'capability_montage_50_shapes' loaded with 702 positions
+[2026-04-26 20:55:02.333] [PROGRAM] Starting path generation for 702 waypoints
+[2026-04-26 20:55:16.461] [SUCCESS] Path generated: 702 waypoints → 8305 servo points
+[2026-04-26 20:55:16.512] [WARNING] Control loop overrun: 11.2 ms behind
+[2026-04-26 20:55:16.515] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz) (suppressed 1 similar messages)
+[2026-04-26 20:55:16.522] [WARNING] Pendant disconnected
+[2026-04-26 20:55:22.344] [WARNING] ⚠ Wrist singularity: J5 within ±5.0° of 0° for 10 frames (0.1%), first at frame 833 (J5=4.50°)
+[2026-04-26 20:55:22.344] [ERROR] ✖ J4 near limit: 302 frames (3.6%) within 10.0° of ±180.0° (worst: -199.4° at frame 1608)
+[2026-04-26 20:55:22.344] [ERROR] ✖ J6 near limit: 3224 frames (38.8%) within 10.0° of ±180.0° (worst: 359.9° at frame 2002)
+[2026-04-26 20:55:22.407] [JOG] P2P to trajectory start position…
+[2026-04-26 20:55:22.407] [JOG] P2P → max Δ=27.0°, v=50.0°/s, t=0.54s, 14 frames
+[2026-04-26 20:55:22.970] [SUCCESS] P2P complete
+[2026-04-26 20:55:22.971] [PROGRAM] Dry run: capability_montage_joint_angles.ksm
+[2026-04-26 20:55:31.205] [WARNING] Pendant disconnected (suppressed 1 similar messages)
+[2026-04-26 20:55:35.073] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz) (suppressed 2 similar messages)
+[2026-04-26 20:55:41.580] [WARNING] Pendant disconnected
+[2026-04-26 20:55:51.975] [WARNING] Pendant disconnected
+[2026-04-26 20:55:55.070] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz) (suppressed 1 similar messages)
+[2026-04-26 20:56:02.383] [WARNING] Pendant disconnected
+[2026-04-26 20:56:05.075] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz)
+[2026-04-26 20:56:12.768] [WARNING] Pendant disconnected
+[2026-04-26 20:56:15.079] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz)
+[2026-04-26 20:56:23.182] [WARNING] Pendant disconnected

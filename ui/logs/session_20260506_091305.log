@@ -1,0 +1,45 @@
+# Kinmatech Robotics — session log
+# Started: 2026-05-06 09:11:46.757
+# Ended  : 2026-05-06 09:13:05
+# Entries: 40
+
+[2026-05-06 09:11:46.757] [SUCCESS] Hardware thread started @ 20 Hz
+[2026-05-06 09:11:46.757] [INFO] Motor commander thread started
+[2026-05-06 09:11:46.757] [WARNING] Hardware disconnected: Hardware connection unavailable
+[2026-05-06 09:11:46.757] [WARNING] Hardware connection unavailable
+[2026-05-06 09:11:46.757] [SUCCESS] Control thread started @ 100 Hz
+[2026-05-06 09:11:46.857] [SUCCESS] Hardware connected: Connected to robot hardware
+[2026-05-06 09:11:46.857] [SUCCESS] Hardware connection established
+[2026-05-06 09:11:46.857] [WARNING] Pendant disconnected
+[2026-05-06 09:11:47.300] [INFO] Initial TCP position calculated
+[2026-05-06 09:11:47.300] [SUCCESS] Kinmatech Robotics application started
+[2026-05-06 09:11:50.835] [SUCCESS] Robot connection established
+[2026-05-06 09:11:52.072] [PROGRAM] Teach mode activated - program editing enabled
+[2026-05-06 09:11:56.229] [DEBUG] Control loop: 100.1 Hz (target: 100 Hz)
+[2026-05-06 09:11:59.876] [WARNING] Control loop overrun: 128.4 ms behind
+[2026-05-06 09:11:59.984] [WARNING] Pendant disconnected (suppressed 4 similar messages)
+[2026-05-06 09:12:03.950] [PROGRAM] Program 'big_shapes_test' loaded with 154 positions
+[2026-05-06 09:12:07.467] [WARNING] ⚠ Wrist singularity: J5 within ±5.0° of 0° for 81 frames (1.8%), first at frame 732 (J5=-4.34°)
+[2026-05-06 09:12:07.467] [WARNING] ⚠ FK/Cartesian outlier frames: mean 0.3 mm, max 34.2 mm (79 frame(s) > 5 mm, likely near singularity).
+[2026-05-06 09:12:07.467] [ERROR] ✖ Frame 4092: J4 jumps 25.8° in one step (likely IK solution flip)
+[2026-05-06 09:12:07.467] [ERROR] ✖ J4 near limit: 161 frames (3.6%) within 10.0° of ±180.0° (worst: 198.8° at frame 3833)
+[2026-05-06 09:12:07.467] [ERROR] ✖ J6 near limit: 1517 frames (33.7%) within 10.0° of ±180.0° (worst: -358.9° at frame 2448)
+[2026-05-06 09:12:07.503] [JOG] P2P to trajectory start position…
+[2026-05-06 09:12:07.503] [JOG] P2P → max Δ=117.3°, v=50.0°/s, t=2.35s, 59 frames
+[2026-05-06 09:12:07.504] [WARNING] Control loop overrun: 8.8 ms behind
+[2026-05-06 09:12:09.873] [SUCCESS] P2P complete
+[2026-05-06 09:12:09.874] [PROGRAM] Playing program: big_shapes_test_joint_angles.ksm
+[2026-05-06 09:12:16.243] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz) (suppressed 1 similar messages)
+[2026-05-06 09:12:18.183] [WARNING] Pendant disconnected (suppressed 1 similar messages)
+[2026-05-06 09:12:28.586] [WARNING] Pendant disconnected
+[2026-05-06 09:12:36.243] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz) (suppressed 1 similar messages)
+[2026-05-06 09:12:38.998] [WARNING] Pendant disconnected
+[2026-05-06 09:12:49.403] [WARNING] Pendant disconnected
+[2026-05-06 09:12:56.228] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz) (suppressed 1 similar messages)
+[2026-05-06 09:12:59.790] [WARNING] Pendant disconnected
+[2026-05-06 09:12:59.938] [JOG] Moving to Home position (P2P)
+[2026-05-06 09:12:59.938] [JOG] Unwinding wrist rotations before homing...
+[2026-05-06 09:12:59.938] [JOG] P2P → max Δ=98.4°, v=50.0°/s, t=1.97s, 50 frames
+[2026-05-06 09:13:01.968] [SUCCESS] P2P complete
+[2026-05-06 09:13:01.968] [JOG] P2P → max Δ=92.4°, v=50.0°/s, t=1.85s, 47 frames
+[2026-05-06 09:13:03.858] [SUCCESS] P2P complete
