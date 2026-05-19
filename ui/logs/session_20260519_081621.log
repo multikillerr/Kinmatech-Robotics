@@ -1,0 +1,19 @@
+# Kinmatech Robotics — session log
+# Started: 2026-05-19 08:16:09.344
+# Ended  : 2026-05-19 08:16:21
+# Entries: 14
+
+[2026-05-19 08:16:09.344] [SUCCESS] Hardware thread started @ 20 Hz
+[2026-05-19 08:16:09.344] [INFO] Motor commander thread started
+[2026-05-19 08:16:09.344] [WARNING] Hardware disconnected: Hardware connection unavailable
+[2026-05-19 08:16:09.344] [WARNING] Hardware connection unavailable
+[2026-05-19 08:16:09.344] [SUCCESS] Control thread started @ 100 Hz
+[2026-05-19 08:16:09.468] [SUCCESS] Hardware connected: Connected to robot hardware
+[2026-05-19 08:16:09.468] [WARNING] Control loop overrun: 49.4 ms behind
+[2026-05-19 08:16:09.468] [SUCCESS] Hardware connection established
+[2026-05-19 08:16:09.468] [WARNING] Pendant disconnected
+[2026-05-19 08:16:09.501] [DEBUG] Control loop: 100.1 Hz (target: 100 Hz)
+[2026-05-19 08:16:09.956] [INFO] Initial TCP position calculated
+[2026-05-19 08:16:09.956] [SUCCESS] Kinmatech Robotics application started
+[2026-05-19 08:16:14.551] [WARNING] Control loop overrun: 9.3 ms behind (suppressed 1 similar messages)
+[2026-05-19 08:16:19.525] [WARNING] Pendant disconnected (suppressed 5 similar messages)

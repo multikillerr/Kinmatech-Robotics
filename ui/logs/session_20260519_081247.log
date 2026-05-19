@@ -1,0 +1,325 @@
+# Kinmatech Robotics — session log
+# Started: 2026-05-19 08:01:24.517
+# Ended  : 2026-05-19 08:12:47
+# Entries: 320
+
+[2026-05-19 08:01:24.517] [SUCCESS] Hardware thread started @ 20 Hz
+[2026-05-19 08:01:24.517] [INFO] Motor commander thread started
+[2026-05-19 08:01:24.517] [WARNING] Hardware disconnected: Hardware connection unavailable
+[2026-05-19 08:01:24.517] [WARNING] Hardware connection unavailable
+[2026-05-19 08:01:24.517] [SUCCESS] Control thread started @ 100 Hz
+[2026-05-19 08:01:24.611] [SUCCESS] Hardware connected: Connected to robot hardware
+[2026-05-19 08:01:24.611] [SUCCESS] Hardware connection established
+[2026-05-19 08:01:24.611] [WARNING] Pendant disconnected
+[2026-05-19 08:01:25.028] [INFO] Initial TCP position calculated
+[2026-05-19 08:01:25.030] [SUCCESS] Kinmatech Robotics application started
+[2026-05-19 08:01:29.371] [WARNING] Control loop overrun: 11.5 ms behind
+[2026-05-19 08:01:30.042] [SUCCESS] Robot connection established
+[2026-05-19 08:01:31.555] [PROGRAM] Teach mode activated - program editing enabled
+[2026-05-19 08:01:34.073] [DEBUG] Control loop: 100.1 Hz (target: 100 Hz)
+[2026-05-19 08:01:37.678] [WARNING] Pendant disconnected (suppressed 4 similar messages)
+[2026-05-19 08:01:45.295] [WARNING] Control loop overrun: 5.6 ms behind
+[2026-05-19 08:01:52.850] [WARNING] Control loop overrun: 18.2 ms behind
+[2026-05-19 08:01:54.061] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz) (suppressed 1 similar messages)
+[2026-05-19 08:01:56.113] [WARNING] Pendant disconnected (suppressed 1 similar messages)
+[2026-05-19 08:02:06.500] [WARNING] Pendant disconnected
+[2026-05-19 08:02:14.060] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz) (suppressed 1 similar messages)
+[2026-05-19 08:02:16.926] [WARNING] Pendant disconnected
+[2026-05-19 08:02:24.060] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz)
+[2026-05-19 08:02:27.329] [WARNING] Pendant disconnected
+[2026-05-19 08:02:32.932] [PROGRAM] Program 'big_shapes_test' loaded with 154 positions
+[2026-05-19 08:02:34.061] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz)
+[2026-05-19 08:02:39.890] [WARNING] ⚠ Wrist singularity: J5 within ±5.0° of 0° for 81 frames (1.8%), first at frame 732 (J5=-4.34°)
+[2026-05-19 08:02:39.890] [WARNING] ⚠ FK/Cartesian outlier frames: mean 0.3 mm, max 34.2 mm (79 frame(s) > 5 mm, likely near singularity).
+[2026-05-19 08:02:39.890] [ERROR] ✖ Frame 4092: J4 jumps 25.8° in one step (likely IK solution flip)
+[2026-05-19 08:02:39.890] [ERROR] ✖ J4 near limit: 161 frames (3.6%) within 10.0° of ±180.0° (worst: 198.8° at frame 3833)
+[2026-05-19 08:02:39.890] [ERROR] ✖ J6 near limit: 1517 frames (33.7%) within 10.0° of ±180.0° (worst: -358.9° at frame 2448)
+[2026-05-19 08:02:39.925] [JOG] P2P to trajectory start position…
+[2026-05-19 08:02:39.925] [JOG] P2P → max Δ=117.3°, v=50.0°/s, t=2.35s, 59 frames
+[2026-05-19 08:02:39.928] [WARNING] Pendant disconnected
+[2026-05-19 08:02:39.930] [WARNING] Control loop overrun: 10.4 ms behind
+[2026-05-19 08:02:42.288] [SUCCESS] P2P complete
+[2026-05-19 08:02:42.289] [PROGRAM] Playing program: big_shapes_test_joint_angles.ksm
+[2026-05-19 08:02:44.062] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz)
+[2026-05-19 08:02:54.066] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz)
+[2026-05-19 08:02:58.480] [WARNING] Pendant disconnected (suppressed 1 similar messages)
+[2026-05-19 08:03:08.841] [WARNING] Pendant disconnected
+[2026-05-19 08:03:14.059] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz) (suppressed 1 similar messages)
+[2026-05-19 08:03:19.241] [WARNING] Pendant disconnected
+[2026-05-19 08:03:29.648] [WARNING] Pendant disconnected
+[2026-05-19 08:03:34.062] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz) (suppressed 1 similar messages)
+[2026-05-19 08:03:40.046] [WARNING] Pendant disconnected
+[2026-05-19 08:03:44.062] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz)
+[2026-05-19 08:03:50.460] [WARNING] Pendant disconnected
+[2026-05-19 08:03:54.063] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz)
+[2026-05-19 08:04:00.873] [WARNING] Pendant disconnected
+[2026-05-19 08:04:11.280] [WARNING] Pendant disconnected
+[2026-05-19 08:04:14.059] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz) (suppressed 1 similar messages)
+[2026-05-19 08:04:15.281] [WARNING] Control loop overrun: 19.1 ms behind
+[2026-05-19 08:04:21.699] [WARNING] Pendant disconnected
+[2026-05-19 08:04:24.070] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz)
+[2026-05-19 08:04:25.330] [WARNING] Control loop overrun: 11.1 ms behind
+[2026-05-19 08:04:32.069] [WARNING] Pendant disconnected
+[2026-05-19 08:04:42.481] [WARNING] Pendant disconnected
+[2026-05-19 08:04:44.056] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz) (suppressed 1 similar messages)
+[2026-05-19 08:04:52.838] [WARNING] Pendant disconnected
+[2026-05-19 08:04:54.063] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz)
+[2026-05-19 08:05:03.248] [WARNING] Pendant disconnected
+[2026-05-19 08:05:13.623] [WARNING] Pendant disconnected
+[2026-05-19 08:05:14.060] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz) (suppressed 1 similar messages)
+[2026-05-19 08:05:24.040] [WARNING] Pendant disconnected
+[2026-05-19 08:05:24.073] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz)
+[2026-05-19 08:05:32.743] [SUCCESS] Trajectory playback finished
+[2026-05-19 08:05:34.422] [WARNING] Pendant disconnected
+[2026-05-19 08:05:39.148] [WARNING] Home position not set
+[2026-05-19 08:05:44.057] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz) (suppressed 1 similar messages)
+[2026-05-19 08:05:44.804] [WARNING] Pendant disconnected
+[2026-05-19 08:05:51.061] [JOG] Started continuous jog: Cart Ry ↑
+[2026-05-19 08:05:54.057] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz)
+[2026-05-19 08:05:55.149] [WARNING] Pendant disconnected
+[2026-05-19 08:05:56.529] [JOG] Stopped continuous jog
+[2026-05-19 08:05:56.638] [DEBUG] Jog knowledge build started: cart_ry request=132
+[2026-05-19 08:05:56.742] [WARNING] Control loop overrun: 7.6 ms behind
+[2026-05-19 08:05:58.122] [JOG] Started continuous jog: Cart Ry ↓
+[2026-05-19 08:06:04.057] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz)
+[2026-05-19 08:06:05.583] [WARNING] Pendant disconnected
+[2026-05-19 08:06:06.920] [JOG] Stopped continuous jog
+[2026-05-19 08:06:07.042] [DEBUG] Jog knowledge build started: cart_ry request=337
+[2026-05-19 08:06:07.254] [WARNING] Control loop overrun: 9.4 ms behind
+[2026-05-19 08:06:09.416] [INFO] Jog knowledge ready: 1452 samples, 6/6 axes, 12/12 buttons [cart_ry+] -> active_jog_knowledge.ksm
+[2026-05-19 08:06:09.613] [JOG] Started continuous jog: Cart Rx ↑
+[2026-05-19 08:06:10.939] [JOG] Stopped continuous jog
+[2026-05-19 08:06:12.396] [WARNING] Control loop overrun: 21.3 ms behind
+[2026-05-19 08:06:13.415] [INFO] Jog knowledge ready: 1452 samples, 6/6 axes, 12/12 buttons [cart_rx+] -> active_jog_knowledge.ksm
+[2026-05-19 08:06:13.601] [JOG] Started continuous jog: Cart Y ↑
+[2026-05-19 08:06:16.066] [WARNING] Pendant disconnected
+[2026-05-19 08:06:18.500] [JOG] Stopped continuous jog
+[2026-05-19 08:06:18.596] [DEBUG] Jog knowledge build started: cart_y request=483 (suppressed 1 similar messages)
+[2026-05-19 08:06:18.880] [WARNING] Control loop overrun: 6.1 ms behind
+[2026-05-19 08:06:21.440] [INFO] Jog knowledge ready: 1452 samples, 6/6 axes, 12/12 buttons [cart_y-] -> active_jog_knowledge.ksm
+[2026-05-19 08:06:23.407] [JOG] Started continuous jog: Cart Rx ↓
+[2026-05-19 08:06:24.055] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz) (suppressed 1 similar messages)
+[2026-05-19 08:06:24.267] [JOG] Stopped continuous jog
+[2026-05-19 08:06:25.384] [JOG] Started continuous jog: Cart Rx ↑
+[2026-05-19 08:06:26.103] [WARNING] Control loop overrun: 7.5 ms behind
+[2026-05-19 08:06:26.507] [WARNING] Pendant disconnected
+[2026-05-19 08:06:26.586] [JOG] Stopped continuous jog
+[2026-05-19 08:06:26.711] [DEBUG] Jog knowledge build cancelled: cart_rx request=500
+[2026-05-19 08:06:29.097] [INFO] Jog knowledge ready: 1452 samples, 6/6 axes, 12/12 buttons [cart_rx+] -> active_jog_knowledge.ksm
+[2026-05-19 08:06:32.743] [JOG] Started continuous jog: Cart Rz ↑
+[2026-05-19 08:06:34.068] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz)
+[2026-05-19 08:06:35.015] [JOG] Stopped continuous jog
+[2026-05-19 08:06:35.096] [DEBUG] Jog knowledge build started: cart_rz request=568 (suppressed 2 similar messages)
+[2026-05-19 08:06:35.185] [WARNING] Control loop overrun: 11.3 ms behind
+[2026-05-19 08:06:36.302] [JOG] Started continuous jog: Cart Ry ↑
+[2026-05-19 08:06:36.980] [WARNING] Pendant disconnected
+[2026-05-19 08:06:37.607] [JOG] Stopped continuous jog
+[2026-05-19 08:06:37.648] [DEBUG] Jog knowledge build cancelled: cart_rz request=568
+[2026-05-19 08:06:38.555] [JOG] Started continuous jog: Cart Ry ↓
+[2026-05-19 08:06:41.547] [JOG] Stopped continuous jog
+[2026-05-19 08:06:41.842] [WARNING] Control loop overrun: 8.8 ms behind
+[2026-05-19 08:06:43.806] [JOG] Started continuous jog: Cart Ry ↑
+[2026-05-19 08:06:44.611] [JOG] Stopped continuous jog
+[2026-05-19 08:06:45.781] [JOG] Started continuous jog: Cart Ry ↓
+[2026-05-19 08:06:46.466] [JOG] Stopped continuous jog
+[2026-05-19 08:06:46.602] [DEBUG] Jog knowledge build started: cart_ry request=663 (suppressed 3 similar messages)
+[2026-05-19 08:06:46.958] [WARNING] Control loop overrun: 5.3 ms behind
+[2026-05-19 08:06:47.324] [JOG] Started continuous jog: Cart Rx ↑
+[2026-05-19 08:06:47.430] [WARNING] Pendant disconnected
+[2026-05-19 08:06:48.624] [JOG] Stopped continuous jog
+[2026-05-19 08:06:48.697] [DEBUG] Jog knowledge build cancelled: cart_ry request=663 (suppressed 1 similar messages)
+[2026-05-19 08:06:49.684] [JOG] Started continuous jog: Cart Rx ↓
+[2026-05-19 08:06:52.766] [JOG] Stopped continuous jog
+[2026-05-19 08:06:52.928] [WARNING] Control loop overrun: 5.3 ms behind
+[2026-05-19 08:06:54.106] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz) (suppressed 1 similar messages)
+[2026-05-19 08:06:55.296] [INFO] Jog knowledge ready: 1452 samples, 6/6 axes, 12/12 buttons [cart_rx+] -> active_jog_knowledge.ksm
+[2026-05-19 08:06:55.587] [JOG] Started continuous jog: Cart Rx ↓
+[2026-05-19 08:06:56.169] [JOG] Stopped continuous jog
+[2026-05-19 08:06:56.964] [JOG] Started continuous jog: Cart Rx ↑
+[2026-05-19 08:06:57.831] [WARNING] Pendant disconnected
+[2026-05-19 08:06:58.080] [WARNING] Control loop overrun: 5.9 ms behind
+[2026-05-19 08:07:00.427] [JOG] Stopped continuous jog
+[2026-05-19 08:07:00.541] [DEBUG] Jog knowledge build started: cart_rx request=821 (suppressed 3 similar messages)
+[2026-05-19 08:07:03.071] [INFO] Jog knowledge ready: 1452 samples, 6/6 axes, 12/12 buttons [cart_rx+] -> active_jog_knowledge.ksm
+[2026-05-19 08:07:03.977] [SUCCESS] New home position set
+[2026-05-19 08:07:03.977] [JOG] Home: X=300.0, Y=-364.0, Z=1324.9
+[2026-05-19 08:07:08.264] [WARNING] Pendant disconnected
+[2026-05-19 08:07:09.711] [WARNING] Control loop overrun: 10.9 ms behind
+[2026-05-19 08:07:14.055] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz) (suppressed 1 similar messages)
+[2026-05-19 08:07:18.646] [WARNING] Pendant disconnected
+[2026-05-19 08:07:21.549] [PROGRAM] Program 'full_demo' loaded with 11 positions
+[2026-05-19 08:07:29.054] [WARNING] Pendant disconnected
+[2026-05-19 08:07:33.820] [ERROR] ✖ J4 near limit: 17 frames (5.4%) within 10.0° of ±180.0° (worst: -189.5° at frame 315)
+[2026-05-19 08:07:33.840] [JOG] P2P to trajectory start position…
+[2026-05-19 08:07:33.841] [JOG] P2P → max Δ=403.5°, v=50.0°/s, t=8.07s, 202 frames
+[2026-05-19 08:07:33.846] [WARNING] Control loop overrun: 8.8 ms behind
+[2026-05-19 08:07:34.067] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz) (suppressed 1 similar messages)
+[2026-05-19 08:07:39.444] [WARNING] Pendant disconnected
+[2026-05-19 08:07:41.928] [SUCCESS] P2P complete
+[2026-05-19 08:07:41.928] [PROGRAM] Playing program: curve trial_joint_angles.ksm
+[2026-05-19 08:07:49.827] [WARNING] Pendant disconnected
+[2026-05-19 08:07:54.060] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz) (suppressed 1 similar messages)
+[2026-05-19 08:07:57.261] [SUCCESS] Trajectory playback finished
+[2026-05-19 08:08:00.209] [WARNING] Pendant disconnected
+[2026-05-19 08:08:07.541] [PROGRAM] New empty program created
+[2026-05-19 08:08:10.565] [WARNING] Pendant disconnected
+[2026-05-19 08:08:12.956] [JOG] Started continuous jog: Cart Y ↑
+[2026-05-19 08:08:13.544] [JOG] Stopped continuous jog
+[2026-05-19 08:08:13.641] [DEBUG] Jog knowledge build started: cart_y request=831
+[2026-05-19 08:08:13.838] [WARNING] Control loop overrun: 6.5 ms behind
+[2026-05-19 08:08:14.062] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz) (suppressed 1 similar messages)
+[2026-05-19 08:08:16.044] [INFO] Jog knowledge ready: 1452 samples, 6/6 axes, 12/12 buttons [cart_y+] -> active_jog_knowledge.ksm
+[2026-05-19 08:08:19.786] [JOG] Started continuous jog: Cart Ry ↑
+[2026-05-19 08:08:20.999] [WARNING] Pendant disconnected
+[2026-05-19 08:08:22.523] [JOG] Stopped continuous jog
+[2026-05-19 08:08:22.748] [WARNING] Control loop overrun: 6.4 ms behind
+[2026-05-19 08:08:24.111] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz)
+[2026-05-19 08:08:25.105] [INFO] Jog knowledge ready: 1452 samples, 6/6 axes, 12/12 buttons [cart_ry-] -> active_jog_knowledge.ksm
+[2026-05-19 08:08:26.118] [JOG] Started continuous jog: Cart Ry ↓
+[2026-05-19 08:08:26.861] [JOG] Stopped continuous jog
+[2026-05-19 08:08:26.964] [DEBUG] Jog knowledge build started: cart_ry request=909 (suppressed 1 similar messages)
+[2026-05-19 08:08:28.580] [WARNING] Control loop overrun: 8.8 ms behind
+[2026-05-19 08:08:29.052] [JOG] Started continuous jog: Cart Z ↓
+[2026-05-19 08:08:31.425] [WARNING] Pendant disconnected
+[2026-05-19 08:08:31.779] [JOG] Stopped continuous jog
+[2026-05-19 08:08:34.076] [WARNING] Control loop overrun: 13.1 ms behind
+[2026-05-19 08:08:34.430] [INFO] Jog knowledge ready: 1452 samples, 6/6 axes, 12/12 buttons [cart_z-] -> active_jog_knowledge.ksm
+[2026-05-19 08:08:34.732] [JOG] Started continuous jog: Cart Y ↓
+[2026-05-19 08:08:35.572] [JOG] Stopped continuous jog
+[2026-05-19 08:08:36.197] [JOG] Started continuous jog: Cart Z ↓
+[2026-05-19 08:08:40.472] [JOG] Stopped continuous jog
+[2026-05-19 08:08:40.568] [DEBUG] Jog knowledge build started: cart_z request=1075 (suppressed 2 similar messages)
+[2026-05-19 08:08:40.697] [WARNING] Control loop overrun: 5.9 ms behind
+[2026-05-19 08:08:41.864] [WARNING] Pendant disconnected
+[2026-05-19 08:08:42.050] [JOG] Started continuous jog: Cart Y ↑
+[2026-05-19 08:08:44.053] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz) (suppressed 1 similar messages)
+[2026-05-19 08:08:45.989] [JOG] Stopped continuous jog
+[2026-05-19 08:08:46.267] [WARNING] Control loop overrun: 6.3 ms behind
+[2026-05-19 08:08:48.598] [INFO] Jog knowledge ready: 1452 samples, 6/6 axes, 12/12 buttons [cart_y+] -> active_jog_knowledge.ksm
+[2026-05-19 08:08:52.271] [WARNING] Pendant disconnected
+[2026-05-19 08:08:54.054] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz)
+[2026-05-19 08:09:02.648] [WARNING] Pendant disconnected
+[2026-05-19 08:09:05.383] [PROGRAM] Position 1 captured: X:556.7, Y:672.6, Z:788.7 (Motion: LINEAR)
+[2026-05-19 08:09:13.014] [WARNING] Pendant disconnected
+[2026-05-19 08:09:14.053] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz) (suppressed 1 similar messages)
+[2026-05-19 08:09:23.405] [WARNING] Pendant disconnected
+[2026-05-19 08:09:28.043] [JOG] Started continuous jog: Cart Y ↓
+[2026-05-19 08:09:32.198] [JOG] Stopped continuous jog
+[2026-05-19 08:09:32.292] [DEBUG] Jog knowledge build started: cart_y request=1261 (suppressed 1 similar messages)
+[2026-05-19 08:09:32.467] [WARNING] Control loop overrun: 7.0 ms behind
+[2026-05-19 08:09:33.339] [JOG] Started continuous jog: Cart X ↑
+[2026-05-19 08:09:33.873] [WARNING] Pendant disconnected
+[2026-05-19 08:09:34.090] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz) (suppressed 1 similar messages)
+[2026-05-19 08:09:37.599] [JOG] Stopped continuous jog
+[2026-05-19 08:09:38.005] [WARNING] Control loop overrun: 22.4 ms behind
+[2026-05-19 08:09:40.289] [INFO] Jog knowledge ready: 1452 samples, 6/6 axes, 12/12 buttons [cart_x-] -> active_jog_knowledge.ksm
+[2026-05-19 08:09:43.507] [PROGRAM] Position 2 captured: X:783.7, Y:411.2, Z:788.7 (Motion: LINEAR)
+[2026-05-19 08:09:44.239] [WARNING] Pendant disconnected
+[2026-05-19 08:09:54.052] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz) (suppressed 1 similar messages)
+[2026-05-19 08:09:54.620] [WARNING] Pendant disconnected
+[2026-05-19 08:10:03.408] [JOG] Started continuous jog: Cart X ↑
+[2026-05-19 08:10:04.059] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz)
+[2026-05-19 08:10:05.014] [WARNING] Pendant disconnected
+[2026-05-19 08:10:05.015] [JOG] Stopped continuous jog
+[2026-05-19 08:10:05.088] [DEBUG] Jog knowledge build started: cart_x request=1382 (suppressed 1 similar messages)
+[2026-05-19 08:10:05.214] [WARNING] Control loop overrun: 14.4 ms behind
+[2026-05-19 08:10:07.148] [PROGRAM] Position 3 captured: X:876.1, Y:411.2, Z:788.7 (Motion: LINEAR)
+[2026-05-19 08:10:07.464] [INFO] Jog knowledge ready: 1452 samples, 6/6 axes, 12/12 buttons [cart_x-] -> active_jog_knowledge.ksm
+[2026-05-19 08:10:15.403] [WARNING] Pendant disconnected
+[2026-05-19 08:10:17.599] [JOG] Started continuous jog: Cart Y ↓
+[2026-05-19 08:10:20.455] [JOG] Stopped continuous jog
+[2026-05-19 08:10:20.561] [DEBUG] Jog knowledge build started: cart_y request=1449
+[2026-05-19 08:10:20.767] [WARNING] Control loop overrun: 8.0 ms behind
+[2026-05-19 08:10:22.926] [INFO] Jog knowledge ready: 1452 samples, 6/6 axes, 12/12 buttons [cart_y+] -> active_jog_knowledge.ksm
+[2026-05-19 08:10:22.942] [JOG] Motion type changed to CURVE
+[2026-05-19 08:10:24.052] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz) (suppressed 1 similar messages)
+[2026-05-19 08:10:24.590] [PROGRAM] Position 4 captured: X:876.1, Y:234.3, Z:788.7 (Motion: CURVE)
+[2026-05-19 08:10:25.867] [WARNING] Pendant disconnected
+[2026-05-19 08:10:31.751] [JOG] Started continuous jog: Cart Y ↓
+[2026-05-19 08:10:34.053] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz)
+[2026-05-19 08:10:35.786] [JOG] Stopped continuous jog
+[2026-05-19 08:10:35.880] [DEBUG] Jog knowledge build started: cart_y request=1545
+[2026-05-19 08:10:35.907] [WARNING] Control loop overrun: 16.9 ms behind
+[2026-05-19 08:10:36.255] [WARNING] Pendant disconnected
+[2026-05-19 08:10:36.978] [JOG] Started continuous jog: Cart X ↓
+[2026-05-19 08:10:41.395] [JOG] Stopped continuous jog
+[2026-05-19 08:10:42.228] [WARNING] Control loop overrun: 9.1 ms behind
+[2026-05-19 08:10:43.831] [INFO] Jog knowledge ready: 1452 samples, 6/6 axes, 12/12 buttons [cart_x-] -> active_jog_knowledge.ksm
+[2026-05-19 08:10:44.122] [PROGRAM] Position 5 captured: X:704.5, Y:-19.1, Z:788.7 (Motion: CURVE)
+[2026-05-19 08:10:46.705] [WARNING] Pendant disconnected
+[2026-05-19 08:10:50.484] [JOG] Started continuous jog: Cart Y ↓
+[2026-05-19 08:10:53.686] [JOG] Stopped continuous jog
+[2026-05-19 08:10:53.763] [DEBUG] Jog knowledge build started: cart_y request=1685 (suppressed 2 similar messages)
+[2026-05-19 08:10:53.920] [WARNING] Control loop overrun: 11.5 ms behind
+[2026-05-19 08:10:54.065] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz) (suppressed 1 similar messages)
+[2026-05-19 08:10:54.747] [JOG] Started continuous jog: Cart X ↑
+[2026-05-19 08:10:57.075] [WARNING] Pendant disconnected
+[2026-05-19 08:10:57.777] [JOG] Stopped continuous jog
+[2026-05-19 08:10:59.950] [WARNING] Control loop overrun: 11.8 ms behind
+[2026-05-19 08:11:00.495] [INFO] Jog knowledge ready: 1452 samples, 6/6 axes, 12/12 buttons [cart_x-] -> active_jog_knowledge.ksm
+[2026-05-19 08:11:00.499] [PROGRAM] Position 6 captured: X:844.4, Y:-217.1, Z:788.7 (Motion: CURVE)
+[2026-05-19 08:11:04.742] [JOG] Started continuous jog: Cart X ↑
+[2026-05-19 08:11:06.064] [JOG] Stopped continuous jog
+[2026-05-19 08:11:06.137] [DEBUG] Jog knowledge build started: cart_x request=1766 (suppressed 1 similar messages)
+[2026-05-19 08:11:06.279] [WARNING] Control loop overrun: 10.5 ms behind
+[2026-05-19 08:11:07.487] [WARNING] Pendant disconnected
+[2026-05-19 08:11:08.042] [JOG] Started continuous jog: Cart X ↑
+[2026-05-19 08:11:08.859] [JOG] Stopped continuous jog
+[2026-05-19 08:11:09.946] [JOG] Started continuous jog: Cart Y ↑
+[2026-05-19 08:11:11.457] [WARNING] Control loop overrun: 5.1 ms behind
+[2026-05-19 08:11:12.352] [JOG] Stopped continuous jog
+[2026-05-19 08:11:12.475] [DEBUG] Jog knowledge build cancelled: cart_y request=1801
+[2026-05-19 08:11:14.057] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz) (suppressed 1 similar messages)
+[2026-05-19 08:11:14.186] [JOG] Started continuous jog: Cart X ↑
+[2026-05-19 08:11:15.058] [JOG] Stopped continuous jog
+[2026-05-19 08:11:16.412] [JOG] Started continuous jog: Cart Y ↑
+[2026-05-19 08:11:16.927] [JOG] Stopped continuous jog
+[2026-05-19 08:11:17.036] [DEBUG] Jog knowledge build started: cart_y request=1839 (suppressed 4 similar messages)
+[2026-05-19 08:11:17.467] [WARNING] Control loop overrun: 9.1 ms behind
+[2026-05-19 08:11:17.991] [WARNING] Pendant disconnected
+[2026-05-19 08:11:18.060] [JOG] Started continuous jog: Cart Y ↓
+[2026-05-19 08:11:18.434] [JOG] Stopped continuous jog
+[2026-05-19 08:11:20.621] [PROGRAM] Position 7 captured: X:987.0, Y:-100.9, Z:788.7 (Motion: CURVE)
+[2026-05-19 08:11:20.926] [INFO] Jog knowledge ready: 1452 samples, 6/6 axes, 12/12 buttons [cart_y-] -> active_jog_knowledge.ksm
+[2026-05-19 08:11:26.073] [JOG] Started continuous jog: Cart Y ↑
+[2026-05-19 08:11:27.806] [JOG] Stopped continuous jog
+[2026-05-19 08:11:27.911] [DEBUG] Jog knowledge build started: cart_y request=1881 (suppressed 1 similar messages)
+[2026-05-19 08:11:28.005] [WARNING] Control loop overrun: 6.5 ms behind
+[2026-05-19 08:11:28.425] [WARNING] Pendant disconnected
+[2026-05-19 08:11:29.013] [JOG] Started continuous jog: Cart X ↓
+[2026-05-19 08:11:30.647] [JOG] Stopped continuous jog
+[2026-05-19 08:11:30.688] [DEBUG] Jog knowledge build cancelled: cart_x request=1901 (suppressed 2 similar messages)
+[2026-05-19 08:11:33.163] [WARNING] Control loop overrun: 7.2 ms behind
+[2026-05-19 08:11:33.166] [INFO] Jog knowledge ready: 1452 samples, 6/6 axes, 12/12 buttons [cart_x-] -> active_jog_knowledge.ksm
+[2026-05-19 08:11:34.051] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz) (suppressed 1 similar messages)
+[2026-05-19 08:11:34.626] [JOG] Started continuous jog: Cart X ↓
+[2026-05-19 08:11:35.475] [JOG] Stopped continuous jog
+[2026-05-19 08:11:37.625] [PROGRAM] Position 8 captured: X:878.8, Y:2.0, Z:788.7 (Motion: CURVE)
+[2026-05-19 08:11:37.977] [INFO] Jog knowledge ready: 1452 samples, 6/6 axes, 12/12 buttons [cart_x-] -> active_jog_knowledge.ksm
+[2026-05-19 08:11:38.924] [WARNING] Pendant disconnected
+[2026-05-19 08:11:45.117] [PROGRAM] Program 'test more' saved with 8 positions
+[2026-05-19 08:11:48.026] [PROGRAM] Starting path generation for 8 waypoints
+[2026-05-19 08:11:48.634] [SUCCESS] Path generated: 8 waypoints → 307 servo points
+[2026-05-19 08:11:48.770] [WARNING] Control loop overrun: 8.6 ms behind
+[2026-05-19 08:11:49.307] [WARNING] Pendant disconnected
+[2026-05-19 08:11:52.353] [JOG] Moving to Home position (P2P)
+[2026-05-19 08:11:52.354] [JOG] Unwinding wrist rotations before homing...
+[2026-05-19 08:11:52.354] [JOG] P2P → max Δ=142.0°, v=66.0°/s, t=2.15s, 54 frames
+[2026-05-19 08:11:54.059] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz) (suppressed 1 similar messages)
+[2026-05-19 08:11:54.520] [SUCCESS] P2P complete
+[2026-05-19 08:11:54.521] [JOG] P2P → max Δ=56.7°, v=66.0°/s, t=0.86s, 22 frames
+[2026-05-19 08:11:55.417] [SUCCESS] P2P complete
+[2026-05-19 08:11:59.689] [WARNING] Pendant disconnected
+[2026-05-19 08:12:01.071] [ERROR] ✖ J4 near limit: 307 frames (100.0%) within 10.0° of ±180.0° (worst: -198.0° at frame 1)
+[2026-05-19 08:12:01.087] [JOG] P2P to trajectory start position…
+[2026-05-19 08:12:01.087] [JOG] P2P → max Δ=190.7°, v=66.0°/s, t=2.89s, 73 frames
+[2026-05-19 08:12:04.013] [SUCCESS] P2P complete
+[2026-05-19 08:12:04.014] [PROGRAM] Dry run: test more_joint_angles.ksm
+[2026-05-19 08:12:04.061] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz)
+[2026-05-19 08:12:10.095] [WARNING] Pendant disconnected
+[2026-05-19 08:12:20.176] [SUCCESS] Trajectory playback finished
+[2026-05-19 08:12:20.520] [WARNING] Pendant disconnected
+[2026-05-19 08:12:24.050] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz) (suppressed 1 similar messages)
+[2026-05-19 08:12:30.927] [WARNING] Pendant disconnected
+[2026-05-19 08:12:41.288] [WARNING] Pendant disconnected
+[2026-05-19 08:12:44.049] [DEBUG] Control loop: 100.0 Hz (target: 100 Hz) (suppressed 1 similar messages)
