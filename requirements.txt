@@ -4,3 +4,4 @@ scipy
 pyqtgraph
 pyserial
 PyOpenGL
+minimalmodbus
